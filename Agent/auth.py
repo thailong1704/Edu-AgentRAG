@@ -1,17 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-auth.py — Phiên đăng nhập WEB (ai đang dùng app của bạn), tách bạch với phiên LMS.
 
-Phân biệt 2 loại "phiên" trong hệ này:
-  - Phiên WEB (file này): token <-> mssv. Xác định NGƯỜI DÙNG đang đăng nhập app.
-  - Phiên LMS (web_download.py): cookie MoodleSession để TẢI file từ LMS.
-
-get_mssv() là FastAPI dependency dùng chung cho /chat, /download... để lấy mssv của
-người đang đăng nhập TỪ COOKIE (không nhận mssv qua URL/body -> tránh giả mạo/IDOR).
-
-Lưu RAM cho gọn; chạy nhiều tiến trình thì thay _web_sessions bằng Redis.
-"""
 import secrets
 
 from fastapi import Cookie, HTTPException

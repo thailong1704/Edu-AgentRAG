@@ -1,16 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-lms_common.py — Thứ dùng CHUNG giữa agent (lich_agent) và backend (web_download).
 
-Gồm 3 thứ:
-  1) file_id(url)          — định danh 1 file từ URL. Agent dùng để dựng link /download/{fid};
-                             backend dùng để tra ngược fid -> URL. PHẢI cùng một hàm để khớp.
-  2) path_tai_lieu(mssv)   — đường dẫn JSON tài liệu của TỪNG sinh viên: data/{mssv}/...
-  3) mssv_hien_tai         — ContextVar giữ mssv của người ĐANG đăng nhập trong lượt xử lý.
-                             Lớp web set nó (từ phiên auth) TRƯỚC khi gọi team; các tool đọc
-                             nó để lấy đúng dữ liệu của người đó — KHÔNG để LLM tự điền mssv.
-"""
 import hashlib
 import json
 import os
@@ -19,9 +7,7 @@ from pathlib import Path
 
 DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
 
-# Rỗng nghĩa là chưa có ngữ cảnh người dùng (vd chạy terminal 1 người) -> fallback file env.
-# LƯU Ý: biến này giữ KHÓA ĐĂNG NHẬP (tên đăng nhập) — cũng là tên thư mục data/{khoa}/.
-# Neo4j lại khóa theo MSSV thật; đổi khoa -> mssv bằng doc_mssv() bên dưới.
+
 mssv_hien_tai: ContextVar[str] = ContextVar("mssv_hien_tai", default="")
 
 

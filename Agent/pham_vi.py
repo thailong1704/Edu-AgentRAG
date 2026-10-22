@@ -1,21 +1,4 @@
-# -*- coding: utf-8 -*-
-"""pham_vi.py — Cổng PHẠM VI & ĐĂNG NHẬP (LLM-FIRST).
 
-Chạy TRƯỚC khi gọi model/team trong main.py, để:
-  1. Chặn câu NGOÀI PHẠM VI học vụ (đời tư, xã giao, kiến thức chung) — mọi trạng thái.
-  2. Chặn câu CÁ NHÂN khi CHƯA đăng nhập (GPA/điểm/lịch/kế hoạch cải thiện... của họ).
-
-KIẾN TRÚC: LLM (gpt-4o-mini) QUYẾT CHÍNH. Keyword chỉ còn HAI fast-path cho ca HIỂN NHIÊN,
-vừa tiết kiệm token vừa làm FAIL-SAFE khi LLM lỗi:
-  A. Off-topic rõ (thời tiết/kể chuyện/đời tư...) -> chặn ngay.
-  B. Guest + cá-nhân-có-sở-hữu rõ ('GPA của tôi', 'lịch thi của em') -> chặn ngay.
-MỌI ranh giới tinh (lịch học vụ vs lịch cá nhân, 'cách tính GPA' vs 'kế hoạch cải thiện GPA
-lên 3.0', số mục tiêu vs số tự-nêu) -> GIAO CHO LLM, không dùng keyword/regex (chính chúng
-từng gây chặn nhầm / lọt nhầm).
-
-Triết lý an toàn: LLM lỗi/timeout -> FAIL-SAFE cho đi tiếp (thà lọt còn hơn chặn oan); ca
-cá-nhân-rõ vẫn được fast-path B bắt kể cả khi LLM chết.
-"""
 import re
 import unicodedata
 

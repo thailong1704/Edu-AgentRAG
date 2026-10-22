@@ -1,18 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-web_download.py — Tải tài liệu LMS ON-DEMAND qua web (hướng B).
 
-Ý tưởng:
-  - Agent CHỈ trả về LINK tải (vd '/download/ab12cd34'), KHÔNG nhét bytes vào câu trả lời.
-  - Backend giữ PHIÊN LMS (cookie MoodleSession) của từng sinh viên, và khi người dùng
-    bấm link thì dùng phiên đó tải file từ LMS rồi STREAM về trình duyệt.
-
-Vì sao phải có phiên: URL pluginfile.php của Moodle cần cookie đăng nhập mới tải được;
-gọi thẳng sẽ bị đá về trang login. Nên mỗi mssv cần 1 requests.Session đã auth.
-
-CHỖ DUY NHẤT phụ thuộc cách login của web là hàm dang_nhap_lms() — xem chú thích (*).
-"""
 import json
 import os
 import re
@@ -33,9 +19,7 @@ LMS_LOGIN_URL = ("https://sso.hcmut.edu.vn/cas/login?service="
                  "https%3A%2F%2Flms.hcmut.edu.vn%2Flogin%2Findex.php%3FauthCAS%3DCAS")
 
 
-# ============================================================================
-#  KHO PHIÊN LMS theo mssv  (để RAM; chạy nhiều tiến trình thì thay bằng Redis)
-# ============================================================================
+
 _sessions: dict = {}                 # mssv -> (requests.Session, thoi_diem_luu)
 _lock = threading.Lock()
 
@@ -59,9 +43,7 @@ def lay_phien(mssv: str):
     return sess
 
 
-# ============================================================================
-#  (*) ĐĂNG NHẬP LMS phía server
-# ============================================================================
+
 def _field_an(html: str) -> dict:
     """Bóc TẤT CẢ <input type=hidden> (name -> value). CAS trường có lt, execution,
     _eventId — gom hết rồi gửi lại thì bền, không vỡ khi trường đổi giao diện."""
@@ -110,9 +92,7 @@ def dang_nhap_lms(mssv: str, password: str) -> requests.Session:
     return s
 
 
-# ============================================================================
-#  ĐỌC DANH MỤC TÀI LIỆU + ĐỊNH DANH FILE
-# ============================================================================
+
 def _doc_tai_lieu(mssv: str) -> list:
     try:
         return json.load(open(path_tai_lieu(mssv), encoding="utf-8"))
@@ -120,9 +100,7 @@ def _doc_tai_lieu(mssv: str) -> list:
         return []
 
 
-# ============================================================================
-#  ROUTER  (main.py gắn vào app chính bằng app.include_router)
-# ============================================================================
+
 router = APIRouter()
 
 

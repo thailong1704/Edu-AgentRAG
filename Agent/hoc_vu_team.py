@@ -1,26 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-hoc_vu_team.py — Team học vụ: 1 coordinator điều phối 3 agent chuyên trách.
 
-    Team (coordinator)
-    ├── RAG Agent      (agno_agent.py)  — tra cứu CTĐT / học phí / lịch học vụ / quy định
-    ├── GPA Advisor    (gpa_agent.py)   — phân tích bảng điểm, tư vấn cải thiện GPA
-    └── Lich va LMS    (lich_agent.py)  — lịch học/thi, tài liệu & deadline LMS (đọc JSON)
-
-Vì sao chia như vậy:
-  - RAG agent trả lời từ TÀI LIỆU chung của trường (ai hỏi cũng như nhau) — Qdrant.
-  - GPA agent tính trên BẢNG ĐIỂM CÁ NHÂN (mỗi sinh viên một khác) — Neo4j.
-  - Lich/LMS agent đọc LỊCH + TÀI LIỆU LMS đã crawl (JSON) — dữ liệu theo tuần/cá nhân.
-  Ba loại dữ liệu khác nguồn -> tách agent, coordinator quyết định gọi ai.
-
-Câu hỏi cần NHIỀU agent thì coordinator gọi lần lượt rồi tổng hợp. Ví dụ:
-  "Học lại 3 môn này tốn bao nhiêu tiền?"
-     -> RAG agent: tra học phí mỗi tín chỉ hiện hành
-     -> GPA agent: nhân với số tín chỉ các môn đó
-
-Chạy:  python hoc_vu_team.py
-"""
 import os
 import uuid
 

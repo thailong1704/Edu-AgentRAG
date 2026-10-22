@@ -16,9 +16,9 @@ from lms_common import mssv_hien_tai, doc_mssv, doc_ctxh
 load_dotenv()
 
 GPA_MODEL = os.getenv("GPA_MODEL", "gpt-5.5")
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASS = os.getenv("NEO4J_PASS", "12345678")
+NEO4J_URI = os.getenv("NEO4J_URI", )
+NEO4J_USER = os.getenv("NEO4J_USER", )
+NEO4J_PASS = os.getenv("NEO4J_PASS", )
 
 DIEM_CHU_MAP = {"A+": 4.0, "A": 4.0, "B+": 3.5, "B": 3.0,
                 "C+": 2.5, "C": 2.0, "D+": 1.5, "D": 1.0, "F": 0.0}
