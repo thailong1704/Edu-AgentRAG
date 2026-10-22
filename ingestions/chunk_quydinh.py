@@ -1,17 +1,3 @@
-"""
-RAG Chunking Pipeline
-======================
-
-PDF -> Layout Parser -> Header/Footer Cleaner -> Document Structure Parser
-    -> Hierarchy Builder -> Semantic Splitter -> Metadata Builder -> Chunk
-
-Mỗi bước trong sơ đồ là một class riêng, có input/output rõ ràng, có thể
-thay thế/độ chỉnh độc lập mà không ảnh hưởng các bước khác.
-
-Cách dùng:
-    python rag_chunking_pipeline.py /path/to/file.pdf
-    python rag_chunking_pipeline.py /path/to/folder/
-"""
 
 import re
 import json
@@ -69,16 +55,6 @@ class Chunk:
     chunk_id: str
     text: str
     metadata: dict
-
-
-# =============================================================================
-# BƯỚC 0 (tuỳ chọn): DOCLING TABLE EXTRACTOR
-# Docling dùng model TableFormer để nhận diện cấu trúc bảng chính xác hơn nhiều
-# so với việc trích text thô bằng pdfplumber. Ở đây ta CHỈ dùng Docling để lấy
-# BẢNG (kèm vị trí trang + bbox + Markdown), phần văn bản thường vẫn do
-# pdfplumber xử lý (hybrid). Nếu máy chưa cài Docling -> tự động bỏ qua, pipeline
-# chạy y như cũ (fallback an toàn).
-# =============================================================================
 
 @dataclass
 class ExtractedTable:
@@ -160,10 +136,6 @@ class DoclingTableExtractor:
             return -1, 0.0, 0.0
 
 
-# =============================================================================
-# BƯỚC 1: LAYOUT PARSER
-# Trích xuất text theo trang, giữ nguyên thứ tự dòng để bước sau xử lý cấu trúc.
-# =============================================================================
 
 class LayoutParser:
     """
@@ -246,13 +218,7 @@ class LayoutParser:
         return rows
 
 
-# =============================================================================
-# BƯỚC 2: HEADER/FOOTER CLEANER
-# Loại bỏ 2 loại nhiễu:
-#   (a) Running header/footer: dòng lặp lại y hệt trên nhiều trang
-#       (VD "Trường ĐH Bách Khoa" xuất hiện ở đầu mọi trang)
-#   (b) Admin footer: khối "Nơi nhận / Chữ ký / Chức danh" ở cuối văn bản
-# =============================================================================
+
 
 class HeaderFooterCleaner:
     ADMIN_FOOTER_MARKERS = [
@@ -262,20 +228,7 @@ class HeaderFooterCleaner:
         re.compile(r"^(Đại diện|Người lập|Người ký)\b", re.IGNORECASE),
     ]
 
-    # ------------------------------------------------------------------
-    # LETTERHEAD (phần đầu văn bản hành chính VN): quốc hiệu, tiêu ngữ,
-    # số hiệu văn bản, dòng địa danh-ngày tháng. Các dòng này chỉ xuất hiện
-    # 1 lần ở trang 1 nên bộ lọc tần suất (running header) KHÔNG bắt được.
-    # Lưu ý thực tế đã gặp:
-    #   - LayoutParser gộp dòng theo toạ độ 'top' -> tên cơ quan (cột trái)
-    #     dính chung dòng với quốc hiệu (cột phải).
-    #   - Docling có thể nhận CẢ khối letterhead thành 1 BẢNG Markdown, chữ
-    #     bị dính liền ("CỘNGHÒAXÃHỘI", "BÁCHKHOA") -> phải quét cả dòng bảng
-    #     và cho phép \s* (0 khoảng trắng) giữa các âm tiết.
-    #   - Chính tả 2 kiểu: "HOÀ" / "HÒA" -> dùng H[OÒ][ÀA].
-    #   - PDF có thể trả text ở dạng Unicode tổ hợp (NFD) -> chuẩn hoá NFC
-    #     trước khi so khớp (làm ngay đầu clean() cho toàn pipeline).
-    # ------------------------------------------------------------------
+    
     LETTERHEAD_MARKERS = [
         re.compile(r"C\s*Ộ\s*N\s*G\s*H\s*[OÒ]\s*[ÀA]\s*X\s*Ã\s*H\s*Ộ\s*I", re.IGNORECASE),
         re.compile(r"Độc\s*lập\s*[-–—]\s*Tự\s*do\s*[-–—]\s*Hạnh\s*phúc", re.IGNORECASE),
@@ -287,10 +240,7 @@ class HeaderFooterCleaner:
     ]
     LETTERHEAD_SCAN_LINES = 8  # chỉ quét trong N dòng đầu của trang 1
 
-    # Dòng TÊN CƠ QUAN đứng riêng trong letterhead (VD "TRƯỜNG ĐẠI HỌC BÁCH KHOA",
-    # "ĐẠI HỌC QUỐC GIA"): toàn chữ hoa, bắt đầu bằng từ chỉ đơn vị. Chỉ áp dụng
-    # TRONG cửa sổ letterhead nên không đụng tới các heading nội dung như
-    # "QUYẾT ĐỊNH" hay dòng "HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA".
+   
     ORG_NAME_PREFIX = re.compile(
         r"^(TRƯỜNG|ĐẠI HỌC|HỌC VIỆN|VIỆN|SỞ|BỘ|UBND|ỦY BAN|UỶ BAN|HỘI ĐỒNG|TRUNG TÂM|PHÒNG|KHOA)\b"
     )
@@ -301,19 +251,15 @@ class HeaderFooterCleaner:
                 and len(t) <= 60
                 and not any(ch.islower() for ch in t))
 
-    # Ngày ban hành văn bản: "ngày 10 tháng 09 năm 2021" hoặc dạng chưa điền
-    # "ngày tháng năm 2026" (chỉ bắt được năm).
+   
     DOC_DATE_PATTERN = re.compile(
         r"ngày\s*(\d{1,2})?\s*tháng\s*(\d{1,2})?\s*năm\s*(\d{4})", re.IGNORECASE
     )
 
     def __init__(self, repeat_threshold_ratio: float = 0.4):
-        # 1 dòng bị coi là running header/footer nếu nó lặp lại ở >= tỉ lệ này
-        # trong tổng số trang (chỉ áp dụng khi PDF có nhiều hơn 1 trang).
+       
         self.repeat_threshold_ratio = repeat_threshold_ratio
-        # Ngày văn bản trích được từ letterhead (điền sau mỗi lần clean()):
-        #   doc_date          : "dd/mm/yyyy" hoặc "yyyy" nếu ngày/tháng bị bỏ trống
-        #   doc_date_complete : True nếu có đủ ngày/tháng/năm
+       
         self.doc_date: str | None = None
         self.doc_date_complete: bool = False
 
@@ -364,13 +310,7 @@ class HeaderFooterCleaner:
             self.doc_date = year  # PDF chưa điền ngày/tháng -> chỉ giữ năm
 
     def _remove_letterhead(self, lines: list[Line]) -> list[Line]:
-        """
-        Xoá quốc hiệu/tiêu ngữ/số hiệu/dòng ngày tháng ở ĐẦU trang 1, đồng
-        thời trích ngày ban hành văn bản (nếu có) vào self.doc_date.
-        Chỉ quét LETTERHEAD_SCAN_LINES dòng đầu tiên của trang 1 (TÍNH CẢ
-        dòng bảng — Docling có thể gói letterhead thành bảng) để tránh xoá
-        nhầm nội dung phía sau có hình dạng tương tự.
-        """
+       
         cleaned: list[Line] = []
         scanned = 0
         for l in lines:
@@ -385,13 +325,7 @@ class HeaderFooterCleaner:
         return cleaned
 
     def _line_has_admin_marker(self, line: Line) -> bool:
-        """
-        Kiểm tra 1 dòng có phải mốc bắt đầu khối 'Nơi nhận / chữ ký' không.
-        Với dòng bảng (is_table=True, nội dung là Markdown '| ô1 | ô2 |'):
-        marker nằm BÊN TRONG ô nên regex neo đầu dòng (^) không khớp với cả
-        dòng -> phải tách từng ô ra rồi mới so khớp. Đây chính là lý do khối
-        'Nơi nhận' bị Docling nhận thành bảng đã lọt qua bộ lọc cũ.
-        """
+       
         if not line.is_table:
             return any(p.match(line.text) for p in self.ADMIN_FOOTER_MARKERS)
 
@@ -405,11 +339,7 @@ class HeaderFooterCleaner:
         return False
 
     def _remove_standalone_page_numbers(self, lines: list[Line]) -> list[Line]:
-        """
-        Loại các dòng CHỈ chứa số trang (VD "2", "3", "- 4 -", "Trang 5").
-        Khác với running header/footer (lặp y hệt nhau), số trang mỗi trang
-        MỖI KHÁC nên không thể lọc bằng tần suất — phải lọc bằng hình dạng dòng.
-        """
+      
         page_number_pattern = re.compile(r"^(trang\s*)?[-–—]?\s*\d{1,4}\s*[-–—]?$", re.IGNORECASE)
         return [l for l in lines if l.is_table or not page_number_pattern.match(l.text.strip())]
 
@@ -424,9 +354,7 @@ class HeaderFooterCleaner:
 
         return [l for l in lines if l.is_table or l.text not in repeated_texts]
 
-    # Các heading cấp cao có thể xuất hiện NGAY SAU khối chữ ký (VD Phụ lục sau
-    # phần "Nơi nhận" của Quyết định) — nếu gặp trong cửa sổ quét thì DỪNG lại
-    # ngay, không cắt tiếp, để không xoá nhầm nội dung thật phía sau.
+   
     RESUME_MARKERS = [
         re.compile(r"^PHỤ LỤC\s+\d+\b"),
         re.compile(r"^Chương\s+[IVXLCDM\d]+\b"),
@@ -436,11 +364,7 @@ class HeaderFooterCleaner:
     MAX_FOOTER_WINDOW = 12  # số dòng tối đa coi là "khối chữ ký" (nơi nhận, chức danh, tên)
 
     def _remove_admin_footer(self, lines: list[Line]) -> list[Line]:
-        """
-        Xoá khối 'chữ ký/nơi nhận' nhưng CHỈ trong một cửa sổ giới hạn ngay sau
-        mốc marker — KHÔNG xoá tới hết file, vì nhiều văn bản (VD Quyết định)
-        còn Phụ lục ở phía sau khối chữ ký.
-        """
+       
         start = None
         for i, l in enumerate(lines):
             if self._line_has_admin_marker(l):
@@ -458,11 +382,6 @@ class HeaderFooterCleaner:
         return lines[:start] + lines[end:]
 
 
-# =============================================================================
-# BƯỚC 3: DOCUMENT STRUCTURE PARSER
-# Nhận diện dòng nào là heading, dòng nào là nội dung thường, và gán cấp độ
-# phân cấp (level) cho từng heading dựa trên kiểu pattern.
-# =============================================================================
 
 class DocumentStructureParser:
     # Thứ tự level cố định theo mức độ phổ biến trong văn bản hành chính VN.
@@ -474,9 +393,6 @@ class DocumentStructureParser:
         ("dieu", re.compile(r"^Điều\s+\d+[\.\:].*"), 2),
         ("roman", re.compile(r"^[IVXLCDM]{1,6}\.\s*.+"), 2),
         ("uppercase_letter_section", re.compile(r"^[A-Z]\.\s+\S.*"), 2),
-        # multi_level_num (3.1, 3.2.1 ...) PHẢI kiểm tra TRƯỚC numbered_dot,
-        # vì "^\d{1,2}\." của numbered_dot cũng khớp được phần đầu "3." của
-        # "3.1. ..." nếu kiểm tra trước — làm mất cấp phân cấp con.
         ("multi_level_num", re.compile(r"^\d{1,2}(?:\.\d{1,2}){1,3}\.?\s+.+"), 4),
         ("numbered_dot", re.compile(r"^\d{1,2}\.\s*.+"), 3),
         ("lettered", re.compile(r"^[a-zđ]\)\s*.+"), 5),
@@ -486,13 +402,7 @@ class DocumentStructureParser:
     def __init__(self, min_matches: int = 2):
         self.min_matches = min_matches
 
-    # Mục "a) ..." chỉ được coi là HEADING khi trông giống TIÊU ĐỀ:
-    #   - kết thúc bằng ":" (VD "a) Sửa đổi, bổ sung khoản 25.3 Điều 25:"), hoặc
-    #   - thật sự ngắn (<= 60 ký tự, VD "a) Số lượng") và không kết thúc ";,.".
-    # KHÔNG dùng ngưỡng dài hơn: câu nội dung trong PDF bị NGẮT DÒNG giữa chừng
-    # ("a) Không đang là sinh viên ... đối với trình") dài ~80 ký tự và không có
-    # dấu câu cuối dòng, rất dễ giả dạng heading nếu ngưỡng rộng — coi nó là
-    # heading sẽ làm vỡ khoản thành nhiều chunk nhỏ và breadcrumb nhét nguyên câu.
+   
     LETTERED_HEADING_MAX_LEN = 60
 
     def _is_valid_heading(self, name: str, text: str) -> bool:
@@ -526,7 +436,7 @@ class DocumentStructureParser:
                     )
                     break  # 1 dòng chỉ khớp 1 pattern duy nhất (ưu tiên theo thứ tự PATTERNS)
 
-        # Chỉ giữ lại các pattern có đủ số lần khớp -> coi là "cấu trúc thật"
+        
         valid_matches = []
         for name, matches in candidates.items():
             if len(matches) >= self.min_matches:
@@ -536,10 +446,7 @@ class DocumentStructureParser:
         valid_matches = self._merge_wrapped_headings(valid_matches, lines)
         return valid_matches
 
-    # Dòng được coi là "phần tiếp của tiêu đề bị xuống dòng" nếu KHÔNG bắt đầu
-    # bằng gạch đầu dòng/heading khác, và ký tự đầu tiên là chữ THƯỜNG — vì
-    # trong tiếng Việt, câu nội dung mới luôn bắt đầu bằng chữ HOA, còn phần
-    # tiêu đề bị PDF ngắt dòng giữa chừng thì tiếp tục bằng chữ thường.
+
     _BODY_START = re.compile(r"^\s*[-+•]")
 
     def _merge_wrapped_headings(self, matches: list[HeadingMatch], lines: list[Line]) -> list[HeadingMatch]:
@@ -564,11 +471,7 @@ class DocumentStructureParser:
         return matches
 
 
-# =============================================================================
-# BƯỚC 4: HIERARCHY BUILDER
-# Từ danh sách heading (phẳng, có level) -> dựng thành cây Section lồng nhau.
-# Nội dung thường giữa 2 heading được gán vào Section gần nhất (leaf hiện tại).
-# =============================================================================
+
 
 class HierarchyBuilder:
     def build(self, lines: list[Line], headings: list[HeadingMatch]) -> list[Section]:
@@ -629,12 +532,7 @@ class HierarchyBuilder:
         return roots
 
 
-# =============================================================================
-# BƯỚC 5: SEMANTIC SPLITTER
-# Duyệt cây Section (chỉ lấy leaf / hoặc section có nội dung), gộp heading +
-# nội dung trực tiếp thành text; nếu quá dài thì cắt tiếp theo câu (có overlap);
-# nếu quá ngắn thì gộp vào section liền kề cùng cha.
-# =============================================================================
+
 
 class SemanticSplitter:
     def __init__(self, min_chars=150, max_chars=2000, overlap_chars=100):
@@ -657,12 +555,7 @@ class SemanticSplitter:
         return final
 
     def _merge_orphan_short(self, leaves: list[dict]) -> list[dict]:
-        """
-        Sau khi _split_long, có thể còn mảnh RẤT ngắn (VD chỉ 1 dòng tiêu đề
-        'a) Đối với Khóa 2023:') đứng NGAY TRƯỚC 1 mảnh bảng cùng section.
-        Gộp mảnh ngắn đó vào mảnh kế tiếp nếu (a) cùng section_path và
-        (b) tổng độ dài vẫn <= max_chars.
-        """
+        
         if not leaves:
             return leaves
         out = []
@@ -732,8 +625,7 @@ class SemanticSplitter:
         if len(text) <= self.max_chars and TABLE_SENTINEL not in text:
             return [leaf]
 
-        # Bước 1: tách text thành các "block" — mỗi bảng (bọc giữa 2 sentinel) là
-        # 1 block NGUYÊN KHỐI; phần text thường giữa các bảng là block riêng.
+       
         raw_blocks = text.split(TABLE_SENTINEL)
         blocks = []  # list[(is_table, content)]
         for k, seg in enumerate(raw_blocks):
@@ -743,15 +635,11 @@ class SemanticSplitter:
             # split() với 2 sentinel bao quanh bảng -> các đoạn index LẺ là bảng
             blocks.append((k % 2 == 1, seg))
 
-        # Bước 2: gom block thành pieces <= max_chars. Bảng KHÔNG bao giờ bị cắt;
-        # nếu 1 bảng tự nó đã > max_chars thì vẫn để nguyên (1 piece riêng), vì
-        # cắt đôi bảng còn tệ hơn là chunk hơi to.
+        
         pieces, buffer = [], ""
         for is_table, content in blocks:
             if is_table:
-                # Câu/tiêu đề đang chờ trong buffer thường là phần GIỚI THIỆU bảng
-                # (VD "a) Đối với Khóa 2023:" ngay trên bảng). Gộp chung với bảng
-                # nếu vừa max_chars -> tránh tạo chunk lẻ chỉ có mỗi dòng tiêu đề.
+                
                 if buffer and len(buffer) + len(content) + 1 <= self.max_chars:
                     pieces.append((buffer + "\n" + content).strip())
                     buffer = ""
@@ -799,10 +687,6 @@ class SemanticSplitter:
         return pieces
 
 
-# =============================================================================
-# BƯỚC 6: METADATA BUILDER
-# Gắn metadata cuối cùng (nguồn file, breadcrumb, số trang, index) -> Chunk.
-# =============================================================================
 
 class MetadataBuilder:
     def build(self, leaves: list[dict], source_file: str, doc_metadata: dict) -> list[Chunk]:
@@ -830,9 +714,7 @@ class MetadataBuilder:
         return chunks
 
 
-# =============================================================================
-# PIPELINE ORCHESTRATOR
-# =============================================================================
+
 
 class ChunkingPipeline:
     def __init__(self, use_docling_tables: bool = True):
@@ -858,11 +740,7 @@ class ChunkingPipeline:
         lines = layout_parser.parse(pdf_path)                            # -> Layout Parser
         lines = self.hf_cleaner.clean(lines)                             # -> Header/Footer Cleaner
 
-        # --- Ngày ban hành văn bản -> metadata ---
-        # Ưu tiên ngày ĐẦY ĐỦ trên letterhead ("ngày 10 tháng 09 năm 2021").
-        # PDF ký số thường bỏ trống ngày/tháng ("ngày tháng năm 2026") -> khi
-        # đó dùng ngày trong metadata của file PDF (CreationDate/ModDate,
-        # thường là ngày ký), cuối cùng mới rơi về năm trích được.
+       
         if "doc_date" not in doc_metadata:
             pdf_date = self._extract_pdf_metadata_date(pdf_path)
             if self.hf_cleaner.doc_date_complete:
@@ -903,9 +781,7 @@ class ChunkingPipeline:
         return None
 
 
-# =============================================================================
-# CLI: XỬ LÝ 1 FILE HOẶC CẢ THƯ MỤC
-# =============================================================================
+
 
 def process_path(input_path: str, output_dir: str = r"C:\Users\ADMIN\Desktop\agent_A\data\KnowledgeGraph\output\chunks\quydinh"):
     input_path = Path(input_path)

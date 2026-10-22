@@ -1,20 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-normalize.py — CHUẨN HÓA + TÁCH 2 COLLECTION + LÀM SẠCH (một lần chạy)
----------------------------------------------------------------------
-1) Gom các file chunk (schema A/B/C) về một schema thống nhất.
-2) Tách thành 2 collection:
-     - chunks_ctdt.json        (schema B: có ma_ctdt/nganh)  -> "ctdt"
-     - chunks_hanh_chinh.json  (schema A, C)                 -> "hanh_chinh"
-3) Làm sạch mỗi chunk (đúng 3 việc, KHÔNG dedup):
-     (a) strikethrough: gỡ nội dung CŨ bị gạch (~~...~~), giữ nội dung mới.
-     (b) bỏ MẢNH BẢNG MỒ CÔI: bị dấu '-' áp đảo, rất ít chữ (bảng vỡ).
-     (c) bỏ RÁC kiểu '".': chunk gần như không có chữ (hoặc rỗng sau khi gỡ (a)).
 
->>> KHÔNG khử trùng lặp. Nếu chưa xử lý trùng lặp ở pipeline chunk, các bản
-    trùng (nhất là CTĐT) vẫn còn — xử lý ở khâu chunk trước khi embedding.
-"""
 
 import json
 import os

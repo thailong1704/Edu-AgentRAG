@@ -1,29 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-graph_bang_diem.py — Dựng KNOWLEDGE GRAPH cho bảng điểm sinh viên (Neo4j).
 
-Điểm mấu chốt: graph KHÔNG chỉ chứa bảng điểm. Nếu chỉ có "sinh viên -> môn đã học"
-thì graph tương đương JSON (query 1 hop, không có gì để đi theo cạnh).
-Giá trị thật đến từ việc NỐI bảng điểm với QUAN HỆ TIÊN QUYẾT lấy từ CTĐT:
-
-    (SinhVien)-[:DA_HOC {diem_chu, dat}]->(MonHoc)
-    (SinhVien)-[:CHUA_HOC]->(MonHoc)
-    (MonHoc)-[:TIEN_QUYET]->(MonHoc)     "môn A yêu cầu học xong B trước"
-    (MonHoc)-[:SONG_HANH]->(MonHoc)
-    (MonHoc)-[:KHUYEN_NGHI]->(MonHoc)
-
-Khi đó trả lời được những câu mà JSON/vector bó tay:
-    - Kỳ tới đủ điều kiện đăng ký môn nào? (mọi tiên quyết đã đạt)
-    - Rớt môn X thì kéo theo môn nào không học được?
-    - Muốn học môn Y còn phải qua những môn nào?
-
-Nguồn dữ liệu:
-    ket_qua.json      <- crawl_bang_diem.py  (bảng điểm cá nhân)
-    chunks_ctdt.json  <- pipeline CTĐT       (quan hệ tiên quyết)
-
-Chạy:  python graph_bang_diem.py
-"""
 import json
 import os
 import re
@@ -35,9 +10,9 @@ from neo4j import GraphDatabase
 
 load_dotenv()
 
-NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
-NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASS = os.getenv("NEO4J_PASS", "12345678")
+NEO4J_URI = os.getenv("NEO4J_URI", )
+NEO4J_USER = os.getenv("NEO4J_USER", )
+NEO4J_PASS = os.getenv("NEO4J_PASS", )
 
 BANG_DIEM_FILE = os.getenv("BANG_DIEM_FILE", r"C:\Users\ADMIN\Desktop\agent_A\data\KnowledgeGraph\agent_GPA\data\test.nam2\ket_qua.json")
 CTDT_FILE = os.getenv("CTDT_FILE", "chunks_ctdt.json")

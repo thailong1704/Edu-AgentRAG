@@ -1,23 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-crawl_bang_diem.py — Crawl bảng điểm MyBK -> ket_qua.json (ĐỘC LẬP, không cần Agent_core).
 
-Giữ nguyên cấu trúc scrape của Agent_core (URL SSO, XPath, luồng đăng nhập, tab_1),
-nhưng viết gọn lại và SỬA các lỗi phân loại điểm để khớp gpa_agent hiện tại:
-
-  1. Toán tử `or` phân loại sai -> dùng `in {..}` theo NGƯỠNG ĐẠT (C+ = 2.5).
-  2. Ba danh sách nhóm để NGOÀI vòng lặp (bản cũ gán lại mỗi vòng -> lỗi khi continue).
-  3. Nhóm rõ nghĩa: dưới C+ = cần cải thiện; từ C+ = đã đạt; '--' = chưa học.
-  4. Giữ 'diem_chu' gốc (kể cả '--'); KHÔNG ép diem_so=0 cho môn chưa học
-     (để graph phân biệt 'chưa học' vs 'điểm 0').
-  5. Xuất thêm 'ma_ctdt' (nếu đọc được) để graph_bang_diem.py lọc đúng chương trình.
-
-Chạy:
-    python crawl_bang_diem.py                 # hỏi tài khoản trên terminal
-    python crawl_bang_diem.py -u <mssv>       # nhập user, hỏi mật khẩu
-    # hoặc đặt trong .env:  MYBK_USER=... / MYBK_PASS=...
-"""
 import argparse
 import getpass
 import json

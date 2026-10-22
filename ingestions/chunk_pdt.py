@@ -1,33 +1,9 @@
 
-"""
-CHUNKER CHO RAG — CHƯƠNG TRÌNH ĐÀO TẠO
-======================================
- 
-Đọc chuong_trinh_dao_tao.json -> sinh chunk sẵn sàng nhúng (embed) vào vector store.
- 
-Triết lý (đã bàn):
-  1. Mỗi MÔN = 1 chunk, NHÚNG SẴN ngữ cảnh nhóm + ràng buộc + tiên quyết
-     (dạng tên môn, không chỉ mã) để câu hỏi bằng lời tự nhiên vẫn khớp.
-  2. Mỗi NHÓM = 1 chunk tóm tắt: đặc biệt quan trọng với nhóm "chọn N tín chỉ"
-     và "tự do" — vì ràng buộc số tín chỉ là thông tin CẤP NHÓM, sẽ mất nếu
-     chỉ chunk theo môn.
-  3. 1 chunk TỔNG QUAN toàn chương trình (tổng tín chỉ, các nhóm tự chọn).
- 
-Metadata phẳng, dễ lọc (filter) khi truy hồi: loai_chunk, khoi, ma_nhom,
-loai_nhom, so_tin_chi_yeu_cau, ma_mon, tin_chi, tien_quyet, song_hanh, khuyen_nghi...
- 
-Cách dùng:
-    python chunk_ctdt.py                       # đọc ./chuong_trinh_dao_tao.json
-    python chunk_ctdt.py duong_dan_ctdt.json   # chỉ định file nguồn
-Xuất ra: chunks_ctdt.json (đọc cho người) + chunks_ctdt.jsonl (nạp vào vector DB).
-"""
- 
 import json
 import sys
 from pathlib import Path
  
- 
-# --- Diễn giải loại nhóm thành câu tự nhiên (đưa vào text để embed) ----------
+
 def cau_rang_buoc_nhom(nhom: dict) -> str:
     loai = nhom["loai"]
     n = nhom.get("so_tin_chi_yeu_cau")

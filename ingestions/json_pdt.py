@@ -1,34 +1,4 @@
-"""
-BUILD CTĐT JSON TỪ PDF — HỢP NHẤT 3 FORMAT (ĐH Bách Khoa)
-=========================================================
- 
-Tự nhận diện định dạng PDF rồi chọn parser phù hợp, xuất cùng một schema JSON:
- 
-  Format A — "Cấu trúc CTĐT", 6 cột CÓ tiên quyết, nhóm đánh số "1. Khối..." +
-             tên nhóm tiếng Việt + "chọn N tín chỉ", honors 'x', mỗi môn 1 dòng.
-             (VD: 2022_DD_DVT — Điện tử Viễn thông 2022)
- 
-  Format B — 5 cột, KHÔNG có cột tiên quyết, có cột "Khối kiến thức", nhóm theo
-             số La Mã "I./II./III.", chọn-N ghi "(Tối thiểu N TC)".
-             (VD: 2019_BD_BDG — Bảo dưỡng Công nghiệp 2019)
- 
-  Format C — "Cấu trúc CTĐT", 6 cột CÓ tiên quyết, nhóm theo mã "A1./A52./B2./C1."
-             + tag [BB]/[TC] + tổng TC ở cột 4, mỗi môn 2 dòng (VN/EN),
-             có nhóm cha-con (A5 = A51+A52+A53).
-             (VD: 2024_BD_BDG — Bảo dưỡng Công nghiệp 2024, Khoa Cơ khí)
- 
-Schema xuất (mọi format):
-  {nganh, khoa, khoa_vien, ma_ctdt, tong_tin_chi, format_pdf,
-   chu_thich_ky_hieu, chu_thich_loai_nhom,
-   cau_truc:[{ma_nhom, ten, khoi, loai, [so_tin_chi_yeu_cau],
-             mon:[{ma, ten, tin_chi, tien_quyet_song_hanh}]}]}
- 
-loai nhóm: bat_buoc | chon_tin_chi | tu_do | chung_chi
- 
-Cách dùng:
-    python build_ctdt.py <file.pdf> [output.json]
-"""
- 
+
 import re
 import sys
 import json

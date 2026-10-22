@@ -1,15 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-embed_load_qdrant_hybrid.py
----------------------------
-Nạp 2 collection Qdrant với HYBRID: dense (OpenAI) + sparse BM25 (fastembed).
-Named vectors: "dense" (VectorParams) + "sparse" (BM25, modifier=IDF).
 
-Chuẩn bị:
-  pip install openai qdrant-client "fastembed>=0.3"
-  set OPENAI_API_KEY ; chạy Qdrant ; đã có chunks_ctdt.json / chunks_hanh_chinh.json
-"""
 import os
 import json
 import time
