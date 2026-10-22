@@ -1,0 +1,1131 @@
+[
+  {
+    "chunk_id": "tongquan_BDCN_2023",
+    "text": "Chương trình đào tạo Cử nhân ngành Bảo dưỡng Công nghiệp, khoá 2023, tổng cộng 132 tín chỉ. Chương trình gồm các khối kiến thức: Kiến thức giáo dục đại cương, Kiến thức giáo dục chuyên nghiệp, Tự chọn tự do: 9 tín chỉ. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau) (yêu cầu 3 tín chỉ); Tự chọn tự do (yêu cầu 9 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "tong_tin_chi": 132
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_toan",
+    "text": "Nhóm 'Toán' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1005 Giải tích 2 (4 TC); MT1007 Đại số tuyến tính (3 TC); MT2013 Xác suất và thống kê (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan",
+      "ten_nhom": "Toán",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1005",
+        "MT1007",
+        "MT2013"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Toán', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan",
+      "ten_nhom": "Toán",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Toán', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1003 (Giải tích 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan",
+      "ten_nhom": "Toán",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MT1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Toán', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan",
+      "ten_nhom": "Toán",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Toán', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1003 (Giải tích 1), MT1007 (Đại số tuyến tính).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan",
+      "ten_nhom": "Toán",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MT1003",
+        "MT1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_khoa_hoc_tu_nhien",
+    "text": "Nhóm 'Khoa học tự nhiên' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm vật lý (1 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_khoa_hoc_tu_nhien",
+      "ten_nhom": "Khoa học tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "CH1003",
+        "PH1003",
+        "PH1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Khoa học tự nhiên', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_khoa_hoc_tu_nhien",
+      "ten_nhom": "Khoa học tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Khoa học tự nhiên', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_khoa_hoc_tu_nhien",
+      "ten_nhom": "Khoa học tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Khoa học tự nhiên', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_khoa_hoc_tu_nhien",
+      "ten_nhom": "Khoa học tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_toan_va_kh_tu_nhien_khac",
+    "text": "Nhóm 'Toán và KH tự nhiên khác' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IU2023 Phương pháp tính và lập trình C MT1003(KN) MT1005(KN) (3 TC); PH1005 Vật lý 2 (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan_va_kh_tu_nhien_khac",
+      "ten_nhom": "Toán và KH tự nhiên khác",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 2,
+      "ma_mon_trong_nhom": [
+        "IU2023",
+        "PH1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU2023",
+    "text": "Môn học: Phương pháp tính và lập trình C MT1003(KN) MT1005(KN) (mã IU2023), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Toán và KH tự nhiên khác', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1007 (Đại số tuyến tính).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan_va_kh_tu_nhien_khac",
+      "ten_nhom": "Toán và KH tự nhiên khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU2023",
+      "ten_mon": "Phương pháp tính và lập trình C MT1003(KN) MT1005(KN)",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1005",
+    "text": "Môn học: Vật lý 2 (mã PH1005), 4 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Toán và KH tự nhiên khác', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_toan_va_kh_tu_nhien_khac",
+      "ten_nhom": "Toán và KH tự nhiên khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1005",
+      "ten_mon": "Vật lý 2",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+    "text": "Nhóm 'Kinh tế- Chính trị- Xã hội- Luật' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa xã hội khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 6,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Kinh tế- Chính trị- Xã hội- Luật', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Kinh tế- Chính trị- Xã hội- Luật', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Kinh tế- Chính trị- Xã hội- Luật', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1031 (Triết học Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa xã hội khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Kinh tế- Chính trị- Xã hội- Luật', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1033 (Kinh tế chính trị Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Kinh tế- Chính trị- Xã hội- Luật', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1039 (Lịch sử Đảng Cộng sản Việt Nam).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Kinh tế- Chính trị- Xã hội- Luật', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1035 (Chủ nghĩa xã hội khoa học).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_kinh_te_chinh_tri_xa_hoi_luat",
+      "ten_nhom": "Kinh tế- Chính trị- Xã hội- Luật",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_nhap_mon",
+    "text": "Nhóm 'Nhập môn' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IU1001 Nhập môn về kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "IU1001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU1001",
+    "text": "Môn học: Nhập môn về kỹ thuật (mã IU1001), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Nhập môn', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU1001",
+      "ten_mon": "Nhập môn về kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_nhom_quan_ly_chon_3_tin_chi_tro",
+    "text": "Nhóm 'Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau)' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: IU4023 Khởi nghiệp (3 TC); IU4025 Chi phí bảo trì (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_nhom_quan_ly_chon_3_tin_chi_tro",
+      "ten_nhom": "Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 2,
+      "ma_mon_trong_nhom": [
+        "IU4023",
+        "IU4025"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IU4023",
+    "text": "Môn học: Khởi nghiệp (mã IU4023), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau)', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_nhom_quan_ly_chon_3_tin_chi_tro",
+      "ten_nhom": "Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IU4023",
+      "ten_mon": "Khởi nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IU4025",
+    "text": "Môn học: Chi phí bảo trì (mã IU4025), 3 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau)', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Khuyến nghị học trước: IU2021 (Tổ chức quản lý bảo dưỡng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_nhom_quan_ly_chon_3_tin_chi_tro",
+      "ten_nhom": "Nhóm Quản lý (chọn 3 tín chỉ trong các học phần sau)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IU4025",
+      "ten_mon": "Chi phí bảo trì",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU2021"
+      ],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_dai_cuong_ngoai_ngu",
+    "text": "Nhóm 'Ngoại ngữ' thuộc khối Kiến thức giáo dục đại cương, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Ngoại ngữ', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Ngoại ngữ', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1003 (Anh văn 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Ngoại ngữ', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1005 (Anh văn 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Kiến thức giáo dục đại cương > nhóm 'Ngoại ngữ', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1007 (Anh văn 3).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục đại cương",
+      "ma_nhom": "kien_thuc_giao_duc_dai_cuong_ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+    "text": "Nhóm 'Cơ sở ngành' thuộc khối Kiến thức giáo dục chuyên nghiệp, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI2003 Cơ lưu chất (3 TC); IU1003 Vẽ kỹ thuật bảo dưỡng (3 TC); IU1005 Cơ kỹ thuật (3 TC); IU2001 Cơ học vật liệu (3 TC); IU2003 Mạch điện (3 TC); IU2011 Kỹ thuật điện tử (3 TC); IU2021 Tổ chức quản lý bảo dưỡng (3 TC); IU3017 Kỹ thuật số (3 TC); IU3057 Công nghệ cơ khí 1 (3 TC); IU3061 Công nghệ cơ khí 2 (3 TC); ME2013 Nhiệt động lực học và truyền nhiệt (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 11,
+      "ma_mon_trong_nhom": [
+        "CI2003",
+        "IU1003",
+        "IU1005",
+        "IU2001",
+        "IU2003",
+        "IU2011",
+        "IU2021",
+        "IU3017",
+        "IU3057",
+        "IU3061",
+        "ME2013"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2003",
+    "text": "Môn học: Cơ lưu chất (mã CI2003), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2003",
+      "ten_mon": "Cơ lưu chất",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU1003",
+    "text": "Môn học: Vẽ kỹ thuật bảo dưỡng (mã IU1003), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU1003",
+      "ten_mon": "Vẽ kỹ thuật bảo dưỡng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU1005",
+    "text": "Môn học: Cơ kỹ thuật (mã IU1005), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU1005",
+      "ten_mon": "Cơ kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU2001",
+    "text": "Môn học: Cơ học vật liệu (mã IU2001), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Song hành (học cùng kỳ): IU1005 (Cơ kỹ thuật).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU2001",
+      "ten_mon": "Cơ học vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU2003",
+    "text": "Môn học: Mạch điện (mã IU2003), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1003 (Giải tích 1), PH1005 (Vật lý 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU2003",
+      "ten_mon": "Mạch điện",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT1003",
+        "PH1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU2011",
+    "text": "Môn học: Kỹ thuật điện tử (mã IU2011), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IU2003 (Mạch điện).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU2011",
+      "ten_mon": "Kỹ thuật điện tử",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU2003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU2021",
+    "text": "Môn học: Tổ chức quản lý bảo dưỡng (mã IU2021), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU2021",
+      "ten_mon": "Tổ chức quản lý bảo dưỡng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3017",
+    "text": "Môn học: Kỹ thuật số (mã IU3017), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IU2003 (Mạch điện), IU2011 (Kỹ thuật điện tử).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3017",
+      "ten_mon": "Kỹ thuật số",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU2003",
+        "IU2011"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3057",
+    "text": "Môn học: Công nghệ cơ khí 1 (mã IU3057), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IU2001 (Cơ học vật liệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3057",
+      "ten_mon": "Công nghệ cơ khí 1",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU2001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3061",
+    "text": "Môn học: Công nghệ cơ khí 2 (mã IU3061), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Song hành (học cùng kỳ): IU3057 (Công nghệ cơ khí 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3061",
+      "ten_mon": "Công nghệ cơ khí 2",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU3057"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2013",
+    "text": "Môn học: Nhiệt động lực học và truyền nhiệt (mã ME2013), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Cơ sở ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2013",
+      "ten_mon": "Nhiệt động lực học và truyền nhiệt",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+    "text": "Nhóm 'Chuyên ngành' thuộc khối Kiến thức giáo dục chuyên nghiệp, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IU3011 Kỹ thuật lập trình PLC (3 TC); IU3059 Công nghệ điện (4 TC); IU3063 Công nghệ khí nén (3 TC); IU3065 Công nghệ cơ khí 3 (3 TC); IU3067 Công nghệ lạnh và điều hòa (3 TC); IU4015 Công nghệ thủy lực (3 TC); IU4021 Kỹ thuật bảo trì (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 7,
+      "ma_mon_trong_nhom": [
+        "IU3011",
+        "IU3059",
+        "IU3063",
+        "IU3065",
+        "IU3067",
+        "IU4015",
+        "IU4021"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3011",
+    "text": "Môn học: Kỹ thuật lập trình PLC (mã IU3011), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3011",
+      "ten_mon": "Kỹ thuật lập trình PLC",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3059",
+    "text": "Môn học: Công nghệ điện (mã IU3059), 4 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IU2003 (Mạch điện).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3059",
+      "ten_mon": "Công nghệ điện",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "IU2003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3063",
+    "text": "Môn học: Công nghệ khí nén (mã IU3063), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3063",
+      "ten_mon": "Công nghệ khí nén",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3065",
+    "text": "Môn học: Công nghệ cơ khí 3 (mã IU3065), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Song hành (học cùng kỳ): IU3061 (Công nghệ cơ khí 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3065",
+      "ten_mon": "Công nghệ cơ khí 3",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU3061"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3067",
+    "text": "Môn học: Công nghệ lạnh và điều hòa (mã IU3067), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: ME2013 (Nhiệt động lực học và truyền nhiệt).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3067",
+      "ten_mon": "Công nghệ lạnh và điều hòa",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "ME2013"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU4015",
+    "text": "Môn học: Công nghệ thủy lực (mã IU4015), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU4015",
+      "ten_mon": "Công nghệ thủy lực",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU4021",
+    "text": "Môn học: Kỹ thuật bảo trì (mã IU4021), 3 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Chuyên ngành', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IU2021 (Tổ chức quản lý bảo dưỡng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU4021",
+      "ten_mon": "Kỹ thuật bảo trì",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IU2021"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__kien_thuc_giao_duc_chuyen_nghiep_tot_nghiep",
+    "text": "Nhóm 'Tốt nghiệp' thuộc khối Kiến thức giáo dục chuyên nghiệp, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IU3325  (2 TC); IU4013 Đồ án chuyên ngành (2 TC); IU4327 Đồ án tốt nghiệp (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "IU3325",
+        "IU4013",
+        "IU4327"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU3325",
+    "text": "Môn học:  (mã IU3325), 2 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Tốt nghiệp', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU3325",
+      "ten_mon": "",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU4013",
+    "text": "Môn học: Đồ án chuyên ngành (mã IU4013), 2 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Tốt nghiệp', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Song hành (học cùng kỳ): IU3325.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU4013",
+      "ten_mon": "Đồ án chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "IU3325"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IU4327",
+    "text": "Môn học: Đồ án tốt nghiệp (mã IU4327), 4 tín chỉ. Thuộc khối Kiến thức giáo dục chuyên nghiệp > nhóm 'Tốt nghiệp', ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IU3325, IU4013 (Đồ án chuyên ngành).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Kiến thức giáo dục chuyên nghiệp",
+      "ma_nhom": "kien_thuc_giao_duc_chuyen_nghiep_tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IU4327",
+      "ten_mon": "Đồ án tốt nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "IU3325",
+        "IU4013"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_tu_do_9_tin_chi_tu_chon_tu_do",
+    "text": "Nhóm 'Tự chọn tự do' thuộc khối Tự chọn tự do: 9 tín chỉ, ngành Bảo dưỡng Công nghiệp khoá 2023. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Bảo dưỡng Công nghiệp",
+      "khoa": 2023,
+      "ma_ctdt": "BDCN_2023",
+      "khoi": "Tự chọn tự do: 9 tín chỉ",
+      "ma_nhom": "tu_chon_tu_do_9_tin_chi_tu_chon_tu_do",
+      "ten_nhom": "Tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  }
+]

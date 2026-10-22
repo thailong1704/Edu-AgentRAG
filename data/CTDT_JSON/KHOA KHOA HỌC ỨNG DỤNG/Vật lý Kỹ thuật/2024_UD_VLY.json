@@ -1,0 +1,1462 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Vật lý kỹ thuật",
+  "khoa": 2024,
+  "khoa_vien": "KHOA HỌC ỨNG DỤNG",
+  "ma_ctdt": "VLKT_2024",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 132,
+  "format_pdf": "P3",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1003",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1003",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "AS1001",
+                  "ten": "Nhập môn Về kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "SP1041",
+                  "ten": "Kỹ năng mềm",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            },
+            {
+              "ma_nhom": "hk1_giao_duc_the_chat_hoc_phan_1",
+              "ten": "Giáo dục thể chất học phần 1",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1061",
+                  "ten": "Pickleball (học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1057",
+                  "ten": "Bowling (học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1053",
+                  "ten": "Cờ vua (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1027",
+                  "ten": "Quần vợt (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1019",
+                  "ten": "Bơi (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1025",
+                  "ten": "Điền kinh (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1017",
+                  "ten": "Cầu lông (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1015",
+                  "ten": "Bóng rổ (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1021",
+                  "ten": "Aerobic (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1013",
+                  "ten": "Bóng bàn (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1011",
+                  "ten": "Bóng chuyền (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1009",
+                  "ten": "Bóng đá (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1023",
+                  "ten": "Võ (Vovinam, Karate, Taewondo) (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 2,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1005",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1005",
+                  "ten": "Vật lý 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "PH1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1007",
+                  "ten": "Thí nghiệm Vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1007",
+                  "ten": "Đại số Tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CI1003",
+                  "ten": "Vẽ kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục Quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            },
+            {
+              "ma_nhom": "hk2_giao_duc_the_chat_hoc_phan_2",
+              "ten": "Giáo dục thể chất học phần 2",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1059",
+                  "ten": "Bowling (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1063",
+                  "ten": "Pickleball (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1055",
+                  "ten": "Cờ vua (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1051",
+                  "ten": "Quần vợt (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1049",
+                  "ten": "Điền kinh (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1035",
+                  "ten": "Bóng chuyền (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1039",
+                  "ten": "Bóng rổ (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1043",
+                  "ten": "Bơi (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1045",
+                  "ten": "Aerobic (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1033",
+                  "ten": "Bóng đá (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1041",
+                  "ten": "Cầu lông (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1047",
+                  "ten": "Võ (Vovinam, Karate, Taewondo) (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1037",
+                  "ten": "Bóng bàn (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 3,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT1009",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS2009",
+                  "ten": "Cơ sở Cơ học Lượng tử - Vật lý chất rắn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "EE2011",
+                  "ten": "Kỹ thuật Điện - Điện tử",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "PH1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 14
+            },
+            {
+              "ma_nhom": "hk3_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3103",
+                  "ten": "Kỹ thuật Thiết bị Y học và Thí nghiệm",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS3105",
+                  "ten": "Cơ sở Y khoa",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS3069",
+                  "ten": "Thiết bị Chẩn đoán hình ảnh Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 14
+            },
+            {
+              "ma_nhom": "hk3_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3109",
+                  "ten": "Cơ sở vật lý tính toán và mô phỏng vật lý",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS3103",
+                  "ten": "Kỹ thuật Thiết bị Y học và Thí nghiệm",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS3041",
+                  "ten": "Xử lý Tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 14
+            },
+            {
+              "ma_nhom": "hk3_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3107",
+                  "ten": "Kỹ thuật lập trình (vật lý tính toán)",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS3109",
+                  "ten": "Cơ sở vật lý tính toán và mô phỏng vật lý",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS3057",
+                  "ten": "Trực quan hóa dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "AS2051",
+                  "ten": "Tính toán Khoa học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 14
+            }
+          ],
+          "tin_chi_tu_cong": 23
+        },
+        {
+          "so_hoc_ky": 4,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế Chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "AS2001",
+                  "ten": "Cơ học Ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "CH2027",
+                  "ten": "Sinh học Đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "MT2013",
+                  "ten": "Xác suất và Thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "AS2033",
+                  "ten": "Cảm biến và Kỹ thuật Đo lường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 5,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa Xã hội Khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2003",
+                  "ten": "Cơ lưu chất",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "PH2003",
+                  "ten": "Tin học Vật lý Kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 8
+            },
+            {
+              "ma_nhom": "hk5_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3103",
+                  "ten": "Kỹ thuật Thiết bị Y học và Thí nghiệm",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS3105",
+                  "ten": "Cơ sở Y khoa",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS3069",
+                  "ten": "Thiết bị Chẩn đoán hình ảnh Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 8,
+              "tong_tin_chi_nhom": 8,
+              "tin_chi_kha_dung": 14
+            },
+            {
+              "ma_nhom": "hk5_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3107",
+                  "ten": "Kỹ thuật lập trình (vật lý tính toán)",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS3109",
+                  "ten": "Cơ sở vật lý tính toán và mô phỏng vật lý",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS3057",
+                  "ten": "Trực quan hóa dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS2051",
+                  "ten": "Tính toán Khoa học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 8,
+              "tong_tin_chi_nhom": 8,
+              "tin_chi_kha_dung": 14
+            },
+            {
+              "ma_nhom": "hk5_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3109",
+                  "ten": "Cơ sở vật lý tính toán và mô phỏng vật lý",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS3103",
+                  "ten": "Kỹ thuật Thiết bị Y học và Thí nghiệm",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "AS3041",
+                  "ten": "Xử lý Tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 8,
+              "tong_tin_chi_nhom": 8,
+              "tin_chi_kha_dung": 14
+            }
+          ],
+          "tin_chi_tu_cong": 32
+        },
+        {
+          "so_hoc_ky": 6,
+          "tin_chi_hoc_ky": 18,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3025",
+                  "ten": "Quang học Kỹ thuật và Ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3089",
+                  "ten": "Thực tập Kỹ thuật",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS2039",
+                  "ten": "Cơ sở vật lý Hạt nhân và Ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "PH1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS2045",
+                  "ten": "Đồ án Thiết kế cơ sở",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3345",
+                  "ten": "Thực tập Ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 12
+            },
+            {
+              "ma_nhom": "hk6_kien_thuc_quan_ly_khoi_nghiep",
+              "ten": "Kiến thức quản lý/ khởi nghiệp",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "ME1019",
+                  "ten": "Quản lý năng suất và chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "IM1025",
+                  "ten": "Quản lý Dự án cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "IM1013",
+                  "ten": "Kinh tế học Đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "IM1031",
+                  "ten": "Khởi nghiệp và đổi mới sáng tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "IM3001",
+                  "ten": "Quản trị Kinh doanh cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 15
+            },
+            {
+              "ma_nhom": "hk6_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3103",
+                  "ten": "Kỹ thuật Thiết bị Y học và Thí nghiệm",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3105",
+                  "ten": "Cơ sở Y khoa",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3069",
+                  "ten": "Thiết bị Chẩn đoán hình ảnh Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 14
+            },
+            {
+              "ma_nhom": "hk6_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3107",
+                  "ten": "Kỹ thuật lập trình (vật lý tính toán)",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3109",
+                  "ten": "Cơ sở vật lý tính toán và mô phỏng vật lý",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3057",
+                  "ten": "Trực quan hóa dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS2051",
+                  "ten": "Tính toán Khoa học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 14
+            },
+            {
+              "ma_nhom": "hk6_bat_buoc_chuyen_nganh",
+              "ten": "Bắt buộc chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3109",
+                  "ten": "Cơ sở vật lý tính toán và mô phỏng vật lý",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3103",
+                  "ten": "Kỹ thuật Thiết bị Y học và Thí nghiệm",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "AS3041",
+                  "ten": "Xử lý Tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 14
+            }
+          ],
+          "tin_chi_tu_cong": 24
+        },
+        {
+          "so_hoc_ky": 7,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "EN1003",
+                  "ten": "Con người và Môi trường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS4005",
+                  "ten": "Đồ án Chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "AS3345",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 7
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_chuyen_nganh",
+              "ten": "Tự chọn chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3073",
+                  "ten": "Vật lý thống kê",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3057",
+                  "ten": "Trực quan hóa dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3075",
+                  "ten": "Cơ sở về Laser và Ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3099",
+                  "ten": "Các phần mềm Tính toán Mô phỏng trong Vật lý",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS2051",
+                  "ten": "Tính toán Khoa học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3041",
+                  "ten": "Xử lý Tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3049",
+                  "ten": "Cơ sinh học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3051",
+                  "ten": "Cơ sở Tin học Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3113",
+                  "ten": "Phân loại, Kiểm định và Quản lý Trang thiết bị Y tế",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "AS3051",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3061",
+                  "ten": "Nhập môn Trí tuệ Nhân tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3055",
+                  "ten": "Xử lý hình ảnh Y sinh bằng Kỹ thuật số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3047",
+                  "ten": "Cơ sở Vật liệu Sinh học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3045",
+                  "ten": "Ứng dụng Laser trong Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 9,
+              "tong_tin_chi_nhom": 9,
+              "tin_chi_kha_dung": 36
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_chuyen_nganh",
+              "ten": "Tự chọn chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "AS3069",
+                  "ten": "Thiết bị Chẩn đoán hình ảnh Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3049",
+                  "ten": "Cơ sinh học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3047",
+                  "ten": "Cơ sở Vật liệu Sinh học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3055",
+                  "ten": "Xử lý hình ảnh Y sinh bằng Kỹ thuật số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3113",
+                  "ten": "Phân loại, Kiểm định và Quản lý Trang thiết bị Y tế",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "AS3051",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3075",
+                  "ten": "Cơ sở về Laser và Ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3045",
+                  "ten": "Ứng dụng Laser trong Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3051",
+                  "ten": "Cơ sở Tin học Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3041",
+                  "ten": "Xử lý Tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3061",
+                  "ten": "Nhập môn Trí tuệ Nhân tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3073",
+                  "ten": "Vật lý thống kê",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3099",
+                  "ten": "Các phần mềm Tính toán Mô phỏng trong Vật lý",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 9,
+              "tong_tin_chi_nhom": 9,
+              "tin_chi_kha_dung": 36
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_chuyen_nganh",
+              "ten": "Tự chọn chuyên ngành",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "PH2001",
+                  "ten": "Cơ sở Kỹ thuật Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3073",
+                  "ten": "Vật lý thống kê",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3047",
+                  "ten": "Cơ sở Vật liệu Sinh học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3055",
+                  "ten": "Xử lý hình ảnh Y sinh bằng Kỹ thuật số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3099",
+                  "ten": "Các phần mềm Tính toán Mô phỏng trong Vật lý",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3113",
+                  "ten": "Phân loại, Kiểm định và Quản lý Trang thiết bị Y tế",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "AS3051",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3061",
+                  "ten": "Nhập môn Trí tuệ Nhân tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3045",
+                  "ten": "Ứng dụng Laser trong Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3051",
+                  "ten": "Cơ sở Tin học Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS2051",
+                  "ten": "Tính toán Khoa học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3057",
+                  "ten": "Trực quan hóa dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3075",
+                  "ten": "Cơ sở về Laser và Ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "AS3069",
+                  "ten": "Thiết bị Chẩn đoán hình ảnh Y học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 9,
+              "tong_tin_chi_nhom": 9,
+              "tin_chi_kha_dung": 36
+            }
+          ],
+          "tin_chi_tu_cong": 34
+        },
+        {
+          "so_hoc_ky": 8,
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "AS4347",
+                  "ten": "Đồ án Tốt nghiệp",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "AS3345",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "AS4005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "AS2045",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "AS3089",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam Đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "SA4001",
+                  "ten": "Hoạt động sinh viên",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 6
+            },
+            {
+              "ma_nhom": "hk8_tu_chon_khac_tu_do",
+              "ten": "Tự chọn (khác)/Tự do",
+              "loai": "chon_tin_chi",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 9,
+              "tong_tin_chi_nhom": 9,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        }
+      ],
+      "tong_tin_chi": 178,
+      "so_hoc_ky": 8
+    }
+  ]
+}

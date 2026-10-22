@@ -1,0 +1,2957 @@
+[
+  {
+    "chunk_id": "tongquan_KTVL_2024",
+    "text": "Chương trình đào tạo Cử nhân ngành Kỹ thuật vật liệu, khoá 2024, tổng cộng 132 tín chỉ. Chương trình gồm các khối kiến thức: Toán & Khoa học Tự nhiên, Giáo dục chung, Cơ Sở Ngành/Chuyên Ngành, Tốt nghiệp, Tự chọn tự do, Điều kiện tốt nghiệp bặc Cử nhân. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: V. Tự chọn tự do (yêu cầu 9 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "tong_tin_chi": 132
+    }
+  },
+  {
+    "chunk_id": "nhom__I",
+    "text": "Nhóm 'I. Toán & Khoa học Tự nhiên' thuộc khối Toán & Khoa học Tự nhiên, ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1007 Đại số Tuyến tính (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm Vật lý (1 TC); MT1005 Giải tích 2 (4 TC); PH1005 Vật lý 2 (4 TC); CH1003 Hóa đại cương (3 TC); MT2013 Xác suất và Thống kê (4 TC); CH2009 Hóa phân tích (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 9,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1007",
+        "PH1003",
+        "PH1007",
+        "MT1005",
+        "PH1005",
+        "CH1003",
+        "MT2013",
+        "CH2009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số Tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số Tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm Vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm Vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1003 (Giải tích 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MT1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1005",
+    "text": "Môn học: Vật lý 2 (mã PH1005), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1005",
+      "ten_mon": "Vật lý 2",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và Thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1007 (Đại số Tuyến tính).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và Thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MT1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2009",
+    "text": "Môn học: Hóa phân tích (mã CH2009), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'I. Toán & Khoa học Tự nhiên', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2009",
+      "ten_mon": "Hóa phân tích",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__II",
+    "text": "Nhóm 'II. Giáo dục chung' thuộc khối Giáo dục chung, ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam Đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế Chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa Xã hội Khoa học (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); MA1001 Nhập môn Về Kỹ thuật (3 TC); IM1013 Kinh tế học Đại cương (3 TC); IM1027 Kinh tế Kỹ thuật (3 TC); IM3001 Quản trị Kinh doanh cho Kỹ sư (3 TC); IM1021 Khởi nghiệp (3 TC); IM1025 Quản lý Dự án cho Kỹ sư (3 TC); IM1023 Quản lý Sản xuất cho Kỹ sư (3 TC); ME1019 Quản lý năng suất và chất lượng (3 TC); IM1031 Khởi nghiệp và đổi mới sáng tạo (3 TC); MA4123 Phát triển Bền vững và Công nghệ Xử lý Môi trường (3 TC); LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC); PE1009 Bóng đá (Học phần 1) (0 TC); PE1011 Bóng chuyền (Học phần 1) (0 TC); PE1013 Bóng bàn (Học phần 1) (0 TC); PE1015 Bóng rổ (Học phần 1) (0 TC); PE1017 Cầu lông (Học phần 1) (0 TC); PE1019 Bơi (học Phần 1) (0 TC); PE1021 Aerobic (học Phần 1) (0 TC); PE1025 Điền kinh (Học phần 1) (0 TC); PE1027 Quần vợt (Học phần 1) (0 TC); PE1053 Cờ vua (Học phần 1) (0 TC); PE1057 Bowling (học phần 1) (0 TC); PE1061 Pickleball (học phần 1) (0 TC); PE1033 Bóng đá (Học phần 2) (0 TC); PE1035 Bóng chuyền (Học phần 2) (0 TC); PE1037 Bóng bàn (Học phần 2) (0 TC); PE1039 Bóng rổ (Học phần 2) (0 TC); PE1041 Cầu lông (Học phần 2) (0 TC); PE1043 Bơi (học Phần 2) (0 TC); PE1045 Aerobic (học Phần 2) (0 TC); PE1049 Điền kinh (học phần 2) (0 TC); PE1051 Quần vợt (Học phần 2) (0 TC); PE1055 Cờ vua (học phần 2) (0 TC); PE1059 Bowling (học phần 2) (0 TC); PE1063 Pickleball (học phần 2) (0 TC); MI1003 Giáo dục Quốc phòng (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 45,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1039",
+        "SP1037",
+        "MA1001",
+        "IM1013",
+        "IM1027",
+        "IM3001",
+        "IM1021",
+        "IM1025",
+        "IM1023",
+        "ME1019",
+        "IM1031",
+        "MA4123",
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009",
+        "PE1009",
+        "PE1011",
+        "PE1013",
+        "PE1015",
+        "PE1017",
+        "PE1019",
+        "PE1021",
+        "PE1025",
+        "PE1027",
+        "PE1053",
+        "PE1057",
+        "PE1061",
+        "PE1033",
+        "PE1035",
+        "PE1037",
+        "PE1039",
+        "PE1041",
+        "PE1043",
+        "PE1045",
+        "PE1049",
+        "PE1051",
+        "PE1055",
+        "PE1059",
+        "PE1063",
+        "MI1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam Đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam Đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế Chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1031 (Triết học Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế Chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa Xã hội Khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1033 (Kinh tế Chính trị Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa Xã hội Khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1035 (Chủ nghĩa Xã hội Khoa học).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1039 (Lịch sử Đảng Cộng sản Việt Nam).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA1001",
+    "text": "Môn học: Nhập môn Về Kỹ thuật (mã MA1001), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA1001",
+      "ten_mon": "Nhập môn Về Kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1013",
+    "text": "Môn học: Kinh tế học Đại cương (mã IM1013), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1013",
+      "ten_mon": "Kinh tế học Đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1027",
+    "text": "Môn học: Kinh tế Kỹ thuật (mã IM1027), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1027",
+      "ten_mon": "Kinh tế Kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3001",
+    "text": "Môn học: Quản trị Kinh doanh cho Kỹ sư (mã IM3001), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3001",
+      "ten_mon": "Quản trị Kinh doanh cho Kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1021",
+    "text": "Môn học: Khởi nghiệp (mã IM1021), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1021",
+      "ten_mon": "Khởi nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1025",
+    "text": "Môn học: Quản lý Dự án cho Kỹ sư (mã IM1025), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1025",
+      "ten_mon": "Quản lý Dự án cho Kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1023",
+    "text": "Môn học: Quản lý Sản xuất cho Kỹ sư (mã IM1023), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1023",
+      "ten_mon": "Quản lý Sản xuất cho Kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1019",
+    "text": "Môn học: Quản lý năng suất và chất lượng (mã ME1019), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1019",
+      "ten_mon": "Quản lý năng suất và chất lượng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1031",
+    "text": "Môn học: Khởi nghiệp và đổi mới sáng tạo (mã IM1031), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1031",
+      "ten_mon": "Khởi nghiệp và đổi mới sáng tạo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4123",
+    "text": "Môn học: Phát triển Bền vững và Công nghệ Xử lý Môi trường (mã MA4123), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4123",
+      "ten_mon": "Phát triển Bền vững và Công nghệ Xử lý Môi trường",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1003 (Anh văn 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1005 (Anh văn 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1007 (Anh văn 3).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1009",
+    "text": "Môn học: Bóng đá (Học phần 1) (mã PE1009), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1009",
+      "ten_mon": "Bóng đá (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1011",
+    "text": "Môn học: Bóng chuyền (Học phần 1) (mã PE1011), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1011",
+      "ten_mon": "Bóng chuyền (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1013",
+    "text": "Môn học: Bóng bàn (Học phần 1) (mã PE1013), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1013",
+      "ten_mon": "Bóng bàn (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1015",
+    "text": "Môn học: Bóng rổ (Học phần 1) (mã PE1015), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1015",
+      "ten_mon": "Bóng rổ (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1017",
+    "text": "Môn học: Cầu lông (Học phần 1) (mã PE1017), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1017",
+      "ten_mon": "Cầu lông (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1019",
+    "text": "Môn học: Bơi (học Phần 1) (mã PE1019), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1019",
+      "ten_mon": "Bơi (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1021",
+    "text": "Môn học: Aerobic (học Phần 1) (mã PE1021), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1021",
+      "ten_mon": "Aerobic (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1025",
+    "text": "Môn học: Điền kinh (Học phần 1) (mã PE1025), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1025",
+      "ten_mon": "Điền kinh (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1027",
+    "text": "Môn học: Quần vợt (Học phần 1) (mã PE1027), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1027",
+      "ten_mon": "Quần vợt (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1053",
+    "text": "Môn học: Cờ vua (Học phần 1) (mã PE1053), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1053",
+      "ten_mon": "Cờ vua (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1057",
+    "text": "Môn học: Bowling (học phần 1) (mã PE1057), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1057",
+      "ten_mon": "Bowling (học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1061",
+    "text": "Môn học: Pickleball (học phần 1) (mã PE1061), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1061",
+      "ten_mon": "Pickleball (học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1033",
+    "text": "Môn học: Bóng đá (Học phần 2) (mã PE1033), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1033",
+      "ten_mon": "Bóng đá (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1035",
+    "text": "Môn học: Bóng chuyền (Học phần 2) (mã PE1035), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1035",
+      "ten_mon": "Bóng chuyền (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1037",
+    "text": "Môn học: Bóng bàn (Học phần 2) (mã PE1037), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1037",
+      "ten_mon": "Bóng bàn (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1039",
+    "text": "Môn học: Bóng rổ (Học phần 2) (mã PE1039), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1039",
+      "ten_mon": "Bóng rổ (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1041",
+    "text": "Môn học: Cầu lông (Học phần 2) (mã PE1041), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1041",
+      "ten_mon": "Cầu lông (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1043",
+    "text": "Môn học: Bơi (học Phần 2) (mã PE1043), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1043",
+      "ten_mon": "Bơi (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1045",
+    "text": "Môn học: Aerobic (học Phần 2) (mã PE1045), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1045",
+      "ten_mon": "Aerobic (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1049",
+    "text": "Môn học: Điền kinh (học phần 2) (mã PE1049), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1049",
+      "ten_mon": "Điền kinh (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1051",
+    "text": "Môn học: Quần vợt (Học phần 2) (mã PE1051), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1051",
+      "ten_mon": "Quần vợt (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1055",
+    "text": "Môn học: Cờ vua (học phần 2) (mã PE1055), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1055",
+      "ten_mon": "Cờ vua (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1059",
+    "text": "Môn học: Bowling (học phần 2) (mã PE1059), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1059",
+      "ten_mon": "Bowling (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1063",
+    "text": "Môn học: Pickleball (học phần 2) (mã PE1063), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1063",
+      "ten_mon": "Pickleball (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục Quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'II. Giáo dục chung', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "II",
+      "ten_nhom": "II. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục Quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__III",
+    "text": "Nhóm 'III. Cơ Sở Ngành/Chuyên Ngành' thuộc khối Cơ Sở Ngành/Chuyên Ngành, ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI1003 Vẽ kỹ thuật (3 TC); MA1003 Cơ sở Khoa học Vật liệu (3 TC); MA2033 Vật lý Chất rắn (3 TC); MA2035 Công nghệ Vật liệu (3 TC); MA2037 Hóa lý - Công nghệ Vật liệu (3 TC); MA2043 Cơ sở hóa học vật liệu (3 TC); MA2121 Phương pháp tính toán các quá trình vật liệu (3 TC); MA3101 Truyền nhiệt và Truyền khối (3 TC); MA3083 Cơ học Vật liệu (3 TC); MA4065 Đo lường và Tự động hóa (3 TC); MA3161 Khoa học và công nghệ vật liệu polyme (3 TC); MA3163 Công nghệ vật liệu ceramic từ cơ bản đến hiện đại (3 TC); MA3159 Mô phỏng trong kỹ thuật vật liệu (3 TC); MA3165 Vật liệu kim loaị và các quá trình công nghệ (3 TC); MA3171 Phương pháp phân tích và đánh giá vật liệu (3 TC); MA4181 Vật liệu & Công nghệ nano (3 TC); MA4183 Vật liệu và Công nghệ Bán dẫn (4 TC); MA4185 Vật liệu sinh học và ứng dụng (3 TC); MA4187 Vật liệu và công nghệ in 3D (3 TC); MA4189 Vật liệu thông minh và đa chức năng (3 TC); MA4191 Vật liệu ứng dụng cho công nghệ năng lượng bền vững (3 TC); MA3103 Kim loại học và Nhiệt luyện (4 TC); MA3105 Luyện kim đen (3 TC); MA3107 Các Phương pháp Phân tích và Đánh giá Vật liệu: Tổ Chức, Thành (3 TC); MA3095 Lý Thuyết và Công nghệ đúc (4 TC); MA3109 Thí nghiệm Đúc (1 TC); MA4103 Luyện kim màu (3 TC); MA4125 Tạo hình Kim loại (4 TC); MA4127 Công nghệ Nhiệt luyện (3 TC); MA3097 Nhiễu xạ Tia X trong Nghiên cứu Cấu trúc Vật liệu (3 TC); MA4105 Công nghệ kim loại bột (3 TC); MA4107 Ăn mòn và phá hủy trong vật liệu kim loại (3 TC); MA4129 Công nghệ phun phủ kim loại (3 TC); MA3021 Nguyên lý Lò công nghiệp (3 TC); MA4109 Đúc liên tục (3 TC); MA4047 Thiết kế Đúc (3 TC); MA4131 Điện hóa kim loại (3 TC); MA4133 Lý thuyết và công nghệ biến dạng dẻo (3 TC); MA4179 Lựa chọn và Sử dụng Vật liệu Kỹ thuật (3 TC); MA2013 Các nguồn Năng lượng Tái tạo (3 TC); MA2011 Điện hóa học (3 TC); MA3007 Phương pháp Đánh giá Vật liệu (3 TC); MA3011 Hóa học Xúc tác (3 TC); MA3149 Thí nghiệm Chế tạo các hệ Năng lượng (1 TC); MA3099 Thí nghiệm Điện hóa học (2 TC); MA3031 Vật liệu Chuyển hóa và Tồn trữ Năng lượng (3 TC); MA4111 Thí nghiệm Phân tích Hóa lý (1 TC); MA4113 Vật liệu Tiên tiến trong các Hệ năng lượng (3 TC); MA3091 Công nghệ Chế tạo các hệ Năng lượng (4 TC); MA4115 Các phương pháp gia công vật liệu (3 TC); MA4117 Polyme dẫn điện (3 TC); MA4119 Vật liệu và Công nghệ Quang khắc (3 TC); MA4121 Kỹ thuật Tính toán và Mô phỏng (3 TC); MA2007 Hóa học Polyme (3 TC); MA2015 Hóa lý Polymer (3 TC); MA3121 Thí nghiệm Hóa học Polyme (1 TC); MA3123 Thí nghiệm Hóa lý Polyme (1 TC); MA3009 Công nghệ Cao su (4 TC); MA3019 Kỹ thuật Sản xuất các chất Cao phân tử (3 TC); MA4067 Kỹ thuật Gia công Polyme (4 TC); MA4069 Các Tính chất của Vật liệu Polyme (3 TC); MA4079 Công nghệ Các chất Tạo màng (3 TC); MA4081 Vật liệu polyme có tính năng đặc biệt (3 TC); MA4083 Vật liệu Polymer Composite (3 TC); MA4085 Polyme Blend (3 TC); MA3167 Hóa lý silicat (4 TC); MA3169 Thực hành hóa lý silicat (1 TC); MA3089 Quá trình và Thiết bị Cơ, Nhiệt (4 TC); MA3093 Công nghệ Gốm sứ (3 TC); MA3035 Thí nghiệm Silicat đại cương (1 TC); MA3039 Kỹ thuật Sản xuất các Sản phẩm Thủy tinh (3 TC); MA3051 Thí nghiệm Silicat Chuyên ngành (2 TC); MA4087 Công nghệ Xi-măng, Bê tông (4 TC); MA2005 Hóa học chất rắn (3 TC); MA4025 Công nghệ Sản xuất Gạch Ốp, Lát - Sứ vệ sinh (3 TC); MA4033 Vật liệu Y sinh (3 TC); MA4089 Vật liệu gốm kỹ thuật điện, điện tử (3 TC); MA4091 Vật liệu Môi trường (3 TC); MA4093 Kỹ thuật sản xuất vật liệu chịu lửa (3 TC); MA4095 Phụ gia công nghệ xi-măng, bê tông (3 TC); MA4097 Lớp phủ ceramic (3 TC); MA4177 Các phương pháp phân tích vật liệu (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 82,
+      "ma_mon_trong_nhom": [
+        "CI1003",
+        "MA1003",
+        "MA2033",
+        "MA2035",
+        "MA2037",
+        "MA2043",
+        "MA2121",
+        "MA3101",
+        "MA3083",
+        "MA4065",
+        "MA3161",
+        "MA3163",
+        "MA3159",
+        "MA3165",
+        "MA3171",
+        "MA4181",
+        "MA4183",
+        "MA4185",
+        "MA4187",
+        "MA4189",
+        "MA4191",
+        "MA3103",
+        "MA3105",
+        "MA3107",
+        "MA3095",
+        "MA3109",
+        "MA4103",
+        "MA4125",
+        "MA4127",
+        "MA3097",
+        "MA4105",
+        "MA4107",
+        "MA4129",
+        "MA3021",
+        "MA4109",
+        "MA4047",
+        "MA4131",
+        "MA4133",
+        "MA4179",
+        "MA2013",
+        "MA2011",
+        "MA3007",
+        "MA3011",
+        "MA3149",
+        "MA3099",
+        "MA3031",
+        "MA4111",
+        "MA4113",
+        "MA3091",
+        "MA4115",
+        "MA4117",
+        "MA4119",
+        "MA4121",
+        "MA2007",
+        "MA2015",
+        "MA3121",
+        "MA3123",
+        "MA3009",
+        "MA3019",
+        "MA4067",
+        "MA4069",
+        "MA4079",
+        "MA4081",
+        "MA4083",
+        "MA4085",
+        "MA3167",
+        "MA3169",
+        "MA3089",
+        "MA3093",
+        "MA3035",
+        "MA3039",
+        "MA3051",
+        "MA4087",
+        "MA2005",
+        "MA4025",
+        "MA4033",
+        "MA4089",
+        "MA4091",
+        "MA4093",
+        "MA4095",
+        "MA4097",
+        "MA4177"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1003",
+    "text": "Môn học: Vẽ kỹ thuật (mã CI1003), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1003",
+      "ten_mon": "Vẽ kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA1003",
+    "text": "Môn học: Cơ sở Khoa học Vật liệu (mã MA1003), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA1003",
+      "ten_mon": "Cơ sở Khoa học Vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2033",
+    "text": "Môn học: Vật lý Chất rắn (mã MA2033), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2033",
+      "ten_mon": "Vật lý Chất rắn",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2035",
+    "text": "Môn học: Công nghệ Vật liệu (mã MA2035), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MA1003 (Cơ sở Khoa học Vật liệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2035",
+      "ten_mon": "Công nghệ Vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MA1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2037",
+    "text": "Môn học: Hóa lý - Công nghệ Vật liệu (mã MA2037), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: CH1003 (Hóa đại cương).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2037",
+      "ten_mon": "Hóa lý - Công nghệ Vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "CH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2043",
+    "text": "Môn học: Cơ sở hóa học vật liệu (mã MA2043), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2043",
+      "ten_mon": "Cơ sở hóa học vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2121",
+    "text": "Môn học: Phương pháp tính toán các quá trình vật liệu (mã MA2121), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2121",
+      "ten_mon": "Phương pháp tính toán các quá trình vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3101",
+    "text": "Môn học: Truyền nhiệt và Truyền khối (mã MA3101), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3101",
+      "ten_mon": "Truyền nhiệt và Truyền khối",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3083",
+    "text": "Môn học: Cơ học Vật liệu (mã MA3083), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3083",
+      "ten_mon": "Cơ học Vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4065",
+    "text": "Môn học: Đo lường và Tự động hóa (mã MA4065), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4065",
+      "ten_mon": "Đo lường và Tự động hóa",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3161",
+    "text": "Môn học: Khoa học và công nghệ vật liệu polyme (mã MA3161), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3161",
+      "ten_mon": "Khoa học và công nghệ vật liệu polyme",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3163",
+    "text": "Môn học: Công nghệ vật liệu ceramic từ cơ bản đến hiện đại (mã MA3163), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3163",
+      "ten_mon": "Công nghệ vật liệu ceramic từ cơ bản đến hiện đại",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3159",
+    "text": "Môn học: Mô phỏng trong kỹ thuật vật liệu (mã MA3159), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3159",
+      "ten_mon": "Mô phỏng trong kỹ thuật vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3165",
+    "text": "Môn học: Vật liệu kim loaị và các quá trình công nghệ (mã MA3165), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3165",
+      "ten_mon": "Vật liệu kim loaị và các quá trình công nghệ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3171",
+    "text": "Môn học: Phương pháp phân tích và đánh giá vật liệu (mã MA3171), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3171",
+      "ten_mon": "Phương pháp phân tích và đánh giá vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4181",
+    "text": "Môn học: Vật liệu & Công nghệ nano (mã MA4181), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4181",
+      "ten_mon": "Vật liệu & Công nghệ nano",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4183",
+    "text": "Môn học: Vật liệu và Công nghệ Bán dẫn (mã MA4183), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4183",
+      "ten_mon": "Vật liệu và Công nghệ Bán dẫn",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4185",
+    "text": "Môn học: Vật liệu sinh học và ứng dụng (mã MA4185), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4185",
+      "ten_mon": "Vật liệu sinh học và ứng dụng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4187",
+    "text": "Môn học: Vật liệu và công nghệ in 3D (mã MA4187), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4187",
+      "ten_mon": "Vật liệu và công nghệ in 3D",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4189",
+    "text": "Môn học: Vật liệu thông minh và đa chức năng (mã MA4189), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4189",
+      "ten_mon": "Vật liệu thông minh và đa chức năng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4191",
+    "text": "Môn học: Vật liệu ứng dụng cho công nghệ năng lượng bền vững (mã MA4191), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4191",
+      "ten_mon": "Vật liệu ứng dụng cho công nghệ năng lượng bền vững",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3103",
+    "text": "Môn học: Kim loại học và Nhiệt luyện (mã MA3103), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3103",
+      "ten_mon": "Kim loại học và Nhiệt luyện",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3105",
+    "text": "Môn học: Luyện kim đen (mã MA3105), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3105",
+      "ten_mon": "Luyện kim đen",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3107",
+    "text": "Môn học: Các Phương pháp Phân tích và Đánh giá Vật liệu: Tổ Chức, Thành (mã MA3107), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3107",
+      "ten_mon": "Các Phương pháp Phân tích và Đánh giá Vật liệu: Tổ Chức, Thành",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3095",
+    "text": "Môn học: Lý Thuyết và Công nghệ đúc (mã MA3095), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3095",
+      "ten_mon": "Lý Thuyết và Công nghệ đúc",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3109",
+    "text": "Môn học: Thí nghiệm Đúc (mã MA3109), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3109",
+      "ten_mon": "Thí nghiệm Đúc",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4103",
+    "text": "Môn học: Luyện kim màu (mã MA4103), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4103",
+      "ten_mon": "Luyện kim màu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4125",
+    "text": "Môn học: Tạo hình Kim loại (mã MA4125), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4125",
+      "ten_mon": "Tạo hình Kim loại",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4127",
+    "text": "Môn học: Công nghệ Nhiệt luyện (mã MA4127), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4127",
+      "ten_mon": "Công nghệ Nhiệt luyện",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3097",
+    "text": "Môn học: Nhiễu xạ Tia X trong Nghiên cứu Cấu trúc Vật liệu (mã MA3097), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3097",
+      "ten_mon": "Nhiễu xạ Tia X trong Nghiên cứu Cấu trúc Vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4105",
+    "text": "Môn học: Công nghệ kim loại bột (mã MA4105), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4105",
+      "ten_mon": "Công nghệ kim loại bột",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4107",
+    "text": "Môn học: Ăn mòn và phá hủy trong vật liệu kim loại (mã MA4107), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4107",
+      "ten_mon": "Ăn mòn và phá hủy trong vật liệu kim loại",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4129",
+    "text": "Môn học: Công nghệ phun phủ kim loại (mã MA4129), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4129",
+      "ten_mon": "Công nghệ phun phủ kim loại",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3021",
+    "text": "Môn học: Nguyên lý Lò công nghiệp (mã MA3021), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3021",
+      "ten_mon": "Nguyên lý Lò công nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4109",
+    "text": "Môn học: Đúc liên tục (mã MA4109), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4109",
+      "ten_mon": "Đúc liên tục",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4047",
+    "text": "Môn học: Thiết kế Đúc (mã MA4047), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4047",
+      "ten_mon": "Thiết kế Đúc",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4131",
+    "text": "Môn học: Điện hóa kim loại (mã MA4131), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4131",
+      "ten_mon": "Điện hóa kim loại",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4133",
+    "text": "Môn học: Lý thuyết và công nghệ biến dạng dẻo (mã MA4133), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4133",
+      "ten_mon": "Lý thuyết và công nghệ biến dạng dẻo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4179",
+    "text": "Môn học: Lựa chọn và Sử dụng Vật liệu Kỹ thuật (mã MA4179), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4179",
+      "ten_mon": "Lựa chọn và Sử dụng Vật liệu Kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2013",
+    "text": "Môn học: Các nguồn Năng lượng Tái tạo (mã MA2013), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2013",
+      "ten_mon": "Các nguồn Năng lượng Tái tạo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2011",
+    "text": "Môn học: Điện hóa học (mã MA2011), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2011",
+      "ten_mon": "Điện hóa học",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3007",
+    "text": "Môn học: Phương pháp Đánh giá Vật liệu (mã MA3007), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3007",
+      "ten_mon": "Phương pháp Đánh giá Vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3011",
+    "text": "Môn học: Hóa học Xúc tác (mã MA3011), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3011",
+      "ten_mon": "Hóa học Xúc tác",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3149",
+    "text": "Môn học: Thí nghiệm Chế tạo các hệ Năng lượng (mã MA3149), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3149",
+      "ten_mon": "Thí nghiệm Chế tạo các hệ Năng lượng",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3099",
+    "text": "Môn học: Thí nghiệm Điện hóa học (mã MA3099), 2 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3099",
+      "ten_mon": "Thí nghiệm Điện hóa học",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3031",
+    "text": "Môn học: Vật liệu Chuyển hóa và Tồn trữ Năng lượng (mã MA3031), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3031",
+      "ten_mon": "Vật liệu Chuyển hóa và Tồn trữ Năng lượng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4111",
+    "text": "Môn học: Thí nghiệm Phân tích Hóa lý (mã MA4111), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4111",
+      "ten_mon": "Thí nghiệm Phân tích Hóa lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4113",
+    "text": "Môn học: Vật liệu Tiên tiến trong các Hệ năng lượng (mã MA4113), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4113",
+      "ten_mon": "Vật liệu Tiên tiến trong các Hệ năng lượng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3091",
+    "text": "Môn học: Công nghệ Chế tạo các hệ Năng lượng (mã MA3091), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3091",
+      "ten_mon": "Công nghệ Chế tạo các hệ Năng lượng",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4115",
+    "text": "Môn học: Các phương pháp gia công vật liệu (mã MA4115), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4115",
+      "ten_mon": "Các phương pháp gia công vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4117",
+    "text": "Môn học: Polyme dẫn điện (mã MA4117), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4117",
+      "ten_mon": "Polyme dẫn điện",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4119",
+    "text": "Môn học: Vật liệu và Công nghệ Quang khắc (mã MA4119), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4119",
+      "ten_mon": "Vật liệu và Công nghệ Quang khắc",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4121",
+    "text": "Môn học: Kỹ thuật Tính toán và Mô phỏng (mã MA4121), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4121",
+      "ten_mon": "Kỹ thuật Tính toán và Mô phỏng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2007",
+    "text": "Môn học: Hóa học Polyme (mã MA2007), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MA2039.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2007",
+      "ten_mon": "Hóa học Polyme",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MA2039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2015",
+    "text": "Môn học: Hóa lý Polymer (mã MA2015), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2015",
+      "ten_mon": "Hóa lý Polymer",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3121",
+    "text": "Môn học: Thí nghiệm Hóa học Polyme (mã MA3121), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3121",
+      "ten_mon": "Thí nghiệm Hóa học Polyme",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3123",
+    "text": "Môn học: Thí nghiệm Hóa lý Polyme (mã MA3123), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MA2037 (Hóa lý - Công nghệ Vật liệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3123",
+      "ten_mon": "Thí nghiệm Hóa lý Polyme",
+      "tin_chi": 1,
+      "tien_quyet": [
+        "MA2037"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3009",
+    "text": "Môn học: Công nghệ Cao su (mã MA3009), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3009",
+      "ten_mon": "Công nghệ Cao su",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3019",
+    "text": "Môn học: Kỹ thuật Sản xuất các chất Cao phân tử (mã MA3019), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MA2007 (Hóa học Polyme).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3019",
+      "ten_mon": "Kỹ thuật Sản xuất các chất Cao phân tử",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MA2007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4067",
+    "text": "Môn học: Kỹ thuật Gia công Polyme (mã MA4067), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MA3019 (Kỹ thuật Sản xuất các chất Cao phân tử), MA2015 (Hóa lý Polymer).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4067",
+      "ten_mon": "Kỹ thuật Gia công Polyme",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MA3019",
+        "MA2015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4069",
+    "text": "Môn học: Các Tính chất của Vật liệu Polyme (mã MA4069), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4069",
+      "ten_mon": "Các Tính chất của Vật liệu Polyme",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4079",
+    "text": "Môn học: Công nghệ Các chất Tạo màng (mã MA4079), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4079",
+      "ten_mon": "Công nghệ Các chất Tạo màng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4081",
+    "text": "Môn học: Vật liệu polyme có tính năng đặc biệt (mã MA4081), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4081",
+      "ten_mon": "Vật liệu polyme có tính năng đặc biệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4083",
+    "text": "Môn học: Vật liệu Polymer Composite (mã MA4083), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4083",
+      "ten_mon": "Vật liệu Polymer Composite",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4085",
+    "text": "Môn học: Polyme Blend (mã MA4085), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4085",
+      "ten_mon": "Polyme Blend",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3167",
+    "text": "Môn học: Hóa lý silicat (mã MA3167), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3167",
+      "ten_mon": "Hóa lý silicat",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3169",
+    "text": "Môn học: Thực hành hóa lý silicat (mã MA3169), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3169",
+      "ten_mon": "Thực hành hóa lý silicat",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3089",
+    "text": "Môn học: Quá trình và Thiết bị Cơ, Nhiệt (mã MA3089), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3089",
+      "ten_mon": "Quá trình và Thiết bị Cơ, Nhiệt",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3093",
+    "text": "Môn học: Công nghệ Gốm sứ (mã MA3093), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3093",
+      "ten_mon": "Công nghệ Gốm sứ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3035",
+    "text": "Môn học: Thí nghiệm Silicat đại cương (mã MA3035), 1 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3035",
+      "ten_mon": "Thí nghiệm Silicat đại cương",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3039",
+    "text": "Môn học: Kỹ thuật Sản xuất các Sản phẩm Thủy tinh (mã MA3039), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3039",
+      "ten_mon": "Kỹ thuật Sản xuất các Sản phẩm Thủy tinh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3051",
+    "text": "Môn học: Thí nghiệm Silicat Chuyên ngành (mã MA3051), 2 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3051",
+      "ten_mon": "Thí nghiệm Silicat Chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4087",
+    "text": "Môn học: Công nghệ Xi-măng, Bê tông (mã MA4087), 4 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4087",
+      "ten_mon": "Công nghệ Xi-măng, Bê tông",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA2005",
+    "text": "Môn học: Hóa học chất rắn (mã MA2005), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA2005",
+      "ten_mon": "Hóa học chất rắn",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4025",
+    "text": "Môn học: Công nghệ Sản xuất Gạch Ốp, Lát - Sứ vệ sinh (mã MA4025), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4025",
+      "ten_mon": "Công nghệ Sản xuất Gạch Ốp, Lát - Sứ vệ sinh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4033",
+    "text": "Môn học: Vật liệu Y sinh (mã MA4033), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4033",
+      "ten_mon": "Vật liệu Y sinh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4089",
+    "text": "Môn học: Vật liệu gốm kỹ thuật điện, điện tử (mã MA4089), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4089",
+      "ten_mon": "Vật liệu gốm kỹ thuật điện, điện tử",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4091",
+    "text": "Môn học: Vật liệu Môi trường (mã MA4091), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4091",
+      "ten_mon": "Vật liệu Môi trường",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4093",
+    "text": "Môn học: Kỹ thuật sản xuất vật liệu chịu lửa (mã MA4093), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4093",
+      "ten_mon": "Kỹ thuật sản xuất vật liệu chịu lửa",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4095",
+    "text": "Môn học: Phụ gia công nghệ xi-măng, bê tông (mã MA4095), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4095",
+      "ten_mon": "Phụ gia công nghệ xi-măng, bê tông",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4097",
+    "text": "Môn học: Lớp phủ ceramic (mã MA4097), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4097",
+      "ten_mon": "Lớp phủ ceramic",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4177",
+    "text": "Môn học: Các phương pháp phân tích vật liệu (mã MA4177), 3 tín chỉ. Thuộc khối Cơ Sở Ngành/Chuyên Ngành > nhóm 'III. Cơ Sở Ngành/Chuyên Ngành', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Cơ Sở Ngành/Chuyên Ngành",
+      "ma_nhom": "III",
+      "ten_nhom": "III. Cơ Sở Ngành/Chuyên Ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4177",
+      "ten_mon": "Các phương pháp phân tích vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__IV",
+    "text": "Nhóm 'IV. Tốt nghiệp' thuộc khối Tốt nghiệp, ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MA3325 Thực tập Ngoài trường (2 TC); MA4071 Đồ án Chuyên ngành (2 TC); MA4327 Đồ án Tốt nghiệp (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "IV",
+      "ten_nhom": "IV. Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "MA3325",
+        "MA4071",
+        "MA4327"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA3325",
+    "text": "Môn học: Thực tập Ngoài trường (mã MA3325), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'IV. Tốt nghiệp', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "IV",
+      "ten_nhom": "IV. Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA3325",
+      "ten_mon": "Thực tập Ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4071",
+    "text": "Môn học: Đồ án Chuyên ngành (mã MA4071), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'IV. Tốt nghiệp', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "IV",
+      "ten_nhom": "IV. Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4071",
+      "ten_mon": "Đồ án Chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MA4327",
+    "text": "Môn học: Đồ án Tốt nghiệp (mã MA4327), 4 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'IV. Tốt nghiệp', ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "IV",
+      "ten_nhom": "IV. Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MA4327",
+      "ten_mon": "Đồ án Tốt nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__V",
+    "text": "Nhóm 'V. Tự chọn tự do' thuộc khối Tự chọn tự do, ngành Kỹ thuật vật liệu khoá 2024. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Tự chọn tự do",
+      "ma_nhom": "V",
+      "ten_nhom": "V. Tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__VI",
+    "text": "Nhóm 'VI. Điều kiện tốt nghiệp bặc Cử nhân' thuộc khối Điều kiện tốt nghiệp bặc Cử nhân, ngành Kỹ thuật vật liệu khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: SA4001 Hoạt động sinh viên (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Điều kiện tốt nghiệp bặc Cử nhân",
+      "ma_nhom": "VI",
+      "ten_nhom": "VI. Điều kiện tốt nghiệp bặc Cử nhân",
+      "loai_nhom": "chung_chi",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "SA4001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SA4001",
+    "text": "Môn học: Hoạt động sinh viên (mã SA4001), 0 tín chỉ. Thuộc khối Điều kiện tốt nghiệp bặc Cử nhân > nhóm 'VI. Điều kiện tốt nghiệp bặc Cử nhân', ngành Kỹ thuật vật liệu khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật vật liệu",
+      "khoa": 2024,
+      "ma_ctdt": "KTVL_2024",
+      "khoi": "Điều kiện tốt nghiệp bặc Cử nhân",
+      "ma_nhom": "VI",
+      "ten_nhom": "VI. Điều kiện tốt nghiệp bặc Cử nhân",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "SA4001",
+      "ten_mon": "Hoạt động sinh viên",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]

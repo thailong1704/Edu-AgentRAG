@@ -1,0 +1,960 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kỹ thuật Máy tính",
+  "khoa": 2024,
+  "khoa_vien": "KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH",
+  "ma_ctdt": "KTMT_2024",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 128,
+  "format_pdf": "P2",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "ten_hoc_ky": "Học kỳ 1 (Semester 1)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1003",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1003",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "CO1005",
+                  "ten": "Nhập môn điện toán",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "CO1023",
+                  "ten": "Hệ thống số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 2,
+          "ten_hoc_ky": "Học kỳ 2 (Semester 2)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1005",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1007",
+                  "ten": "Đại số Tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CO1025",
+                  "ten": "Thiết kế luận lý với hdl",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1023",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CO1027",
+                  "ten": "Kỹ thuật lập trình",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1007",
+                  "ten": "Thí nghiệm Vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục Quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 3,
+          "ten_hoc_ky": "Học kỳ 3 (Semester 3)",
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CO2103",
+                  "ten": "Mạch điện - điện tử",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CO1007",
+                  "ten": "Cấu trúc rời rạc cho khoa học máy tính",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 15
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        },
+        {
+          "so_hoc_ky": 4,
+          "ten_hoc_ky": "Học kỳ 4 (Semester 4)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "MT2013",
+                  "ten": "Xác suất và thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "MT1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "CO2007",
+                  "ten": "Kiến trúc máy tính",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO1023",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "CO2003",
+                  "ten": "Cấu trúc dữ liệu và giải thuật",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO1027",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 5,
+          "ten_hoc_ky": "Học kỳ 5 (Semester 5)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa xã hội khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO2011",
+                  "ten": "Mô hình hóa toán học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO2017",
+                  "ten": "Hệ điều hành",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3009",
+                  "ten": "Vi xử lý - vi điều khiển",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 11
+            },
+            {
+              "ma_nhom": "hk5_tu_chon_nhom_b_chon_6_tin_chi_trong_cac_",
+              "ten": "Tự chọn nhóm B (chọn 6 tín chỉ trong các học phần sau) **",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "CO2035",
+                  "ten": "Xử lý tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3007",
+                  "ten": "Đánh giá hiệu năng hệ thống",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT2013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3021",
+                  "ten": "Hệ quản trị cơ sở dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO2013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3035",
+                  "ten": "Hệ thời gian thực",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3037",
+                  "ten": "Phát triển ứng dụng internet of things",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3049",
+                  "ten": "Lập trình web",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3051",
+                  "ten": "Hệ thống thiết bị di động",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3067",
+                  "ten": "Tính toán song song",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3069",
+                  "ten": "Mật mã và an ninh mạng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3071",
+                  "ten": "Hệ phân bố",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3141",
+                  "ten": "Điện toán đám mây",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3143",
+                  "ten": "Giới thiệu hệ thống trên chip",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3145",
+                  "ten": "Thiết kế luận lý với HDL nâng cao",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3147",
+                  "ten": "Thiết kế vi mạch nâng cao",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CO3149",
+                  "ten": "Tổng hợp luận lý vi mạch",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 6,
+              "tong_tin_chi_nhom": 6,
+              "tin_chi_kha_dung": 45
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 6,
+          "ten_hoc_ky": "Học kỳ 6 (Semester 6)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CO3093",
+                  "ten": "Mạng máy tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO3001",
+                  "ten": "Công nghệ phần mềm",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1027",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO2001",
+                  "ten": "Kỹ năng chuyên nghiệp cho kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO3097",
+                  "ten": "Thiết kế vi mạch",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1023",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO1025",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO3345",
+                  "ten": "Thực tập ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO1023",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO1027",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO2003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO2007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "CO2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            },
+            {
+              "ma_nhom": "hk6_tu_chon_nhom_a_chon_1_tin_chi_trong_cac_",
+              "ten": "Tự chọn nhóm A (chọn 1 tín chỉ trong các học phần sau)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "CO3107",
+                  "ten": "Thực tập đồ án môn học đa ngành - hướng trí tuệ nhân tạo",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO3109",
+                  "ten": "Thực tập đồ án môn học đa ngành - hướng công nghệ phần mềm",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO3111",
+                  "ten": "Thực tập đồ án môn học đa ngành - hướng hệ thống thông tin",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CO3119",
+                  "ten": "Đồ án mạng máy tính",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "so_tin_chi_yeu_cau": 1,
+              "tong_tin_chi_nhom": 1,
+              "tin_chi_kha_dung": 4
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 7,
+          "ten_hoc_ky": "Học kỳ 7 (Semester 7)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CO3053",
+                  "ten": "Hệ thống nhúng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO3009",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3117",
+                  "ten": "Học máy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO4041",
+                  "ten": "Đồ án môn học kỹ thuật máy tính",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO3345",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 10
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_tu_do_3_tin_chi",
+              "ten": "Tự chọn tự do 3 tín chỉ",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_nhom_b_chon_3_tin_chi_trong_cac_",
+              "ten": "Tự chọn nhóm B (chọn 3 tín chỉ trong các học phần sau) **",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "CO2035",
+                  "ten": "Xử lý tín hiệu số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3007",
+                  "ten": "Đánh giá hiệu năng hệ thống",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT2013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3021",
+                  "ten": "Hệ quản trị cơ sở dữ liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO2013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3035",
+                  "ten": "Hệ thời gian thực",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3037",
+                  "ten": "Phát triển ứng dụng internet of things",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3049",
+                  "ten": "Lập trình web",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3051",
+                  "ten": "Hệ thống thiết bị di động",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3067",
+                  "ten": "Tính toán song song",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3069",
+                  "ten": "Mật mã và an ninh mạng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3071",
+                  "ten": "Hệ phân bố",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3141",
+                  "ten": "Điện toán đám mây",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3143",
+                  "ten": "Giới thiệu hệ thống trên chip",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3145",
+                  "ten": "Thiết kế luận lý với HDL nâng cao",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3147",
+                  "ten": "Thiết kế vi mạch nâng cao",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CO3149",
+                  "ten": "Tổng hợp luận lý vi mạch",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 45
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 8,
+          "ten_hoc_ky": "Học kỳ 8 (Semester 8)",
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CO4347",
+                  "ten": "Đồ án tốt nghiệp (Kỹ thuật Máy tính)",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CO3345",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "CO4041",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 6
+            },
+            {
+              "ma_nhom": "hk8_tu_chon_tu_do_6_tin_chi",
+              "ten": "Tự chọn tự do 6 tín chỉ",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 6,
+              "tong_tin_chi_nhom": 6,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk8_tu_chon_quan_ly_chon_3_tin_chi_trong_cac",
+              "ten": "Tự chọn Quản lý (chọn 3 tín chỉ trong các học phần sau)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "IM1023",
+                  "ten": "Quản lý sản xuất cho kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "IM1025",
+                  "ten": "Quản lý dự án cho kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "IM1031",
+                  "ten": "Khởi nghiệp và Đổi mới sáng tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "ME1019",
+                  "ten": "Năng suất chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 12
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        }
+      ],
+      "tong_tin_chi": 128,
+      "so_hoc_ky": 8
+    }
+  ]
+}

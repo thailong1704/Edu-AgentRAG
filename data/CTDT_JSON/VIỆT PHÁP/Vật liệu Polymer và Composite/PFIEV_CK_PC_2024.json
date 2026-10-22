@@ -1,0 +1,1081 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kỹ thuật Cơ Khí",
+  "khoa": null,
+  "khoa_vien": "CÔNG NGHỆ VẬT LIỆU",
+  "ma_ctdt": "KTCK",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 163,
+  "format_pdf": "P3",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1011",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1015",
+                  "ten": "Đại số Tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "LA1011",
+                  "ten": "Pháp văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MA1001",
+                  "ten": "Nhập môn Về Kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            },
+            {
+              "ma_nhom": "hk1_giao_duc_the_chat_hoc_phan_1",
+              "ten": "Giáo dục thể chất học phần 1",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1009",
+                  "ten": "Bóng đá (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1011",
+                  "ten": "Bóng chuyền (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1013",
+                  "ten": "Bóng bàn (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1015",
+                  "ten": "Bóng rổ (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1017",
+                  "ten": "Cầu lông (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1019",
+                  "ten": "Bơi (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1021",
+                  "ten": "Aerobic (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1025",
+                  "ten": "Điền kinh (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1027",
+                  "ten": "Quần vợt (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1053",
+                  "ten": "Cờ vua (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 2,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MT1013",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1009",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "LA1013",
+                  "ten": "Pháp văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam Đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "EN1003",
+                  "ten": "Con người và Môi trường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            },
+            {
+              "ma_nhom": "hk2_giao_duc_the_chat_hoc_phan_2",
+              "ten": "Giáo dục thể chất học phần 2",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1033",
+                  "ten": "Bóng đá (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1035",
+                  "ten": "Bóng chuyền (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1037",
+                  "ten": "Bóng bàn (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1039",
+                  "ten": "Bóng rổ (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1041",
+                  "ten": "Cầu lông (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1043",
+                  "ten": "Bơi (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1045",
+                  "ten": "Aerobic (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1049",
+                  "ten": "Điền kinh (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1051",
+                  "ten": "Quần vợt (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1055",
+                  "ten": "Cờ vua (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            },
+            {
+              "ma_nhom": "hk2_giao_duc_quoc_phong",
+              "ten": "Giáo dục quốc phòng",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục Quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 3,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MT2007",
+                  "ten": "Giải tích 3",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT2009",
+                  "ten": "Xác suất và Thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PH2005",
+                  "ten": "Vật lý 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PH2007",
+                  "ten": "Thí nghiệm Vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "LA1015",
+                  "ten": "Pháp văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 4,
+          "tin_chi_hoc_ky": 18,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MT2011",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "AS2049",
+                  "ten": "Cơ học Vật rắn và Sóng cơ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "LA1017",
+                  "ten": "Pháp văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "EE2031",
+                  "ten": "Điện - Giải tích mạch",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 4,
+          "tin_chi_hoc_ky": 2,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA2119",
+                  "ten": "Thực tập Công nhân",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 2
+            }
+          ],
+          "tin_chi_tu_cong": 2
+        },
+        {
+          "so_hoc_ky": 5,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế Chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "LA3021",
+                  "ten": "Pháp văn 5",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI1003",
+                  "ten": "Vẽ kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA2037",
+                  "ten": "Hóa lý - Công nghệ Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CH1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA2039",
+                  "ten": "Hóa hữu Cơ - Công nghệ Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CH1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA1003",
+                  "ten": "Cơ sở Khoa học Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "PH1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 6,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa Xã hội Khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "LA3023",
+                  "ten": "Pháp văn 6",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "IM1021",
+                  "ten": "Khởi nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA2035",
+                  "ten": "Công nghệ Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA2007",
+                  "ten": "Hóa học Polyme",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3121",
+                  "ten": "Thí nghiệm Hóa học Polyme",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2007",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 14
+            }
+          ],
+          "tin_chi_tu_cong": 14
+        },
+        {
+          "so_hoc_ky": 6,
+          "tin_chi_hoc_ky": 2,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA3395",
+                  "ten": "Thực tập Ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2119",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 2
+            }
+          ],
+          "tin_chi_tu_cong": 2
+        },
+        {
+          "so_hoc_ky": 7,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4069",
+                  "ten": "Các Tính chất của Vật liệu Polyme",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA2015",
+                  "ten": "Hóa lý Polymer",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA3123",
+                  "ten": "Thí nghiệm Hóa lý Polyme",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2015",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "MA2037",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA3019",
+                  "ten": "Kỹ thuật Sản xuất các chất Cao phân tử",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4157",
+                  "ten": "Đồ án Chuyên ngành 1 (PBL)",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 14
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_tu_do",
+              "ten": "Tự chọn tự do",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 8,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4067",
+                  "ten": "Kỹ thuật Gia công Polyme",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA3019",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "MA2015",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4153",
+                  "ten": "Công nghệ Cao su",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 9
+            },
+            {
+              "ma_nhom": "hk8_tu_chon_tu_do",
+              "ten": "Tự chọn tự do",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk8_cac_mon_tu_chon_nhom_a",
+              "ten": "Các môn tự chọn nhóm A",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA4085",
+                  "ten": "Polyme Blend",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4159",
+                  "ten": "Công nghệ Phân loại và Tái chế rác thải nhựa",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4161",
+                  "ten": "Công nghệ sản xuất bao bì",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4163",
+                  "ten": "Kỹ thuật sản xuất xenlulo và giấy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4165",
+                  "ten": "Polyme Y sinh và Polyme Phân Hủy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4167",
+                  "ten": "Vật liệu cao su ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "MA4169",
+                  "ten": "Vật liệu polyme xốp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "so_tin_chi_yeu_cau": 5,
+              "tong_tin_chi_nhom": 5,
+              "tin_chi_kha_dung": 21
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 8,
+          "tin_chi_hoc_ky": 2,
+          "nhom": [
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA4395",
+                  "ten": "Thực tập Kỹ sư",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA3395",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 2
+            }
+          ],
+          "tin_chi_tu_cong": 2
+        },
+        {
+          "so_hoc_ky": 9,
+          "tin_chi_hoc_ky": 14,
+          "nhom": [
+            {
+              "ma_nhom": "hk9_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA4079",
+                  "ten": "Công nghệ Các chất Tạo màng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "MA5025",
+                  "ten": "Vật liệu Polymer Composite",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "MA4155",
+                  "ten": "Thí nghiệm Công nghệ Cao su",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "MA5015",
+                  "ten": "Các Phương pháp Phân tích Cấu trúc Vật liệu Hữu cơ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "MA5019",
+                  "ten": "Thực hành Tạo màng và Các Tính chất của Vật liệu Poly",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "MA5007",
+                  "ten": "Đồ án Chuyên ngành 2 (PBL)",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA4395",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                }
+              ],
+              "tong_tin_chi_nhom": 13
+            }
+          ],
+          "tin_chi_tu_cong": 13
+        },
+        {
+          "so_hoc_ky": 10,
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk10_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA5027",
+                  "ten": "Luận văn Tốt nghiệp",
+                  "tin_chi": 9,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA5007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "MA4395",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 10
+                }
+              ],
+              "tong_tin_chi_nhom": 9
+            },
+            {
+              "ma_nhom": "hk10_tu_chon_tu_do",
+              "ten": "Tự chọn tự do",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk10_cac_mon_tu_chon_nhom_a",
+              "ten": "Các môn tự chọn nhóm A",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA4085",
+                  "ten": "Polyme Blend",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "MA4159",
+                  "ten": "Công nghệ Phân loại và Tái chế rác thải nhựa",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "MA4161",
+                  "ten": "Công nghệ sản xuất bao bì",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "MA4163",
+                  "ten": "Kỹ thuật sản xuất xenlulo và giấy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "MA4165",
+                  "ten": "Polyme Y sinh và Polyme Phân Hủy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "MA4167",
+                  "ten": "Vật liệu cao su ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "MA4169",
+                  "ten": "Vật liệu polyme xốp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 21
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        }
+      ],
+      "tong_tin_chi": 164,
+      "so_hoc_ky": 13
+    }
+  ]
+}

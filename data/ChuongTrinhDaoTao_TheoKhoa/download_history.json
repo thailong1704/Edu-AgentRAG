@@ -1,0 +1,2550 @@
+{
+  "downloaded": [
+    {
+      "file_id": "1uh0e8FaZsc82WZBBE6aYobZN5APD2Fdp",
+      "filename": "2023_BD_BDG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Bảo dưỡng Công nghiệp\\2023_BD_BDG.pdf",
+      "file_size": 187020,
+      "downloaded_at": "2026-07-24T12:18:58.615686",
+      "status": "success"
+    },
+    {
+      "file_id": "1d_SC8SsEnD1vHEuKnQkJLMhsZ8UpH0T-",
+      "filename": "2024_BD_BDG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Bảo dưỡng Công nghiệp\\2024_BD_BDG.pdf",
+      "file_size": 525182,
+      "downloaded_at": "2026-07-24T12:18:59.488575",
+      "status": "success"
+    },
+    {
+      "file_id": "1r5Xd5fi42vsI7H6Y4ZL6yGwIuZy5dxo5",
+      "filename": "2022_BD_BDG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Bảo dưỡng Công nghiệp\\2022_BD_BDG.pdf",
+      "file_size": 186815,
+      "downloaded_at": "2026-07-24T12:19:00.587100",
+      "status": "success"
+    },
+    {
+      "file_id": "1IImtWHGHL4gIZmm77Mpf-9Uqg1lx2Zbt",
+      "filename": "2021_BD_BDG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Bảo dưỡng Công nghiệp\\2021_BD_BDG.pdf",
+      "file_size": 196346,
+      "downloaded_at": "2026-07-24T12:19:05.314577",
+      "status": "success"
+    },
+    {
+      "file_id": "1nVWQSPbL5D2MKVY2-MnF-d1FQjsJIuBL",
+      "filename": "2020_BD_BDG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Bảo dưỡng Công nghiệp\\2020_BD_BDG.pdf",
+      "file_size": 294123,
+      "downloaded_at": "2026-07-24T12:19:06.559866",
+      "status": "success"
+    },
+    {
+      "file_id": "1Vv-FCvi3jzg1T0ylR6-dJQ6p5DQ7LIq4",
+      "filename": "2019_BD_BDG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Bảo dưỡng Công nghiệp\\2019_BD_BDG.pdf",
+      "file_size": 712002,
+      "downloaded_at": "2026-07-24T12:19:09.791299",
+      "status": "success"
+    },
+    {
+      "file_id": "12FB0w4I1y-x5ugbB7mWAfmVTCyX1TJik",
+      "filename": "2024_CK_CK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ khí\\2024_CK_CK1.pdf",
+      "file_size": 446810,
+      "downloaded_at": "2026-07-24T12:19:12.420589",
+      "status": "success"
+    },
+    {
+      "file_id": "1DfCrdG_uucrOa5ExW5oQgmSf6XrYceUc",
+      "filename": "2023_CK_CK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ khí\\2023_CK_CK1.pdf",
+      "file_size": 190755,
+      "downloaded_at": "2026-07-24T12:19:15.664181",
+      "status": "success"
+    },
+    {
+      "file_id": "1iz6DOuacA4kYyrry0E5i0HX8_61tSLjH",
+      "filename": "2022_CK_CK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ khí\\2022_CK_CK1.pdf",
+      "file_size": 189490,
+      "downloaded_at": "2026-07-24T12:19:16.737046",
+      "status": "success"
+    },
+    {
+      "file_id": "1g72XcCz0Zglrt5foJxhCSDt8Bj_d2erM",
+      "filename": "2021_CK_CK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ khí\\2021_CK_CK1.pdf",
+      "file_size": 188030,
+      "downloaded_at": "2026-07-24T12:19:18.858151",
+      "status": "success"
+    },
+    {
+      "file_id": "1DFYXZEHZn_TkBFDVTL4P6METBKX5RaBv",
+      "filename": "2024_CK_CDM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Công nghệ Dệt, May\\2024_CK_CDM.pdf",
+      "file_size": 455488,
+      "downloaded_at": "2026-07-24T12:19:26.704590",
+      "status": "success"
+    },
+    {
+      "file_id": "1oLUTILI7wiFB4omaN10UzCurQhdZQt9h",
+      "filename": "2020_CK_CK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ khí\\2020_CK_CK1.pdf",
+      "file_size": 2550639,
+      "downloaded_at": "2026-07-24T12:19:27.915115",
+      "status": "success"
+    },
+    {
+      "file_id": "1N3qdwvFL4_45Sv8kgtrjblqHOjeEI6rV",
+      "filename": "2019_CK_CK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ khí\\2019_CK_CK1.pdf",
+      "file_size": 2554415,
+      "downloaded_at": "2026-07-24T12:19:28.765269",
+      "status": "success"
+    },
+    {
+      "file_id": "1Tc_o9DFM2qXim8WblIcuHPnjAFJKxbv6",
+      "filename": "2023_CK_CDM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Công nghệ Dệt, May\\2023_CK_CDM.pdf",
+      "file_size": 171925,
+      "downloaded_at": "2026-07-24T12:19:32.995948",
+      "status": "success"
+    },
+    {
+      "file_id": "1W_gKtKCpeWXXErEwg0EsbGAU5DW7oI8e",
+      "filename": "2022_CK_CDM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Công nghệ Dệt, May\\2022_CK_CDM.pdf",
+      "file_size": 171073,
+      "downloaded_at": "2026-07-24T12:19:34.256870",
+      "status": "success"
+    },
+    {
+      "file_id": "1sEbcXfLicRuj5ENFJ2FQPuKJYJ52wKwF",
+      "filename": "2021_CK_CDM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Công nghệ Dệt, May\\2021_CK_CDM.pdf",
+      "file_size": 170992,
+      "downloaded_at": "2026-07-24T12:19:34.901469",
+      "status": "success"
+    },
+    {
+      "file_id": "1Q2rMkduV0FseaAxQKev4UT4hXu_bWQbN",
+      "filename": "2020_CK_CDM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Công nghệ Dệt, May\\2020_CK_CDM.pdf",
+      "file_size": 501691,
+      "downloaded_at": "2026-07-24T12:19:40.498887",
+      "status": "success"
+    },
+    {
+      "file_id": "1iK3s7aeLYI2O0VYM11-7HmR7-atmkF4F",
+      "filename": "2019_CK_CDM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Công nghệ Dệt, May\\2019_CK_CDM.pdf",
+      "file_size": 502371,
+      "downloaded_at": "2026-07-24T12:19:41.540335",
+      "status": "success"
+    },
+    {
+      "file_id": "1ZR44Mxzs97EP86cs5dOaIaR_F3DmMxc0",
+      "filename": "2024_CK_COD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ điện tử\\2024_CK_COD.pdf",
+      "file_size": 444540,
+      "downloaded_at": "2026-07-24T12:19:42.393565",
+      "status": "success"
+    },
+    {
+      "file_id": "1j-0iWO6zt64q4dDid4stxtq5C7QKzUFf",
+      "filename": "2023_CK_COD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ điện tử\\2023_CK_COD.pdf",
+      "file_size": 202809,
+      "downloaded_at": "2026-07-24T12:19:46.908857",
+      "status": "success"
+    },
+    {
+      "file_id": "1A8RNx6OZ9BTzHkwHZLq9GFfHKzZzDxCz",
+      "filename": "2022_CK_COD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ điện tử\\2022_CK_COD.pdf",
+      "file_size": 210370,
+      "downloaded_at": "2026-07-24T12:19:47.671720",
+      "status": "success"
+    },
+    {
+      "file_id": "1rq-TITAUBV5uwcAF7vTf2kfWB4t8G0p8",
+      "filename": "2021_CK_COD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ điện tử\\2021_CK_COD.pdf",
+      "file_size": 202947,
+      "downloaded_at": "2026-07-24T12:19:48.009690",
+      "status": "success"
+    },
+    {
+      "file_id": "1fEq8fZXsqC344aFCBJcIaLL2bU1eqnrF",
+      "filename": "2020_CK_COD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ điện tử\\2020_CK_COD.pdf",
+      "file_size": 159598,
+      "downloaded_at": "2026-07-24T12:19:53.356202",
+      "status": "success"
+    },
+    {
+      "file_id": "17vVqWK_xRP3k5TggP-fuagA2RReqI8LP",
+      "filename": "2024_CK_DET.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Dệt\\2024_CK_DET.pdf",
+      "file_size": 449806,
+      "downloaded_at": "2026-07-24T12:19:54.878020",
+      "status": "success"
+    },
+    {
+      "file_id": "1Z0sowohjk9q3-MDLK1oZ4-RTxWcnpnVK",
+      "filename": "2019_CK_COD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Cơ điện tử\\2019_CK_COD.pdf",
+      "file_size": 3411071,
+      "downloaded_at": "2026-07-24T12:19:55.968486",
+      "status": "success"
+    },
+    {
+      "file_id": "1V9__S4HBy53gOK5TfxrDahL_33BsY1Qb",
+      "filename": "2023_CK_DET.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Dệt\\2023_CK_DET.pdf",
+      "file_size": 172129,
+      "downloaded_at": "2026-07-24T12:19:59.687761",
+      "status": "success"
+    },
+    {
+      "file_id": "15uvw5l1W9MlggpFt8ualulQN3SdOyROs",
+      "filename": "2022_CK_DET.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Dệt\\2022_CK_DET.pdf",
+      "file_size": 170788,
+      "downloaded_at": "2026-07-24T12:20:01.059115",
+      "status": "success"
+    },
+    {
+      "file_id": "16REa_pWr1z8pJCZbMdz8XetKI-KQzaP6",
+      "filename": "2021_CK_DET.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Dệt\\2021_CK_DET.pdf",
+      "file_size": 170737,
+      "downloaded_at": "2026-07-24T12:20:02.819384",
+      "status": "success"
+    },
+    {
+      "file_id": "1ILB-ZbHtaMgrp83k6mHKDlBMXNsoK8gW",
+      "filename": "2020_CK_DET.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Dệt\\2020_CK_DET.pdf",
+      "file_size": 502117,
+      "downloaded_at": "2026-07-24T12:20:06.520470",
+      "status": "success"
+    },
+    {
+      "file_id": "1iXoRkVFom6SlKFenb7Ns32YHJ66VvGJp",
+      "filename": "2019_CK_DET.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Dệt\\2019_CK_DET.pdf",
+      "file_size": 502886,
+      "downloaded_at": "2026-07-24T12:20:07.030550",
+      "status": "success"
+    },
+    {
+      "file_id": "140R1gHaB61369ZbQb0pshX6j-4Mbi7ij",
+      "filename": "2024_CK_NL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Nhiệt\\2024_CK_NL1.pdf",
+      "file_size": 453646,
+      "downloaded_at": "2026-07-24T12:20:09.522299",
+      "status": "success"
+    },
+    {
+      "file_id": "1VrZOtacqMtP786DHFVXAX_1u_7y0QHeA",
+      "filename": "2023_CK_NL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Nhiệt\\2023_CK_NL1.pdf",
+      "file_size": 197032,
+      "downloaded_at": "2026-07-24T12:20:12.920942",
+      "status": "success"
+    },
+    {
+      "file_id": "1HMyjxUhcnbLHOJ8HvZ0LyCbhKdaYbxUA",
+      "filename": "2022_CK_NL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Nhiệt\\2022_CK_NL1.pdf",
+      "file_size": 201317,
+      "downloaded_at": "2026-07-24T12:20:13.407604",
+      "status": "success"
+    },
+    {
+      "file_id": "1Qld_glq4ITla1LvJ2zZwU8z2g5_9sohr",
+      "filename": "2021_CK_NL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Nhiệt\\2021_CK_NL1.pdf",
+      "file_size": 210503,
+      "downloaded_at": "2026-07-24T12:20:15.968846",
+      "status": "success"
+    },
+    {
+      "file_id": "1fZNTZ_0QZi4MFZnK21it6JRQrTcGf5zn",
+      "filename": "2020_CK_NL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Nhiệt\\2020_CK_NL1.pdf",
+      "file_size": 895243,
+      "downloaded_at": "2026-07-24T12:20:19.341265",
+      "status": "success"
+    },
+    {
+      "file_id": "13f3rajThI-2KRb8IypisZz8rbHL1tDc0",
+      "filename": "2019_CK_NL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CƠ KHÍ\\Kỹ thuật Nhiệt\\2019_CK_NL1.pdf",
+      "file_size": 896297,
+      "downloaded_at": "2026-07-24T12:20:20.399091",
+      "status": "success"
+    },
+    {
+      "file_id": "1KPiNqnSnVUWyFi_1EnnMWMYrSeU4Y5nt",
+      "filename": "2024_DC_DC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Địa chất\\2024_DC_DC1.pdf",
+      "file_size": 523974,
+      "downloaded_at": "2026-07-24T12:20:22.660577",
+      "status": "success"
+    },
+    {
+      "file_id": "1rNChvre8M1QehR9cfFusXTJT-XOQtZRi",
+      "filename": "2023_DC_DC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Địa chất\\2023_DC_DC1.pdf",
+      "file_size": 302068,
+      "downloaded_at": "2026-07-24T12:20:25.836715",
+      "status": "success"
+    },
+    {
+      "file_id": "1o0LmtJoAYl9B4HwTljxzJCr2fUgo6bTw",
+      "filename": "2022_DC_DC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Địa chất\\2022_DC_DC1.pdf",
+      "file_size": 274827,
+      "downloaded_at": "2026-07-24T12:20:26.888728",
+      "status": "success"
+    },
+    {
+      "file_id": "1q80vTz3CZAqkR7pAcS41Nxak_1xdCq9U",
+      "filename": "2021_DC_DC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Địa chất\\2021_DC_DC1.pdf",
+      "file_size": 258601,
+      "downloaded_at": "2026-07-24T12:20:28.744877",
+      "status": "success"
+    },
+    {
+      "file_id": "1mraS_maZkIjSU6wt6RH3VLhGrhMB4cgE",
+      "filename": "2020_DC_DC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Địa chất\\2020_DC_DC1.pdf",
+      "file_size": 1812124,
+      "downloaded_at": "2026-07-24T12:20:33.246416",
+      "status": "success"
+    },
+    {
+      "file_id": "1Rlv46eoSoi9GbaKq3UpGU2dhGdStXmKZ",
+      "filename": "2019_DC_DC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Địa chất\\2019_DC_DC1.pdf",
+      "file_size": 1812177,
+      "downloaded_at": "2026-07-24T12:20:34.548797",
+      "status": "success"
+    },
+    {
+      "file_id": "1WJck5ZvRWTDeBXPwABrlbC91JqH_ZOoa",
+      "filename": "2024_DC_DK.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Dầu khí\\2024_DC_DK.pdf",
+      "file_size": 449813,
+      "downloaded_at": "2026-07-24T12:20:34.749468",
+      "status": "success"
+    },
+    {
+      "file_id": "13FoJIoMy4tczba_63PaVsQ5N8ViTqpGc",
+      "filename": "2023_DC_DK.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Dầu khí\\2023_DC_DK.pdf",
+      "file_size": 191489,
+      "downloaded_at": "2026-07-24T12:20:39.466754",
+      "status": "success"
+    },
+    {
+      "file_id": "1KEpiHqZZ1pZ87H01vQehsok82ggj3pVC",
+      "filename": "2022_DC_DK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Dầu khí\\2022_DC_DK1.pdf",
+      "file_size": 192866,
+      "downloaded_at": "2026-07-24T12:20:41.125909",
+      "status": "success"
+    },
+    {
+      "file_id": "1_tJRuZwHlYJD3nHWht3TBjnqrsNUWDFF",
+      "filename": "2021_DC_DK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Dầu khí\\2021_DC_DK1.pdf",
+      "file_size": 176873,
+      "downloaded_at": "2026-07-24T12:20:41.274370",
+      "status": "success"
+    },
+    {
+      "file_id": "1WOLKCenPzef7xdGM1Ft6cPjb1JRuVyQR",
+      "filename": "2020_DC_DK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Dầu khí\\2020_DC_DK1.pdf",
+      "file_size": 1357844,
+      "downloaded_at": "2026-07-24T12:20:46.077731",
+      "status": "success"
+    },
+    {
+      "file_id": "1bpWkmgAj-ALRDb5HfUFrWjUoVFjRDqAB",
+      "filename": "2024_DC_DX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Địa Kỹ thuật Xây dựng\\2024_DC_DX.pdf",
+      "file_size": 444049,
+      "downloaded_at": "2026-07-24T12:20:48.237027",
+      "status": "success"
+    },
+    {
+      "file_id": "1GVFesMfvIM3UmZARJmFsYNqDU_A17e-L",
+      "filename": "2019_DC_DK1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT ĐỊA CHẤT VÀ DẦU KHÍ\\Kỹ thuật Dầu khí\\2019_DC_DK1.pdf",
+      "file_size": 1359069,
+      "downloaded_at": "2026-07-24T12:20:48.676338",
+      "status": "success"
+    },
+    {
+      "file_id": "1KP6S1arHzXJCkV7UpNsNNQLvqJP20dMQ",
+      "filename": "2024_DD_DTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điều khiển và Tự động hóa\\2024_DD_DTH.pdf",
+      "file_size": 448855,
+      "downloaded_at": "2026-07-24T12:20:52.606989",
+      "status": "success"
+    },
+    {
+      "file_id": "1H3Wt3ZVxF_-sGAVfjJPeAm7bgjRCkh0s",
+      "filename": "2022_DD_DTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điều khiển và Tự động hóa\\2022_DD_DTH.pdf",
+      "file_size": 180912,
+      "downloaded_at": "2026-07-24T12:20:54.846568",
+      "status": "success"
+    },
+    {
+      "file_id": "1izO2C1NZJ_Y6DbphodjKxX0Coj5ZIEK3",
+      "filename": "2023_DD_DTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điều khiển và Tự động hóa\\2023_DD_DTH.pdf",
+      "file_size": 197700,
+      "downloaded_at": "2026-07-24T12:20:54.856574",
+      "status": "success"
+    },
+    {
+      "file_id": "1azYXufbMtD8clPqTruyZh8lZ8P3CrLCC",
+      "filename": "2021_DD_DTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điều khiển và Tự động hóa\\2021_DD_DTH.pdf",
+      "file_size": 181130,
+      "downloaded_at": "2026-07-24T12:20:58.552093",
+      "status": "success"
+    },
+    {
+      "file_id": "1Ex3nqxzvmIIqR4sfj5lGR9UHaIcR89_3",
+      "filename": "2019_DD_DTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điều khiển và Tự động hóa\\2019_DD_DTH.pdf",
+      "file_size": 1238918,
+      "downloaded_at": "2026-07-24T12:21:02.332886",
+      "status": "success"
+    },
+    {
+      "file_id": "1Ah6efjuWgLZ2hMqwwosUL4mwvuiopKjN",
+      "filename": "2020_DD_DTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điều khiển và Tự động hóa\\2020_DD_DTH.pdf",
+      "file_size": 2195445,
+      "downloaded_at": "2026-07-24T12:21:03.290614",
+      "status": "success"
+    },
+    {
+      "file_id": "1834mGPW4ADaiAzzD_-Q-q2VinnTOXHZh",
+      "filename": "2024_DD_DVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện tử - Viễn thông\\2024_DD_DVT.pdf",
+      "file_size": 451305,
+      "downloaded_at": "2026-07-24T12:21:05.190000",
+      "status": "success"
+    },
+    {
+      "file_id": "138b_Tg-d3U01W09XKdKnWxqnKLbAJxaK",
+      "filename": "2023_DD_DVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện tử - Viễn thông\\2023_DD_DVT.pdf",
+      "file_size": 183299,
+      "downloaded_at": "2026-07-24T12:21:08.890374",
+      "status": "success"
+    },
+    {
+      "file_id": "1pFAATynX8e4Icckkb3jaZO9f867G0TLk",
+      "filename": "2022_DD_DVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện tử - Viễn thông\\2022_DD_DVT.pdf",
+      "file_size": 182025,
+      "downloaded_at": "2026-07-24T12:21:09.306646",
+      "status": "success"
+    },
+    {
+      "file_id": "1bhimrnkNCAMGQfOguG_a4AFZmAnLOmhf",
+      "filename": "2021_DD_DVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện tử - Viễn thông\\2021_DD_DVT.pdf",
+      "file_size": 182279,
+      "downloaded_at": "2026-07-24T12:21:11.575877",
+      "status": "success"
+    },
+    {
+      "file_id": "19MWDCIk4gNhFv3oqSXG2d6_RTIbM7gXe",
+      "filename": "2020_DD_DVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện tử - Viễn thông\\2020_DD_DVT.pdf",
+      "file_size": 2194670,
+      "downloaded_at": "2026-07-24T12:21:16.668023",
+      "status": "success"
+    },
+    {
+      "file_id": "1kZjmxQO4c0gA-dBb1UcxLyH_QxJt3liO",
+      "filename": "2019_DD_DVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện tử - Viễn thông\\2019_DD_DVT.pdf",
+      "file_size": 1238757,
+      "downloaded_at": "2026-07-24T12:21:16.713489",
+      "status": "success"
+    },
+    {
+      "file_id": "1SLmXT32PvCHi_QhCTc_Nb4bsZ8ia9_nx",
+      "filename": "2024_DD_KDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện\\2024_DD_KDI.pdf",
+      "file_size": 456912,
+      "downloaded_at": "2026-07-24T12:21:17.255843",
+      "status": "success"
+    },
+    {
+      "file_id": "1CygDZcT0d2ixU_A1ibQpxvoht2m3SOwK",
+      "filename": "2022_DD_KDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện\\2022_DD_KDI.pdf",
+      "file_size": 184705,
+      "downloaded_at": "2026-07-24T12:21:23.086054",
+      "status": "success"
+    },
+    {
+      "file_id": "1OroyUr9vwCe31jvSa_KyyM9Z1a5lVe6H",
+      "filename": "2021_DD_KDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện\\2021_DD_KDI.pdf",
+      "file_size": 184771,
+      "downloaded_at": "2026-07-24T12:21:23.338262",
+      "status": "success"
+    },
+    {
+      "file_id": "1wcLmDJoKZPH9rVBLaY742Jr2KSfvZg-K",
+      "filename": "2023_DD_KDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện\\2023_DD_KDI.pdf",
+      "file_size": 184072,
+      "downloaded_at": "2026-07-24T12:21:23.493106",
+      "status": "success"
+    },
+    {
+      "file_id": "1J_n4IJKkqHGj7czpYoojVKs1JROpvbiY",
+      "filename": "2020_DD_KDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện\\2020_DD_KDI.pdf",
+      "file_size": 240310,
+      "downloaded_at": "2026-07-24T12:21:29.460946",
+      "status": "success"
+    },
+    {
+      "file_id": "1ihj12y3dAl2tSbMppB2Iv3HjUgWP-AHf",
+      "filename": "2024_DD_TKVM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Thiết kế vi mạch\\2024_DD_TKVM.pdf",
+      "file_size": 448273,
+      "downloaded_at": "2026-07-24T12:21:30.391672",
+      "status": "success"
+    },
+    {
+      "file_id": "14TIvA5t3jUE_ry24Hy2-kyqsX6hvPntU",
+      "filename": "2019_DD_KDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Kỹ thuật Điện\\2019_DD_KDI.pdf",
+      "file_size": 1233944,
+      "downloaded_at": "2026-07-24T12:21:30.848175",
+      "status": "success"
+    },
+    {
+      "file_id": "1IgjCE_Rqu8yXFWZ6VM89qJLlmpRqcg8y",
+      "filename": "2024_DD_DTVTKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện\\2024_DD_DTVTKTD.pdf",
+      "file_size": 168556,
+      "downloaded_at": "2026-07-24T12:21:36.274005",
+      "status": "success"
+    },
+    {
+      "file_id": "17GOARnjiS6oq2OKoZ-RP9yvvMZ9C7nK_",
+      "filename": "2022_DD_DTVTKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện\\2022_DD_DTVTKTD.pdf",
+      "file_size": 206613,
+      "downloaded_at": "2026-07-24T12:21:37.561320",
+      "status": "success"
+    },
+    {
+      "file_id": "1qmxfAcpvy0rNP_KsFyuvgZi9qzPcPvIf",
+      "filename": "2023_DD_DTVTKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện\\2023_DD_DTVTKTD.pdf",
+      "file_size": 210639,
+      "downloaded_at": "2026-07-24T12:21:37.760389",
+      "status": "success"
+    },
+    {
+      "file_id": "17dUmG0ADguGdv-f_AnRRP1KuGZR_ueLQ",
+      "filename": "2021_DD_DTVTKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện\\2021_DD_DTVTKTD.pdf",
+      "file_size": 207315,
+      "downloaded_at": "2026-07-24T12:21:42.092087",
+      "status": "success"
+    },
+    {
+      "file_id": "1Vlnny0w7bCjxg_hnEFQqcrlJTVDrYilu",
+      "filename": "2020_DD_DTVTKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện\\2020_DD_DTVTKTD.pdf",
+      "file_size": 918944,
+      "downloaded_at": "2026-07-24T12:21:44.459969",
+      "status": "success"
+    },
+    {
+      "file_id": "1KAztPPWogauImNkWiSLFXf8G-DBabQ-_",
+      "filename": "2019_DD_DTVTKDT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điện\\2019_DD_DTVTKDT.pdf",
+      "file_size": 920177,
+      "downloaded_at": "2026-07-24T12:21:45.010568",
+      "status": "success"
+    },
+    {
+      "file_id": "1UaJa5jYq1spe9fwEoCImN2cgTHypliqG",
+      "filename": "2024_DD_DTVTTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điều khiển và Tự động hóa\\2024_DD_DTVTTDH.pdf",
+      "file_size": 170008,
+      "downloaded_at": "2026-07-24T12:21:48.958055",
+      "status": "success"
+    },
+    {
+      "file_id": "1kNzbFqC7zzYP_xC_4n04a4_1B_8DNjAZ",
+      "filename": "2023_DD_DTVTTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điều khiển và Tự động hóa\\2023_DD_DTVTTDH.pdf",
+      "file_size": 191890,
+      "downloaded_at": "2026-07-24T12:21:50.994997",
+      "status": "success"
+    },
+    {
+      "file_id": "1WGqcs3dwypH1sAyQn2O5ZxyKzuTySGci",
+      "filename": "2022_DD_DTVTTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điều khiển và Tự động hóa\\2022_DD_DTVTTDH.pdf",
+      "file_size": 206874,
+      "downloaded_at": "2026-07-24T12:21:51.522182",
+      "status": "success"
+    },
+    {
+      "file_id": "1nG1cYr47ECE4EUiuTh0aNsVfK-ZtoQA2",
+      "filename": "2021_DD_DTVTTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điều khiển và Tự động hóa\\2021_DD_DTVTTDH.pdf",
+      "file_size": 207541,
+      "downloaded_at": "2026-07-24T12:21:55.257292",
+      "status": "success"
+    },
+    {
+      "file_id": "1VpqC8pK6V8O6rC2n2H6VgljYemP-xn2V",
+      "filename": "2020_DD_DTVTTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điều khiển và Tự động hóa\\2020_DD_DTVTTDH.pdf",
+      "file_size": 917507,
+      "downloaded_at": "2026-07-24T12:21:58.130716",
+      "status": "success"
+    },
+    {
+      "file_id": "1pDo8h4CuucTUiugUuTw8sqkufNp3__KR",
+      "filename": "2019_DD_DTVTTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện tử - Viễn thông - Kỹ thuật Điều khiển và Tự động hóa\\2019_DD_DTVTTDH.pdf",
+      "file_size": 918402,
+      "downloaded_at": "2026-07-24T12:21:58.395098",
+      "status": "success"
+    },
+    {
+      "file_id": "1ReK3bTxygkXOW3qPD9kud8hEh3BIfWh6",
+      "filename": "2024_DD_KTDDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông\\2024_DD_KTDDTVT.pdf",
+      "file_size": 168615,
+      "downloaded_at": "2026-07-24T12:22:01.688656",
+      "status": "success"
+    },
+    {
+      "file_id": "1mSuWuuUqlDmLJuREjVNo_g1kRVg-hEnN",
+      "filename": "2022_DD_KTDDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông\\2022_DD_KTDDTVT.pdf",
+      "file_size": 189844,
+      "downloaded_at": "2026-07-24T12:22:05.035988",
+      "status": "success"
+    },
+    {
+      "file_id": "1S3NnpBFl4TwERe5YhEZbnA89dslf1qQy",
+      "filename": "2023_DD_KTDDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông\\2023_DD_KTDDTVT.pdf",
+      "file_size": 191224,
+      "downloaded_at": "2026-07-24T12:22:05.648103",
+      "status": "success"
+    },
+    {
+      "file_id": "1CYdYmG0_1n6KqBE2nog0udjSnelXShKX",
+      "filename": "2021_DD_KTDDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông\\2021_DD_KTDDTVT.pdf",
+      "file_size": 190174,
+      "downloaded_at": "2026-07-24T12:22:08.296565",
+      "status": "success"
+    },
+    {
+      "file_id": "1F7uWywR31iWxsSKWckxMNEGqh_8wU-NV",
+      "filename": "2020_DD_KTDDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông\\2020_DD_KTDDTVT.pdf",
+      "file_size": 919342,
+      "downloaded_at": "2026-07-24T12:22:13.770217",
+      "status": "success"
+    },
+    {
+      "file_id": "13rYW4q39LEQuBYvCM6X_a7JrT_HUf1V2",
+      "filename": "2024_DD_KTDTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa\\2024_DD_KTDTDH.pdf",
+      "file_size": 168756,
+      "downloaded_at": "2026-07-24T12:22:14.694859",
+      "status": "success"
+    },
+    {
+      "file_id": "1d5cWOXRlRgd3U3_th2F_SwzCBRJQ9mz4",
+      "filename": "2019_DD_KTDDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điện tử - Viễn thông\\2019_DD_KTDDTVT.pdf",
+      "file_size": 920545,
+      "downloaded_at": "2026-07-24T12:22:15.025124",
+      "status": "success"
+    },
+    {
+      "file_id": "1wx_ZRTJ-YOl8FQju0Ga30x5nyTYP-yuL",
+      "filename": "2023_DD_KTDTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa\\2023_DD_KTDTDH.pdf",
+      "file_size": 191662,
+      "downloaded_at": "2026-07-24T12:22:18.057792",
+      "status": "success"
+    },
+    {
+      "file_id": "1pQfITJ1blKYPmQmQd4IXKqotkKGmTZhy",
+      "filename": "2022_DD_KTDTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa\\2022_DD_KTDTDH.pdf",
+      "file_size": 189428,
+      "downloaded_at": "2026-07-24T12:22:18.902739",
+      "status": "success"
+    },
+    {
+      "file_id": "1B6V_vxnGfRRDl9yqVecvvhkIDQiIClVy",
+      "filename": "2021_DD_KTDTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa\\2021_DD_KTDTDH.pdf",
+      "file_size": 189759,
+      "downloaded_at": "2026-07-24T12:22:19.148781",
+      "status": "success"
+    },
+    {
+      "file_id": "11eHtnxh_Z8JxsYjkrTFsv9HDEbm-pNDZ",
+      "filename": "2020_DD_KTDTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa\\2020_DD_KTDTDH.pdf",
+      "file_size": 917713,
+      "downloaded_at": "2026-07-24T12:22:22.500543",
+      "status": "success"
+    },
+    {
+      "file_id": "1cGUo0rGI3IgQxnV9j-bgzjXDx1upHKul",
+      "filename": "2024_DD_TDHDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện tử - Viễn thông\\2024_DD_TDHDTVT.pdf",
+      "file_size": 169876,
+      "downloaded_at": "2026-07-24T12:22:23.382974",
+      "status": "success"
+    },
+    {
+      "file_id": "16iyzgikiUwxdktumojVfpfXSDkQ-Nc50",
+      "filename": "2019_DD_KTDTDH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điện - Kỹ thuật Điều khiển và Tự động hóa\\2019_DD_KTDTDH.pdf",
+      "file_size": 919511,
+      "downloaded_at": "2026-07-24T12:22:23.514201",
+      "status": "success"
+    },
+    {
+      "file_id": "17SY8KONYB_fp_CRqmO8gMNa0BV_YTkDk",
+      "filename": "2023_DD_TDHDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện tử - Viễn thông\\2023_DD_TDHDTVT.pdf",
+      "file_size": 190418,
+      "downloaded_at": "2026-07-24T12:22:26.660018",
+      "status": "success"
+    },
+    {
+      "file_id": "1vLFHOqybWaSbOAtxG9IMFyrbJHQ6dPcB",
+      "filename": "2022_DD_TDHDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện tử - Viễn thông\\2022_DD_TDHDTVT.pdf",
+      "file_size": 188960,
+      "downloaded_at": "2026-07-24T12:22:27.140583",
+      "status": "success"
+    },
+    {
+      "file_id": "1vZqD5C9VpmAZIF7N7gTw5OlJcgNBAwJT",
+      "filename": "2021_DD_TDHDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện tử - Viễn thông\\2021_DD_TDHDTVT.pdf",
+      "file_size": 189241,
+      "downloaded_at": "2026-07-24T12:22:27.615534",
+      "status": "success"
+    },
+    {
+      "file_id": "1aDVBQdfxm5-Qb0KEMBaL_ij-wzAk-lgQ",
+      "filename": "2020_DD_TDHDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện tử - Viễn thông\\2020_DD_TDHDTVT.pdf",
+      "file_size": 911963,
+      "downloaded_at": "2026-07-24T12:22:31.254929",
+      "status": "success"
+    },
+    {
+      "file_id": "1n1aX0cmVmtfQuYJlukua6WPAeIqEFs41",
+      "filename": "2024_DD_TDHKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện\\2024_DD_TDHKTD.pdf",
+      "file_size": 168781,
+      "downloaded_at": "2026-07-24T12:22:31.824788",
+      "status": "success"
+    },
+    {
+      "file_id": "1vAibjgzTI0EL6osIEJLM_rzAA4fiPteo",
+      "filename": "2019_DD_TDHDTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện tử - Viễn thông\\2019_DD_TDHDTVT.pdf",
+      "file_size": 913557,
+      "downloaded_at": "2026-07-24T12:22:31.869230",
+      "status": "success"
+    },
+    {
+      "file_id": "1B93HXA2a9tQLe8FhLQrNpJBLkop_rZx2",
+      "filename": "2023_DD_TDHKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện\\2023_DD_TDHKTD.pdf",
+      "file_size": 188318,
+      "downloaded_at": "2026-07-24T12:22:35.771580",
+      "status": "success"
+    },
+    {
+      "file_id": "1XxtBvwhWDlbDjNK_C5E3VznYn5ruYtma",
+      "filename": "2022_DD_TDHKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện\\2022_DD_TDHKTD.pdf",
+      "file_size": 187723,
+      "downloaded_at": "2026-07-24T12:22:36.221522",
+      "status": "success"
+    },
+    {
+      "file_id": "1y-dnpgzn1l1bi1hyVsg8EnVLNEZgFSn1",
+      "filename": "2021_DD_TDHKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện\\2021_DD_TDHKTD.pdf",
+      "file_size": 188023,
+      "downloaded_at": "2026-07-24T12:22:36.394911",
+      "status": "success"
+    },
+    {
+      "file_id": "1KaegOSwLnQojqh4KwYz5z7arPrfHjjJJ",
+      "filename": "2020_DD_TDHKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện\\2020_DD_TDHKTD.pdf",
+      "file_size": 912851,
+      "downloaded_at": "2026-07-24T12:22:42.211998",
+      "status": "success"
+    },
+    {
+      "file_id": "1ENl6ECorVWerXjJHofXE8hFP097Ae1nk",
+      "filename": "2019_DD_TDHKTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA ĐIỆN - ĐIỆN TỬ\\Song ngành Kỹ thuật Điều khiển và Tự động hóa - Kỹ thuật Điện\\2019_DD_TDHKTD.pdf",
+      "file_size": 913956,
+      "downloaded_at": "2026-07-24T12:22:43.036777",
+      "status": "success"
+    },
+    {
+      "file_id": "1JN4T5W568mkCTNK1Yt0sZ9RuvAsvckHo",
+      "filename": "2024_GT_HKG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Hàng không\\2024_GT_HKG.pdf",
+      "file_size": 457062,
+      "downloaded_at": "2026-07-24T12:22:43.232112",
+      "status": "success"
+    },
+    {
+      "file_id": "19tmeBbAj4_olavKdjM_tlffeJeuzfW8D",
+      "filename": "2023_GT_HKG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Hàng không\\2023_GT_HKG.pdf",
+      "file_size": 206509,
+      "downloaded_at": "2026-07-24T12:22:47.371201",
+      "status": "success"
+    },
+    {
+      "file_id": "11tfcmc5MKwdSxlwxoWNJK0ysnp4uuYIK",
+      "filename": "2022_GT_HKG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Hàng không\\2022_GT_HKG.pdf",
+      "file_size": 205063,
+      "downloaded_at": "2026-07-24T12:22:49.099745",
+      "status": "success"
+    },
+    {
+      "file_id": "1nDElI3rD1th70xHOsKBJujGAQeoyoyQX",
+      "filename": "2021_GT_HKG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Hàng không\\2021_GT_HKG.pdf",
+      "file_size": 213173,
+      "downloaded_at": "2026-07-24T12:22:49.379228",
+      "status": "success"
+    },
+    {
+      "file_id": "1HRZXy1okm4OikXLGD8qUcqD2zv2UYwbu",
+      "filename": "2020_GT_HKG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Hàng không\\2020_GT_HKG.pdf",
+      "file_size": 895034,
+      "downloaded_at": "2026-07-24T12:22:53.664741",
+      "status": "success"
+    },
+    {
+      "file_id": "1lqT61khTSdW1urc8w1gu4NmKcJPVau0u",
+      "filename": "2024_GT_KTO.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Ô tô\\2024_GT_KTO.pdf",
+      "file_size": 436543,
+      "downloaded_at": "2026-07-24T12:22:55.015039",
+      "status": "success"
+    },
+    {
+      "file_id": "1srenkY1MMZw9kC8xSzfOMY3rAufT9nn0",
+      "filename": "2019_GT_HKG.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Hàng không\\2019_GT_HKG.pdf",
+      "file_size": 522383,
+      "downloaded_at": "2026-07-24T12:22:55.979700",
+      "status": "success"
+    },
+    {
+      "file_id": "1G4snL78Jw8-VxMpKIOJCXnuYXBYa6129",
+      "filename": "2023_GT_KTO.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Ô tô\\2023_GT_KTO.pdf",
+      "file_size": 175250,
+      "downloaded_at": "2026-07-24T12:22:59.709544",
+      "status": "success"
+    },
+    {
+      "file_id": "1yyseQzRBKicaA6xGNRx-Ob66YPb7Hsc2",
+      "filename": "2022_GT_KTO.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Ô tô\\2022_GT_KTO.pdf",
+      "file_size": 188723,
+      "downloaded_at": "2026-07-24T12:23:01.702639",
+      "status": "success"
+    },
+    {
+      "file_id": "1Hzpsvou-KgESiFXnJdET-8wkGYrVuyiC",
+      "filename": "2021_GT_KTO.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Ô tô\\2021_GT_KTO.pdf",
+      "file_size": 188533,
+      "downloaded_at": "2026-07-24T12:23:02.288609",
+      "status": "success"
+    },
+    {
+      "file_id": "1yuWiOKPWLaHBjPRBOwoxvqZs_5R4oJY-",
+      "filename": "2020_GT_KTO.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Ô tô\\2020_GT_KTO.pdf",
+      "file_size": 923901,
+      "downloaded_at": "2026-07-24T12:23:05.963120",
+      "status": "success"
+    },
+    {
+      "file_id": "1xaaBwOfgf4WBUTws3xinCJA5KQGImAFy",
+      "filename": "2019_GT_KTO.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Ô tô\\2019_GT_KTO.pdf",
+      "file_size": 921296,
+      "downloaded_at": "2026-07-24T12:23:07.824753",
+      "status": "success"
+    },
+    {
+      "file_id": "1V9VAlGWunMt2Mw7u2rya-EW1q2krjS0v",
+      "filename": "2024_GT_TAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Tàu thủy\\2024_GT_TAU.pdf",
+      "file_size": 436116,
+      "downloaded_at": "2026-07-24T12:23:09.924778",
+      "status": "success"
+    },
+    {
+      "file_id": "1xqKCSfx7ZcsnuTfGFtZpaHzJ4HOgvUXn",
+      "filename": "2023_GT_TAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Tàu thủy\\2023_GT_TAU.pdf",
+      "file_size": 177551,
+      "downloaded_at": "2026-07-24T12:23:13.049877",
+      "status": "success"
+    },
+    {
+      "file_id": "19UPokJ968S2Oh6HDzJ3HSBaxozSVmnwW",
+      "filename": "2022_GT_TAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Tàu thủy\\2022_GT_TAU.pdf",
+      "file_size": 176470,
+      "downloaded_at": "2026-07-24T12:23:14.301099",
+      "status": "success"
+    },
+    {
+      "file_id": "1fdxCbdzQq-ljrqH-lgI_FZ6LkN-2sTrC",
+      "filename": "2021_GT_TAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Tàu thủy\\2021_GT_TAU.pdf",
+      "file_size": 176387,
+      "downloaded_at": "2026-07-24T12:23:17.028583",
+      "status": "success"
+    },
+    {
+      "file_id": "1bIR7YWKqZIMc9KdTp0sp1buXAIEFDpQ5",
+      "filename": "2020_GT_TAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Tàu thủy\\2020_GT_TAU.pdf",
+      "file_size": 480719,
+      "downloaded_at": "2026-07-24T12:23:18.282501",
+      "status": "success"
+    },
+    {
+      "file_id": "1BNWVdNvn69emnYwGU73VVKpyf4qFSDud",
+      "filename": "2019_GT_TAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Tàu thủy\\2019_GT_TAU.pdf",
+      "file_size": 480460,
+      "downloaded_at": "2026-07-24T12:23:19.370393",
+      "status": "success"
+    },
+    {
+      "file_id": "1hP4QBmp9YcT_HWnvin3rX0q4Qt_USm6o",
+      "filename": "2024_GT_HKGTAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Song ngành Kỹ thuật Tàu thủy - Hàng không\\2024_GT_HKGTAU.pdf",
+      "file_size": 462306,
+      "downloaded_at": "2026-07-24T12:23:21.512760",
+      "status": "success"
+    },
+    {
+      "file_id": "1hmLN7dorNaTvU7ChvImrIU6cRPTFn1fe",
+      "filename": "2023_GT_HKGTAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Song ngành Kỹ thuật Tàu thủy - Hàng không\\2023_GT_HKGTAU.pdf",
+      "file_size": 187780,
+      "downloaded_at": "2026-07-24T12:23:23.080651",
+      "status": "success"
+    },
+    {
+      "file_id": "1ZwlCHuKK8h70Sk4wvpLe-FwUDJ_QB_mG",
+      "filename": "2022_GT_HKGTAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Song ngành Kỹ thuật Tàu thủy - Hàng không\\2022_GT_HKGTAU.pdf",
+      "file_size": 180252,
+      "downloaded_at": "2026-07-24T12:23:24.498529",
+      "status": "success"
+    },
+    {
+      "file_id": "1hbghL_ZFEbM2cAInTLQ-wcIIxgcRz8t8",
+      "filename": "2021_GT_HKGTAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Song ngành Kỹ thuật Tàu thủy - Hàng không\\2021_GT_HKGTAU.pdf",
+      "file_size": 180167,
+      "downloaded_at": "2026-07-24T12:23:27.811002",
+      "status": "success"
+    },
+    {
+      "file_id": "1P5eZpjPhmcPpnmF2H084hD_tUd4yJTWY",
+      "filename": "2020_GT_HKGTAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Song ngành Kỹ thuật Tàu thủy - Hàng không\\2020_GT_HKGTAU.pdf",
+      "file_size": 489521,
+      "downloaded_at": "2026-07-24T12:23:29.323087",
+      "status": "success"
+    },
+    {
+      "file_id": "1gn8nHSot6U9BgeYGmttyjiG5gBr05YTL",
+      "filename": "2019_GT_HKGTAU.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Song ngành Kỹ thuật Tàu thủy - Hàng không\\2019_GT_HKGTAU.pdf",
+      "file_size": 135658,
+      "downloaded_at": "2026-07-24T12:23:30.388868",
+      "status": "success"
+    },
+    {
+      "file_id": "1dJDanKNQF2TWz1WgCTlUgbo52fOFpsDB",
+      "filename": "2026_GT_KTDS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Đường sắt\\2026_GT_KTDS.pdf",
+      "file_size": 352089,
+      "downloaded_at": "2026-07-24T12:23:34.253219",
+      "status": "success"
+    },
+    {
+      "file_id": "1ab5Sv_pCurIVi5wvXvzO8nQLJcdR_ikG",
+      "filename": "2027_GT_PKNL.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Phương tiện không người lái\\2027_GT_PKNL.pdf",
+      "file_size": 362249,
+      "downloaded_at": "2026-07-24T12:23:36.530318",
+      "status": "success"
+    },
+    {
+      "file_id": "1onmX4cMEYyw4z8SJ_KHO2ZtTL_y3XtXo",
+      "filename": "2027_GT_GTTM.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT GIAO THÔNG\\Kỹ thuật Giao thông thông minh\\2027_GT_GTTM.pdf",
+      "file_size": 351573,
+      "downloaded_at": "2026-07-24T12:23:36.710643",
+      "status": "success"
+    },
+    {
+      "file_id": "1qflSyQja-OrTKSMWI7k5DkSPHO4GzhXO",
+      "filename": "2024_HC_CSH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Sinh học\\2024_HC_CSH.pdf",
+      "file_size": 486387,
+      "downloaded_at": "2026-07-24T12:23:40.472773",
+      "status": "success"
+    },
+    {
+      "file_id": "1GjfKcHVuw1aYiYfHlKUdMZK7zkwdn9Od",
+      "filename": "2023_HC_CSH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Sinh học\\2023_HC_CSH.pdf",
+      "file_size": 190374,
+      "downloaded_at": "2026-07-24T12:23:42.979487",
+      "status": "success"
+    },
+    {
+      "file_id": "1yxtXtkfyC5cATFUnALrKmWwYrANuMRU3",
+      "filename": "2022_HC_CSH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Sinh học\\2022_HC_CSH.pdf",
+      "file_size": 187101,
+      "downloaded_at": "2026-07-24T12:23:43.034581",
+      "status": "success"
+    },
+    {
+      "file_id": "1k2R3A6bzbuci-gGUOjhVWTdENj50VI8E",
+      "filename": "2021_HC_CSH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Sinh học\\2021_HC_CSH.pdf",
+      "file_size": 185892,
+      "downloaded_at": "2026-07-24T12:23:46.341845",
+      "status": "success"
+    },
+    {
+      "file_id": "1BIekHvW8A4CLihyd5ujPUjcX_zoxxqnu",
+      "filename": "2019_HC_CSH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Sinh học\\2019_HC_CSH.pdf",
+      "file_size": 504912,
+      "downloaded_at": "2026-07-24T12:23:49.313087",
+      "status": "success"
+    },
+    {
+      "file_id": "1GAo7Ls5h8FUvKYhCN2a1jlTGIN53OhsD",
+      "filename": "2020_HC_CSH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Sinh học\\2020_HC_CSH.pdf",
+      "file_size": 504672,
+      "downloaded_at": "2026-07-24T12:23:49.586865",
+      "status": "success"
+    },
+    {
+      "file_id": "1lr5Xr0vF3pOXMFVJvy4FIWuzVKYIektA",
+      "filename": "2024_HC_HC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Kỹ thuật Hóa học\\2024_HC_HC1.pdf",
+      "file_size": 563951,
+      "downloaded_at": "2026-07-24T12:23:52.965040",
+      "status": "success"
+    },
+    {
+      "file_id": "17Va_qRA0-Al2XJrv690h-bsJ1giWHPO-",
+      "filename": "2023_HC_HC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Kỹ thuật Hóa học\\2023_HC_HC1.pdf",
+      "file_size": 598173,
+      "downloaded_at": "2026-07-24T12:23:55.976659",
+      "status": "success"
+    },
+    {
+      "file_id": "18g2qYE_px0qVsMV10ebMNFm-Tg0Rt5OI",
+      "filename": "2022_HC_HC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Kỹ thuật Hóa học\\2022_HC_HC1.pdf",
+      "file_size": 635579,
+      "downloaded_at": "2026-07-24T12:23:56.286567",
+      "status": "success"
+    },
+    {
+      "file_id": "1eSgB61jtzuyhlIGpWWrMCAkOzscekcjT",
+      "filename": "2021_HC_HC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Kỹ thuật Hóa học\\2021_HC_HC1.pdf",
+      "file_size": 634289,
+      "downloaded_at": "2026-07-24T12:23:59.354464",
+      "status": "success"
+    },
+    {
+      "file_id": "1gqxjpdcQjlWEavz1K4IlGrnG4tgGLU01",
+      "filename": "2020_HC_HC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Kỹ thuật Hóa học\\2020_HC_HC1.pdf",
+      "file_size": 970112,
+      "downloaded_at": "2026-07-24T12:24:03.000392",
+      "status": "success"
+    },
+    {
+      "file_id": "1lZxlcT-qG8QLJ7tfYCdFRGpbSCDFETUU",
+      "filename": "2019_HC_HC1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Kỹ thuật Hóa học\\2019_HC_HC1.pdf",
+      "file_size": 970699,
+      "downloaded_at": "2026-07-24T12:24:03.392669",
+      "status": "success"
+    },
+    {
+      "file_id": "1ELBNXiiH2TADK_lGlM3_H7bDCReHGGmF",
+      "filename": "2024_HC_HTP.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Thực phẩm\\2024_HC_HTP.pdf",
+      "file_size": 470667,
+      "downloaded_at": "2026-07-24T12:24:05.450660",
+      "status": "success"
+    },
+    {
+      "file_id": "1EPWnXPXAIa4e89MZwK2BrbMfOsz3pjUc",
+      "filename": "2023_HC_HTP.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Thực phẩm\\2023_HC_HTP.pdf",
+      "file_size": 177436,
+      "downloaded_at": "2026-07-24T12:24:09.094268",
+      "status": "success"
+    },
+    {
+      "file_id": "1zoE16ZuXepElB0BxR6yyr0n72MzyWid_",
+      "filename": "2022_HC_HTP.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Thực phẩm\\2022_HC_HTP.pdf",
+      "file_size": 177041,
+      "downloaded_at": "2026-07-24T12:24:09.487990",
+      "status": "success"
+    },
+    {
+      "file_id": "1VfI1ZzT_3EGYp1YXgMA0Ja79swUljWZT",
+      "filename": "2021_HC_HTP.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Thực phẩm\\2021_HC_HTP.pdf",
+      "file_size": 176951,
+      "downloaded_at": "2026-07-24T12:24:11.879054",
+      "status": "success"
+    },
+    {
+      "file_id": "1RmEQD-Cfl3NnL455oMIPTaTZ0yQN2Rte",
+      "filename": "2020_HC_HTP.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Thực phẩm\\2020_HC_HTP.pdf",
+      "file_size": 959277,
+      "downloaded_at": "2026-07-24T12:24:16.320566",
+      "status": "success"
+    },
+    {
+      "file_id": "1BFWcu-i5LR1IprXdQ89i_xSxAxFmlZh9",
+      "filename": "2019_HC_HTP.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT HÓA HỌC\\Công nghệ Thực phẩm\\2019_HC_HTP.pdf",
+      "file_size": 959842,
+      "downloaded_at": "2026-07-24T12:24:16.748514",
+      "status": "success"
+    },
+    {
+      "file_id": "13knYKKgGhMI0QHAmfRX-zYwnMEDJT0td",
+      "filename": "2024_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kỹ thuật Môi trường\\2024_MO_KMT.pdf",
+      "file_size": 433622,
+      "downloaded_at": "2026-07-24T12:24:18.511619",
+      "status": "success"
+    },
+    {
+      "file_id": "1nmBJu6bDRKi6Ow3k1LNH0-D6o6vFBLrY",
+      "filename": "2023_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kỹ thuật Môi trường\\2023_MO_KMT.pdf",
+      "file_size": 201489,
+      "downloaded_at": "2026-07-24T12:24:22.957799",
+      "status": "success"
+    },
+    {
+      "file_id": "1MII9u0PuKgw_txduPfX6eI77UD-6aNae",
+      "filename": "2022_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kỹ thuật Môi trường\\2022_MO_KMT.pdf",
+      "file_size": 198031,
+      "downloaded_at": "2026-07-24T12:24:23.115609",
+      "status": "success"
+    },
+    {
+      "file_id": "1mmMPdsA9KSaPGdzbD_UZ7ROYaCTxkGNM",
+      "filename": "2021_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kỹ thuật Môi trường\\2021_MO_KMT.pdf",
+      "file_size": 198307,
+      "downloaded_at": "2026-07-24T12:24:24.873667",
+      "status": "success"
+    },
+    {
+      "file_id": "1PTdOMCgKkfEi0dUuK7dd5F3IuZxIwbSq",
+      "filename": "2019_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kỹ thuật Môi trường\\2019_MO_KMT.pdf",
+      "file_size": 548302,
+      "downloaded_at": "2026-07-24T12:24:30.091508",
+      "status": "success"
+    },
+    {
+      "file_id": "1ojwd9iTDtu5CBTo80YwS0sdrzRJUE3GO",
+      "filename": "2020_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kỹ thuật Môi trường\\2020_MO_KMT.pdf",
+      "file_size": 908401,
+      "downloaded_at": "2026-07-24T12:24:30.109629",
+      "status": "success"
+    },
+    {
+      "file_id": "1TqO0N03aHBm4hAxiwvFFcj-1lkb6x6xG",
+      "filename": "2024_MO_QM1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Quản lý Tài nguyên và Môi trường\\2024_MO_QM1.pdf",
+      "file_size": 493116,
+      "downloaded_at": "2026-07-24T12:24:32.157186",
+      "status": "success"
+    },
+    {
+      "file_id": "1_UMV_39KxJaG2iAkbAFYJA3HBnnP4MtH",
+      "filename": "2022_MO_QM1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Quản lý Tài nguyên và Môi trường\\2022_MO_QM1.pdf",
+      "file_size": 205198,
+      "downloaded_at": "2026-07-24T12:24:36.749930",
+      "status": "success"
+    },
+    {
+      "file_id": "1hbWH1vf1dsSYg2SaJIC_bawQ7eqWzhvA",
+      "filename": "2023_MO_QM1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Quản lý Tài nguyên và Môi trường\\2023_MO_QM1.pdf",
+      "file_size": 204374,
+      "downloaded_at": "2026-07-24T12:24:36.771888",
+      "status": "success"
+    },
+    {
+      "file_id": "1Us9e3I6FNsFtN0rB7AfdzgJLYb0odeaF",
+      "filename": "2021_MO_QM1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Quản lý Tài nguyên và Môi trường\\2021_MO_QM1.pdf",
+      "file_size": 204349,
+      "downloaded_at": "2026-07-24T12:24:38.584550",
+      "status": "success"
+    },
+    {
+      "file_id": "1OJcfe1SofgVFNEoBwWJHhbqKn77aCDp9",
+      "filename": "2019_MO_QM1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Quản lý Tài nguyên và Môi trường\\2019_MO_QM1.pdf",
+      "file_size": 521770,
+      "downloaded_at": "2026-07-24T12:24:43.818998",
+      "status": "success"
+    },
+    {
+      "file_id": "13Az-4JpGbT7NAMap6Ir13e0lbfAfqYWh",
+      "filename": "2020_MO_QM1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Quản lý Tài nguyên và Môi trường\\2020_MO_QM1.pdf",
+      "file_size": 488866,
+      "downloaded_at": "2026-07-24T12:24:43.831988",
+      "status": "success"
+    },
+    {
+      "file_id": "1bSXKFB-_6Rv8FebzT1J2tbEE7Lw1midO",
+      "filename": "2025_MO_KMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA MÔI TRƯỜNG VÀ TÀI NGUYÊN\\Kinh tế tài nguyên thiên nhiên\\2025_MO_KMT.pdf",
+      "file_size": 443714,
+      "downloaded_at": "2026-07-24T12:24:45.301601",
+      "status": "success"
+    },
+    {
+      "file_id": "1aY6sPCFx1p7DK9IcSSZRQmmrobUI_4Oq",
+      "filename": "2024_MT_KHMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Khoa học Máy tính\\2024_MT_KHMT.pdf",
+      "file_size": 472904,
+      "downloaded_at": "2026-07-24T12:24:50.341852",
+      "status": "success"
+    },
+    {
+      "file_id": "1ebgPzwl88UWAzhI5Jg0O71JzlkhIKQyE",
+      "filename": "2023_MT_KHMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Khoa học Máy tính\\2023_MT_KHMT.pdf",
+      "file_size": 451831,
+      "downloaded_at": "2026-07-24T12:24:50.765614",
+      "status": "success"
+    },
+    {
+      "file_id": "1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz",
+      "filename": "2022_MT_KHMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Khoa học Máy tính\\2022_MT_KHMT.pdf",
+      "file_size": 416521,
+      "downloaded_at": "2026-07-24T12:24:51.047699",
+      "status": "success"
+    },
+    {
+      "file_id": "1eghypoAqCG3-T45Yjql-n_WsO4YBxM8A",
+      "filename": "2021_MT_KHMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Khoa học Máy tính\\2021_MT_KHMT.pdf",
+      "file_size": 574477,
+      "downloaded_at": "2026-07-24T12:24:55.021809",
+      "status": "success"
+    },
+    {
+      "file_id": "1tWOAkHI3FO1YwH2u264HHsu-ml9R7HBI",
+      "filename": "2020_MT_KHMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Khoa học Máy tính\\2020_MT_KHMT.pdf",
+      "file_size": 488738,
+      "downloaded_at": "2026-07-24T12:24:55.311336",
+      "status": "success"
+    },
+    {
+      "file_id": "1RI8IA5wipI8ffNKhL3b9wB9Rt94-5hRM",
+      "filename": "2023_MT_KTMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Kỹ thuật máy tính\\2023_MT_KTMT.pdf",
+      "file_size": 437910,
+      "downloaded_at": "2026-07-24T12:25:01.197685",
+      "status": "success"
+    },
+    {
+      "file_id": "16VlPhqu4-xgJHpCVedrMUWLPywZl1dez",
+      "filename": "2024_MT_KTMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Kỹ thuật máy tính\\2024_MT_KTMT.pdf",
+      "file_size": 514163,
+      "downloaded_at": "2026-07-24T12:25:01.337208",
+      "status": "success"
+    },
+    {
+      "file_id": "1bDuOG_TordMdQF-1s4iPl5qjiJHTWuzx",
+      "filename": "2019_MT_KHMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Khoa học Máy tính\\2019_MT_KHMT.pdf",
+      "file_size": 6298354,
+      "downloaded_at": "2026-07-24T12:25:03.518529",
+      "status": "success"
+    },
+    {
+      "file_id": "1BrNmcf84mjhB1rt47NyUjRKMVlqKlBdj",
+      "filename": "2022_MT_KTMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Kỹ thuật máy tính\\2022_MT_KTMT.pdf",
+      "file_size": 435393,
+      "downloaded_at": "2026-07-24T12:25:06.362524",
+      "status": "success"
+    },
+    {
+      "file_id": "1mrxH-VEC9woP3F_LH0KiSYNU4cmgAoka",
+      "filename": "2021_MT_KTMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Kỹ thuật máy tính\\2021_MT_KTMT.pdf",
+      "file_size": 609133,
+      "downloaded_at": "2026-07-24T12:25:06.570501",
+      "status": "success"
+    },
+    {
+      "file_id": "1pGp1l0g7phozYamhKe-BjYftRXv5fOGy",
+      "filename": "2020_MT_KTMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Kỹ thuật máy tính\\2020_MT_KTMT.pdf",
+      "file_size": 482028,
+      "downloaded_at": "2026-07-24T12:25:08.131824",
+      "status": "success"
+    },
+    {
+      "file_id": "1dvxV8FAlg-EHdJ_6_piflbQ1Xfq45GKp",
+      "filename": "2023_MT_CNTT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Công nghệ Thông tin (Vừa Làm Vừa Học)\\2023_MT_CNTT.pdf",
+      "file_size": 186239,
+      "downloaded_at": "2026-07-24T12:25:11.131341",
+      "status": "success"
+    },
+    {
+      "file_id": "1lAvF4sJBZVf2sI1Oj5RsdWYlo7LfAa8d",
+      "filename": "2022_MT_CNTT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Công nghệ Thông tin (Vừa Làm Vừa Học)\\2022_MT_CNTT.pdf",
+      "file_size": 184177,
+      "downloaded_at": "2026-07-24T12:25:12.618227",
+      "status": "success"
+    },
+    {
+      "file_id": "1Efz4QbvYHk2GjxJSrQaGJiiVENQ8n2_N",
+      "filename": "2019_MT_KTMT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Kỹ thuật máy tính\\2019_MT_KTMT.pdf",
+      "file_size": 2715237,
+      "downloaded_at": "2026-07-24T12:25:12.974418",
+      "status": "success"
+    },
+    {
+      "file_id": "1rLuxC0zfTwKLfCaRmi6tdd6w7hxmYu9U",
+      "filename": "2021_MT_CNTT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Công nghệ Thông tin (Vừa Làm Vừa Học)\\2021_MT_CNTT.pdf",
+      "file_size": 183990,
+      "downloaded_at": "2026-07-24T12:25:15.571905",
+      "status": "success"
+    },
+    {
+      "file_id": "1s8gEiaUku4IoJ9BuC2idNF4vxaZMLfkx",
+      "filename": "2020_MT_CNTT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH\\Công nghệ Thông tin (Vừa Làm Vừa Học)\\2020_MT_CNTT.pdf",
+      "file_size": 875090,
+      "downloaded_at": "2026-07-24T12:25:17.449997",
+      "status": "success"
+    },
+    {
+      "file_id": "1Rzo-uwwzpeEz88FISG9ze8xccuEHIr0q",
+      "filename": "2024_QL_QCN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản lý công nghiệp\\2024_QL_QCN.pdf",
+      "file_size": 436501,
+      "downloaded_at": "2026-07-24T12:25:18.157725",
+      "status": "success"
+    },
+    {
+      "file_id": "1N6bqSD3YggkgL5pke9Oz5GqCWBiT934A",
+      "filename": "2023_QL_QCN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản lý công nghiệp\\2023_QL_QCN.pdf",
+      "file_size": 728285,
+      "downloaded_at": "2026-07-24T12:25:21.423972",
+      "status": "success"
+    },
+    {
+      "file_id": "1Wxia52aGSHOSK9UNtSWSPJmjcoTyhRx4",
+      "filename": "2022_QL_QCN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản lý công nghiệp\\2022_QL_QCN.pdf",
+      "file_size": 222044,
+      "downloaded_at": "2026-07-24T12:25:21.987475",
+      "status": "success"
+    },
+    {
+      "file_id": "13airJ-WE8u7JBD2676kYJh8q7o3IgLJA",
+      "filename": "2021_QL_QCN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản lý công nghiệp\\2021_QL_QCN.pdf",
+      "file_size": 280385,
+      "downloaded_at": "2026-07-24T12:25:22.543290",
+      "status": "success"
+    },
+    {
+      "file_id": "19Jt58w4A0s3Lg5jCj89zMrom9xG65yjH",
+      "filename": "2020_QL_QCN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản lý công nghiệp\\2020_QL_QCN.pdf",
+      "file_size": 302969,
+      "downloaded_at": "2026-07-24T12:25:25.834731",
+      "status": "success"
+    },
+    {
+      "file_id": "1-e7U6ngSjRjJ0tn5KJvyX5glpEKAGxu-",
+      "filename": "2019_QL_QCN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản lý công nghiệp\\2019_QL_QCN.pdf",
+      "file_size": 252290,
+      "downloaded_at": "2026-07-24T12:25:26.500106",
+      "status": "success"
+    },
+    {
+      "file_id": "1Fkl2Amb3YjG6Iqz648ZWjFEEtvSCbaJd",
+      "filename": "2025_QL_QTKD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Quản trị Kinh doanh\\2025_QL_QTKD.pdf",
+      "file_size": 440939,
+      "downloaded_at": "2026-07-24T12:25:27.209134",
+      "status": "success"
+    },
+    {
+      "file_id": "1W6fnDEeA4A5-z4a9V3Q6QpEi676nhUc0",
+      "filename": "2024_QL_KTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Kỹ thuật Hệ thống Công nghiệp\\2024_QL_KTH.pdf",
+      "file_size": 422395,
+      "downloaded_at": "2026-07-24T12:25:31.648789",
+      "status": "success"
+    },
+    {
+      "file_id": "1xVxNC1hRKy7Zlpd8dcIUY51pBO1kqSH7",
+      "filename": "2023_CK_KTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Kỹ thuật Hệ thống Công nghiệp\\2023_CK_KTH.pdf",
+      "file_size": 170444,
+      "downloaded_at": "2026-07-24T12:25:31.920911",
+      "status": "success"
+    },
+    {
+      "file_id": "1b_dfbdWS21KWUedFQg1y9d4RER51eqN7",
+      "filename": "2022_CK_KTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Kỹ thuật Hệ thống Công nghiệp\\2022_CK_KTH.pdf",
+      "file_size": 170464,
+      "downloaded_at": "2026-07-24T12:25:33.072505",
+      "status": "success"
+    },
+    {
+      "file_id": "1mBar0mU85Ri87YMWtwjvvlvshRwXK3qa",
+      "filename": "2021_CK_KTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Kỹ thuật Hệ thống Công nghiệp\\2021_CK_KTH.pdf",
+      "file_size": 170714,
+      "downloaded_at": "2026-07-24T12:25:37.513636",
+      "status": "success"
+    },
+    {
+      "file_id": "1itS71erAxYln2T9PFqMaVz1CxMY_tQzQ",
+      "filename": "2020_CK_KTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Kỹ thuật Hệ thống Công nghiệp\\2020_CK_KTH.pdf",
+      "file_size": 953914,
+      "downloaded_at": "2026-07-24T12:25:38.683232",
+      "status": "success"
+    },
+    {
+      "file_id": "1b3J9UsTsMY5CmkzaSr1aAIsDH0rMwwo-",
+      "filename": "2019_CK_KTH.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Kỹ thuật Hệ thống Công nghiệp\\2019_CK_KTH.pdf",
+      "file_size": 954696,
+      "downloaded_at": "2026-07-24T12:25:39.822858",
+      "status": "success"
+    },
+    {
+      "file_id": "1QPMo17C1NuAvJ7aY_SYS72PVGup9BhMa",
+      "filename": "2024_QL_LQC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Logistics và Quản lý Chuỗi cung ứng\\2024_QL_LQC.pdf",
+      "file_size": 433226,
+      "downloaded_at": "2026-07-24T12:25:44.133134",
+      "status": "success"
+    },
+    {
+      "file_id": "1EZpRZEC1Z8p5uVzZCjTl-4eRvsvMsQ7C",
+      "filename": "2023_CK_LQC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Logistics và Quản lý Chuỗi cung ứng\\2023_CK_LQC.pdf",
+      "file_size": 169931,
+      "downloaded_at": "2026-07-24T12:25:45.697514",
+      "status": "success"
+    },
+    {
+      "file_id": "14i8w4gFxAhMGZR7I6tt2J2TuHCjnuR2Y",
+      "filename": "2022_CK_LQC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Logistics và Quản lý Chuỗi cung ứng\\2022_CK_LQC.pdf",
+      "file_size": 170296,
+      "downloaded_at": "2026-07-24T12:25:46.719144",
+      "status": "success"
+    },
+    {
+      "file_id": "1qbRfMcReyZcLxUzf0MJ7oAdJxs4VomtP",
+      "filename": "2021_CK_LQC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Logistics và Quản lý Chuỗi cung ứng\\2021_CK_LQC.pdf",
+      "file_size": 170946,
+      "downloaded_at": "2026-07-24T12:25:50.698427",
+      "status": "success"
+    },
+    {
+      "file_id": "1-IPByFaXu6UqtpGneODrnvYOBaLRkxbq",
+      "filename": "2020_CK_LQC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Logistics và Quản lý Chuỗi cung ứng\\2020_CK_LQC.pdf",
+      "file_size": 501692,
+      "downloaded_at": "2026-07-24T12:25:53.635097",
+      "status": "success"
+    },
+    {
+      "file_id": "1A-2Ad0xVW94Y0sTBdsKqWCdgivdrKIl4",
+      "filename": "2019_CK_LQC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA QUẢN LÝ CÔNG NGHIỆP\\Logistics và Quản lý Chuỗi cung ứng\\2019_CK_LQC.pdf",
+      "file_size": 502611,
+      "downloaded_at": "2026-07-24T12:25:54.909811",
+      "status": "success"
+    },
+    {
+      "file_id": "12lI1a_jkdR4B7GvhbqIi1QAxXs53pCcx",
+      "filename": "2024_UD_CKT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Cơ Kỹ thuật\\2024_UD_CKT.pdf",
+      "file_size": 439179,
+      "downloaded_at": "2026-07-24T12:25:57.952833",
+      "status": "success"
+    },
+    {
+      "file_id": "1P6lvoWfZq0A7j5dBXvFhS5iEhkuKiSt0",
+      "filename": "2023_UD_CKT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Cơ Kỹ thuật\\2023_UD_CKT.pdf",
+      "file_size": 580683,
+      "downloaded_at": "2026-07-24T12:26:00.586669",
+      "status": "success"
+    },
+    {
+      "file_id": "1MEsJNTkPy__Wb1Y6upJffOEjoNnI_NPS",
+      "filename": "2022_UD_CKT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Cơ Kỹ thuật\\2022_UD_CKT.pdf",
+      "file_size": 1036969,
+      "downloaded_at": "2026-07-24T12:26:02.779602",
+      "status": "success"
+    },
+    {
+      "file_id": "1OEfS6hu95NguFVYLesWQEQ5qk78xx0L2",
+      "filename": "2021_UD_CKT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Cơ Kỹ thuật\\2021_UD_CKT.pdf",
+      "file_size": 1013308,
+      "downloaded_at": "2026-07-24T12:26:04.889558",
+      "status": "success"
+    },
+    {
+      "file_id": "1395A-bI7Yyq_494ucCXN7iySD7zoOT1X",
+      "filename": "2020_UD_CKT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Cơ Kỹ thuật\\2020_UD_CKT.pdf",
+      "file_size": 962410,
+      "downloaded_at": "2026-07-24T12:26:07.645162",
+      "status": "success"
+    },
+    {
+      "file_id": "1PqykdgczJsJR6TCC9n3ts6tM2AgzG1Ys",
+      "filename": "2019_UD_CKT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Cơ Kỹ thuật\\2019_UD_CKT.pdf",
+      "file_size": 962158,
+      "downloaded_at": "2026-07-24T12:26:10.453925",
+      "status": "success"
+    },
+    {
+      "file_id": "1-TLCeT-BFbpbMmlmthr1QvR13QhB0Ha5",
+      "filename": "2024_UD_VLY.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Vật lý Kỹ thuật\\2024_UD_VLY.pdf",
+      "file_size": 450779,
+      "downloaded_at": "2026-07-24T12:26:11.347476",
+      "status": "success"
+    },
+    {
+      "file_id": "1L5LpKghGN8TIqn189OFCcvzO3GBI347V",
+      "filename": "2023_UD_VLY.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Vật lý Kỹ thuật\\2023_UD_VLY.pdf",
+      "file_size": 224403,
+      "downloaded_at": "2026-07-24T12:26:14.157419",
+      "status": "success"
+    },
+    {
+      "file_id": "1Fbd_jpBW5XSF2s2gGYWUeHT1BhlIGtAf",
+      "filename": "2022_UD_VLY.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Vật lý Kỹ thuật\\2022_UD_VLY.pdf",
+      "file_size": 251752,
+      "downloaded_at": "2026-07-24T12:26:16.989299",
+      "status": "success"
+    },
+    {
+      "file_id": "1yzGKljQqr5j0fmBFIUYHfOufu4ROWHrA",
+      "filename": "2021_UD_VLY.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Vật lý Kỹ thuật\\2021_UD_VLY.pdf",
+      "file_size": 217492,
+      "downloaded_at": "2026-07-24T12:26:17.910169",
+      "status": "success"
+    },
+    {
+      "file_id": "1F9rgSnpYhM4y78jdMOJ9Ob6j-Zn2iWvh",
+      "filename": "2020_UD_VLY.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Vật lý Kỹ thuật\\2020_UD_VLY.pdf",
+      "file_size": 1462066,
+      "downloaded_at": "2026-07-24T12:26:23.190963",
+      "status": "success"
+    },
+    {
+      "file_id": "1FVhQ1lkXTKBvdKlNQdPAVWKWIBmyyeqI",
+      "filename": "2019_UD_VLY.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Vật lý Kỹ thuật\\2019_UD_VLY.pdf",
+      "file_size": 629134,
+      "downloaded_at": "2026-07-24T12:26:24.469065",
+      "status": "success"
+    },
+    {
+      "file_id": "1be61y8ISWqyqrzIPmm5xSRJcf0xUdDWC",
+      "filename": "2024_UD_KDL.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Khoa học dữ liệu\\2024_UD_KDL.pdf",
+      "file_size": 437414,
+      "downloaded_at": "2026-07-24T12:26:25.385443",
+      "status": "success"
+    },
+    {
+      "file_id": "1xx1Zm9QL696kJxi6ANytFiQSJihZOtRI",
+      "filename": "2026_UD_KTHN.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Kỹ thuật Hạt nhân\\2026_UD_KTHN.pdf",
+      "file_size": 402758,
+      "downloaded_at": "2026-07-24T12:26:29.582558",
+      "status": "success"
+    },
+    {
+      "file_id": "13DQMi0H71LJR_wMlPnFcJbmpDAVHsp9E",
+      "filename": "2027_UD_KTLT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KHOA HỌC ỨNG DỤNG\\Kỹ thuật Lượng tử\\2027_UD_KTLT.pdf",
+      "file_size": 368727,
+      "downloaded_at": "2026-07-24T12:26:30.787896",
+      "status": "success"
+    },
+    {
+      "file_id": "1i1M_5A1a7FJiw6dbHDbLM3FNMo6l6ay6",
+      "filename": "2024_VL_VL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Vật liệu\\2024_VL_VL1.pdf",
+      "file_size": 513798,
+      "downloaded_at": "2026-07-24T12:26:32.078195",
+      "status": "success"
+    },
+    {
+      "file_id": "1yJBFa1bqOoEtCXVq3yMfHHwsdxZRvkz2",
+      "filename": "2023_VL_VL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Vật liệu\\2023_VL_VL1.pdf",
+      "file_size": 290647,
+      "downloaded_at": "2026-07-24T12:26:36.861074",
+      "status": "success"
+    },
+    {
+      "file_id": "1oGhjRyWwma_mT_wv7wl7OmIGlbJbXzTJ",
+      "filename": "2022_VL_VL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Vật liệu\\2022_VL_VL1.pdf",
+      "file_size": 304051,
+      "downloaded_at": "2026-07-24T12:26:37.535612",
+      "status": "success"
+    },
+    {
+      "file_id": "1rDnto9sSPG6Li0BZZk_nf6_l3jPZRLhU",
+      "filename": "2021_VL_VL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Vật liệu\\2021_VL_VL1.pdf",
+      "file_size": 305004,
+      "downloaded_at": "2026-07-24T12:26:38.246823",
+      "status": "success"
+    },
+    {
+      "file_id": "1R3zDm5kctS1jlbeAJ5Qrb1pQh507effD",
+      "filename": "2026_VL_KTBD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Bán dẫn\\2026_VL_KTBD.pdf",
+      "file_size": 337043,
+      "downloaded_at": "2026-07-24T12:26:45.479825",
+      "status": "success"
+    },
+    {
+      "file_id": "1vAufJHkTwmVFfm86j5WHQITtY2rcfktj",
+      "filename": "2020_VL_VL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Vật liệu\\2020_VL_VL1.pdf",
+      "file_size": 2281374,
+      "downloaded_at": "2026-07-24T12:26:46.840762",
+      "status": "success"
+    },
+    {
+      "file_id": "18UiLyBC47SzemuFfRjaz-SGt7rOgQdGQ",
+      "filename": "2019_VL_VL1.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Vật liệu\\2019_VL_VL1.pdf",
+      "file_size": 2283568,
+      "downloaded_at": "2026-07-24T12:26:47.558202",
+      "status": "success"
+    },
+    {
+      "file_id": "1yAweCTmcTzEk3oOFkY_MfUVx1AZmjaw-",
+      "filename": "2027_VL_CBKS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA CÔNG NGHỆ VẬT LIỆU\\Kỹ thuật Chế biến khoáng sản\\2027_VL_CBKS.pdf",
+      "file_size": 369009,
+      "downloaded_at": "2026-07-24T12:26:52.627328",
+      "status": "success"
+    },
+    {
+      "file_id": "1rfrcUFsKCGHRKZRXA7l46ZpH3Wnvx5Wk",
+      "filename": "2023_XD_KXB.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Công trình biển\\2023_XD_KXB.pdf",
+      "file_size": 171390,
+      "downloaded_at": "2026-07-24T12:26:53.924405",
+      "status": "success"
+    },
+    {
+      "file_id": "14GzAHvdGudGMhYHlFpnYByrmOsVb0ikV",
+      "filename": "2024_XD_KXB.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Công trình biển\\2024_XD_KXB.pdf",
+      "file_size": 448366,
+      "downloaded_at": "2026-07-24T12:26:54.070870",
+      "status": "success"
+    },
+    {
+      "file_id": "1GUdtD_Zz82xIQk0Qee3f71QKp8MjF5D-",
+      "filename": "2022_XD_KXB.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Công trình biển\\2022_XD_KXB.pdf",
+      "file_size": 171309,
+      "downloaded_at": "2026-07-24T12:26:59.224407",
+      "status": "success"
+    },
+    {
+      "file_id": "1K3GJ-GZ63pBNL5E0dKefCNyzHb4Gqkov",
+      "filename": "2021_XD_KXB.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Công trình biển\\2021_XD_KXB.pdf",
+      "file_size": 171299,
+      "downloaded_at": "2026-07-24T12:27:00.635185",
+      "status": "success"
+    },
+    {
+      "file_id": "108gPFoqdY8zrTNeyb9Mf4trb2KCNQoX6",
+      "filename": "2020_XD_KXB.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Công trình biển\\2020_XD_KXB.pdf",
+      "file_size": 871705,
+      "downloaded_at": "2026-07-24T12:27:01.192595",
+      "status": "success"
+    },
+    {
+      "file_id": "1Tek5y_nbFB1Vwg2cNOTYiAirCySQJE2N",
+      "filename": "2019_XD_KXB.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Công trình biển\\2019_XD_KXB.pdf",
+      "file_size": 501423,
+      "downloaded_at": "2026-07-24T12:27:05.764967",
+      "status": "success"
+    },
+    {
+      "file_id": "18BpojlHTQuy0_PkP2aTxUJkenWzp75zk",
+      "filename": "2024_XD_COS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Cơ sở hạ tầng\\2024_XD_COS.pdf",
+      "file_size": 437849,
+      "downloaded_at": "2026-07-24T12:27:06.995700",
+      "status": "success"
+    },
+    {
+      "file_id": "1VpoeGimUeRWyl66DBKf1PZ5kPRCVIUYz",
+      "filename": "2023_XD_COS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Cơ sở hạ tầng\\2023_XD_COS.pdf",
+      "file_size": 185411,
+      "downloaded_at": "2026-07-24T12:27:07.899698",
+      "status": "success"
+    },
+    {
+      "file_id": "14h5p7eDgR_MCF4zb7Pa1ON0mCO30ou4v",
+      "filename": "2022_XD_COS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Cơ sở hạ tầng\\2022_XD_COS.pdf",
+      "file_size": 173212,
+      "downloaded_at": "2026-07-24T12:27:12.301413",
+      "status": "success"
+    },
+    {
+      "file_id": "1oolflMoidvW9bS1MTOAB698M7gxX-hlx",
+      "filename": "2021_XD_COS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Cơ sở hạ tầng\\2021_XD_COS.pdf",
+      "file_size": 173244,
+      "downloaded_at": "2026-07-24T12:27:13.361569",
+      "status": "success"
+    },
+    {
+      "file_id": "17pwTw3IQIJsE5nWEg3mKPNxO2psBDMdk",
+      "filename": "2020_XD_COS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Cơ sở hạ tầng\\2020_XD_COS.pdf",
+      "file_size": 504591,
+      "downloaded_at": "2026-07-24T12:27:14.783664",
+      "status": "success"
+    },
+    {
+      "file_id": "1ZoONDJW2kcbQPBP_tCJ3-UlGUPrdpsvn",
+      "filename": "2019_XD_COS.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Cơ sở hạ tầng\\2019_XD_COS.pdf",
+      "file_size": 501035,
+      "downloaded_at": "2026-07-24T12:27:20.005848",
+      "status": "success"
+    },
+    {
+      "file_id": "1SFBfbHNnAwwstkDKNLLPgehtnqZtqcFj",
+      "filename": "2024_XD_CVX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Công nghệ Kỹ thuật Vật liệu Xây dựng\\2024_XD_CVX.pdf",
+      "file_size": 435416,
+      "downloaded_at": "2026-07-24T12:27:20.443724",
+      "status": "success"
+    },
+    {
+      "file_id": "1Oy5qWOIQ9sj6GHFnkqoun4lRwBnzXrDl",
+      "filename": "2023_XD_CVX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Công nghệ Kỹ thuật Vật liệu Xây dựng\\2023_XD_CVX.pdf",
+      "file_size": 171618,
+      "downloaded_at": "2026-07-24T12:27:21.187697",
+      "status": "success"
+    },
+    {
+      "file_id": "1LWfiKr4zM_vDcy2VJEvgZWGhllYlKfjj",
+      "filename": "2021_XD_CVX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Công nghệ Kỹ thuật Vật liệu Xây dựng\\2021_XD_CVX.pdf",
+      "file_size": 171641,
+      "downloaded_at": "2026-07-24T12:27:26.627126",
+      "status": "success"
+    },
+    {
+      "file_id": "1xi2yde-M_jO8uwqmNFSo98c9Jkdf3N5J",
+      "filename": "2022_XD_CVX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Công nghệ Kỹ thuật Vật liệu Xây dựng\\2022_XD_CVX.pdf",
+      "file_size": 171636,
+      "downloaded_at": "2026-07-24T12:27:26.667165",
+      "status": "success"
+    },
+    {
+      "file_id": "1Bs3I1yVdHW5y-tPWB7xdy_KwZu8Bw-2Q",
+      "filename": "2020_XD_CVX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Công nghệ Kỹ thuật Vật liệu Xây dựng\\2020_XD_CVX.pdf",
+      "file_size": 867964,
+      "downloaded_at": "2026-07-24T12:27:27.984276",
+      "status": "success"
+    },
+    {
+      "file_id": "1brRnzYiUZcTx5w9j9lCnyFwAIpH69OfG",
+      "filename": "2024_XD_KTX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng\\2024_XD_KTX.pdf",
+      "file_size": 556117,
+      "downloaded_at": "2026-07-24T12:27:33.257963",
+      "status": "success"
+    },
+    {
+      "file_id": "1gQLkV7U52dyP2Mz15WOK6cL7Hshlmp8T",
+      "filename": "2019_XD_CVX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Công nghệ Kỹ thuật Vật liệu Xây dựng\\2019_XD_CVX.pdf",
+      "file_size": 297062,
+      "downloaded_at": "2026-07-24T12:27:33.557169",
+      "status": "success"
+    },
+    {
+      "file_id": "1yfqU_PbjDQAiS-umOa9sefhJO_nZWN53",
+      "filename": "2023_XD_KTX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng\\2023_XD_KTX.pdf",
+      "file_size": 558487,
+      "downloaded_at": "2026-07-24T12:27:34.545856",
+      "status": "success"
+    },
+    {
+      "file_id": "189iOWvOrEjs7AjGFnJyo7IYComFvbrld",
+      "filename": "2021_XD_KTX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng\\2021_XD_KTX.pdf",
+      "file_size": 175137,
+      "downloaded_at": "2026-07-24T12:27:40.271628",
+      "status": "success"
+    },
+    {
+      "file_id": "1B24qy-5_iztg6KOWKkmsMvmqCEUHEUeI",
+      "filename": "2022_XD_KTX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng\\2022_XD_KTX.pdf",
+      "file_size": 175214,
+      "downloaded_at": "2026-07-24T12:27:40.409074",
+      "status": "success"
+    },
+    {
+      "file_id": "19ccXQUFYx1YVvndGHxDhfXEerX4zuFVG",
+      "filename": "2020_XD_KTX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng\\2020_XD_KTX.pdf",
+      "file_size": 1439419,
+      "downloaded_at": "2026-07-24T12:27:42.645602",
+      "status": "success"
+    },
+    {
+      "file_id": "1Meny665urOFs1UWMuzHQXK4IeSV_BKB2",
+      "filename": "2024_XD_KTR.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kiến trúc\\2024_XD_KTR.pdf",
+      "file_size": 475274,
+      "downloaded_at": "2026-07-24T12:27:47.771081",
+      "status": "success"
+    },
+    {
+      "file_id": "1xm2u0p6IOVq3z1gfDfcuZMcMYu5eLZ1H",
+      "filename": "2019_XD_KTX.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng\\2019_XD_KTX.pdf",
+      "file_size": 1887488,
+      "downloaded_at": "2026-07-24T12:27:48.384288",
+      "status": "success"
+    },
+    {
+      "file_id": "10pvpccE91D_knaRTADkbICw25BkBas6t",
+      "filename": "2023_XD_KTR.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kiến trúc\\2023_XD_KTR.pdf",
+      "file_size": 173276,
+      "downloaded_at": "2026-07-24T12:27:48.869345",
+      "status": "success"
+    },
+    {
+      "file_id": "10tUt0GpnJx5nacjpXlZxpYeh6DPn5eVc",
+      "filename": "2021_XD_KTR.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kiến trúc\\2021_XD_KTR.pdf",
+      "file_size": 197888,
+      "downloaded_at": "2026-07-24T12:27:54.748101",
+      "status": "success"
+    },
+    {
+      "file_id": "1SbaY4KviQh243AVmScaUek3hz3bjTnzE",
+      "filename": "2022_XD_KTR.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kiến trúc\\2022_XD_KTR.pdf",
+      "file_size": 197425,
+      "downloaded_at": "2026-07-24T12:27:54.973554",
+      "status": "success"
+    },
+    {
+      "file_id": "1G1SQtXd6JRr0RMeqOYEyh59MFYrGBaz5",
+      "filename": "2020_XD_KTR.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kiến trúc\\2020_XD_KTR.pdf",
+      "file_size": 869252,
+      "downloaded_at": "2026-07-24T12:27:55.437080",
+      "status": "success"
+    },
+    {
+      "file_id": "13lkL97kBN60MaznxvcODwYfWzvagaOXO",
+      "filename": "2019_XD_KTR.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kiến trúc\\2019_XD_KTR.pdf",
+      "file_size": 871028,
+      "downloaded_at": "2026-07-24T12:28:01.305659",
+      "status": "success"
+    },
+    {
+      "file_id": "1Br5KC0hnyNro7vipSQszF_acBkPiYXpI",
+      "filename": "2024_XD_TDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Trắc địa - Bản đồ\\2024_XD_TDI.pdf",
+      "file_size": 453577,
+      "downloaded_at": "2026-07-24T12:28:01.594975",
+      "status": "success"
+    },
+    {
+      "file_id": "1_76ZzxSXNBvyz61hXoUrXyy0JUf-AbBx",
+      "filename": "2023_XD_TDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Trắc địa - Bản đồ\\2023_XD_TDI.pdf",
+      "file_size": 171684,
+      "downloaded_at": "2026-07-24T12:28:01.983331",
+      "status": "success"
+    },
+    {
+      "file_id": "194fiykaRTaGcTsJZ9LnvOYzFk4h67Nqe",
+      "filename": "2022_XD_TDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Trắc địa - Bản đồ\\2022_XD_TDI.pdf",
+      "file_size": 171618,
+      "downloaded_at": "2026-07-24T12:28:07.435608",
+      "status": "success"
+    },
+    {
+      "file_id": "1yx4tvE9n5zYfco1zz9_Vi8Ldz66XMfsY",
+      "filename": "2021_XD_TDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Trắc địa - Bản đồ\\2021_XD_TDI.pdf",
+      "file_size": 171631,
+      "downloaded_at": "2026-07-24T12:28:08.051961",
+      "status": "success"
+    },
+    {
+      "file_id": "1hm6WKXZp3MjJowYWCMW35O1-Z3UJHJqX",
+      "filename": "2020_XD_TDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Trắc địa - Bản đồ\\2020_XD_TDI.pdf",
+      "file_size": 501808,
+      "downloaded_at": "2026-07-24T12:28:08.385681",
+      "status": "success"
+    },
+    {
+      "file_id": "1n8ZU38sA-flgNrn5-WDUeQMRmLmrdJq9",
+      "filename": "2019_XD_TDI.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Trắc địa - Bản đồ\\2019_XD_TDI.pdf",
+      "file_size": 473148,
+      "downloaded_at": "2026-07-24T12:28:13.557581",
+      "status": "success"
+    },
+    {
+      "file_id": "1DugIiG7fQpuZlrX7KRUTi7sU7QvwRx0J",
+      "filename": "2023_XD_KXT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Thủy\\2023_XD_KXT.pdf",
+      "file_size": 171175,
+      "downloaded_at": "2026-07-24T12:28:14.804388",
+      "status": "success"
+    },
+    {
+      "file_id": "1WeeJnwec-uDULFGLRJfbWKTvL-UFBjxu",
+      "filename": "2024_XD_KXT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Thủy\\2024_XD_KXT.pdf",
+      "file_size": 449150,
+      "downloaded_at": "2026-07-24T12:28:15.215795",
+      "status": "success"
+    },
+    {
+      "file_id": "1y1PCqUOzPsUyKANX806Y5RWAp_Ibfycs",
+      "filename": "2022_XD_KXT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Thủy\\2022_XD_KXT.pdf",
+      "file_size": 173010,
+      "downloaded_at": "2026-07-24T12:28:19.970422",
+      "status": "success"
+    },
+    {
+      "file_id": "1I3rlMm4g207Oc5ZcWZrm6f2KDgi0NoX2",
+      "filename": "2021_XD_KXT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Thủy\\2021_XD_KXT.pdf",
+      "file_size": 172963,
+      "downloaded_at": "2026-07-24T12:28:21.101026",
+      "status": "success"
+    },
+    {
+      "file_id": "14suRcFbqWdbqxeF531h3Req5O41Td_Z1",
+      "filename": "2020_XD_KXT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Thủy\\2020_XD_KXT.pdf",
+      "file_size": 503063,
+      "downloaded_at": "2026-07-24T12:28:21.530775",
+      "status": "success"
+    },
+    {
+      "file_id": "1tCayszeX9kvyB3paS5R_Bqv6rU4RPCZd",
+      "filename": "2019_XD_KXT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Thủy\\2019_XD_KXT.pdf",
+      "file_size": 500307,
+      "downloaded_at": "2026-07-24T12:28:26.074140",
+      "status": "success"
+    },
+    {
+      "file_id": "1Pmk8qumBAwhXqSn3WZ8skD_8lGtwFNCn",
+      "filename": "2023_XD_XGT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Giao thông\\2023_XD_XGT.pdf",
+      "file_size": 171805,
+      "downloaded_at": "2026-07-24T12:28:27.906624",
+      "status": "success"
+    },
+    {
+      "file_id": "18WxEVzw0W2TPPQvPMxiJV4Qv2ymVcf20",
+      "filename": "2024_XD_XGT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Giao thông\\2024_XD_XGT.pdf",
+      "file_size": 487430,
+      "downloaded_at": "2026-07-24T12:28:27.929634",
+      "status": "success"
+    },
+    {
+      "file_id": "1_SZfOL0z7-9gBB1UXNCfXtH9Nbvk9G_b",
+      "filename": "2022_XD_XGT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Giao thông\\2022_XD_XGT.pdf",
+      "file_size": 172005,
+      "downloaded_at": "2026-07-24T12:28:32.594540",
+      "status": "success"
+    },
+    {
+      "file_id": "1_6nmU3gFPsedm04ejygVjGUsxTdtvUFB",
+      "filename": "2021_XD_XGT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Giao thông\\2021_XD_XGT.pdf",
+      "file_size": 171919,
+      "downloaded_at": "2026-07-24T12:28:35.011167",
+      "status": "success"
+    },
+    {
+      "file_id": "169re6Wvb6xi1y705ruNfrCjMS5hLSZ1K",
+      "filename": "2020_XD_XGT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Giao thông\\2020_XD_XGT.pdf",
+      "file_size": 955498,
+      "downloaded_at": "2026-07-24T12:28:35.606440",
+      "status": "success"
+    },
+    {
+      "file_id": "1HiichO_8Wd__4yNumA-f6mhjmcg6SO3g",
+      "filename": "2019_XD_XGT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kỹ thuật Xây dựng Công trình Giao thông\\2019_XD_XGT.pdf",
+      "file_size": 955980,
+      "downloaded_at": "2026-07-24T12:28:39.808518",
+      "status": "success"
+    },
+    {
+      "file_id": "1D0HQ4t-bVlh1bJ8WJQBFK-psfwrqku9G",
+      "filename": "2024_XD_KTXD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\KHOA KỸ THUẬT XÂY DỰNG\\Kinh tế Xây dựng\\2024_XD_KTXD.pdf",
+      "file_size": 460537,
+      "downloaded_at": "2026-07-24T12:28:41.955265",
+      "status": "success"
+    },
+    {
+      "file_id": "19_E6IjZHvzry7wIH_KMmjfhgmyDS-VzZ",
+      "filename": "PFIEV_CK_COD_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật Cơ điện tử\\PFIEV_CK_COD_2024.pdf",
+      "file_size": 458911,
+      "downloaded_at": "2026-07-24T12:28:42.219142",
+      "status": "success"
+    },
+    {
+      "file_id": "1ZaVW_zjNJN6kaoA-9-esvQDKWpknceNh",
+      "filename": "PFIEV_CK_COD_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật Cơ điện tử\\PFIEV_CK_COD_2023.pdf",
+      "file_size": 162996,
+      "downloaded_at": "2026-07-24T12:28:46.215558",
+      "status": "success"
+    },
+    {
+      "file_id": "1mFihGFbEGs3BM1iHWe-KHu6ePhUiV9mV",
+      "filename": "PFIEV_CK_COD_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật Cơ điện tử\\PFIEV_CK_COD_2022.pdf",
+      "file_size": 219439,
+      "downloaded_at": "2026-07-24T12:28:48.398391",
+      "status": "success"
+    },
+    {
+      "file_id": "1Qs1J7Xh3nfhmrfnir_TRpqtGJLF3nklC",
+      "filename": "PFIEV_CK_COD_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật Cơ điện tử\\PFIEV_CK_COD_2021.pdf",
+      "file_size": 195155,
+      "downloaded_at": "2026-07-24T12:28:48.846895",
+      "status": "success"
+    },
+    {
+      "file_id": "1Mv4loaw8LYvMPisxMXr5q5Ak2aVD6m-a",
+      "filename": "PFIEV_GT_HK_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hàng không\\PFIEV_GT_HK_2024.pdf",
+      "file_size": 451006,
+      "downloaded_at": "2026-07-24T12:28:52.747775",
+      "status": "success"
+    },
+    {
+      "file_id": "17RZWh0ydj6uO5aUB7bDum1Op0G1Pbg52",
+      "filename": "PFIEV_CK_HK_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hàng không\\PFIEV_CK_HK_2022.pdf",
+      "file_size": 222271,
+      "downloaded_at": "2026-07-24T12:28:55.401317",
+      "status": "success"
+    },
+    {
+      "file_id": "1BdOIkYQMIGQCPDRISooGTBb9H6jDajNt",
+      "filename": "PFIEV_CK_HK_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hàng không\\PFIEV_CK_HK_2023.pdf",
+      "file_size": 210930,
+      "downloaded_at": "2026-07-24T12:28:57.171300",
+      "status": "success"
+    },
+    {
+      "file_id": "1N0UvcO9sfP1rWHEVNfUq8TpGm5ZngyFT",
+      "filename": "PFIEV_CK_HK_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hàng không\\PFIEV_CK_HK_2021.pdf",
+      "file_size": 215814,
+      "downloaded_at": "2026-07-24T12:28:59.200779",
+      "status": "success"
+    },
+    {
+      "file_id": "1pIqM9ALAULEiZcWsNrywm_sUdYV8-BoN",
+      "filename": "PFIEV_CK_HK_2020.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hàng không\\PFIEV_CK_HK_2020.pdf",
+      "file_size": 105108,
+      "downloaded_at": "2026-07-24T12:29:03.220566",
+      "status": "success"
+    },
+    {
+      "file_id": "1lVVqf6l0uLCHjOHk-Hz5Ov6lfbzLOvlF",
+      "filename": "PFIEV_CK_PC_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu Polymer và Composite\\PFIEV_CK_PC_2024.pdf",
+      "file_size": 460998,
+      "downloaded_at": "2026-07-24T12:29:04.554303",
+      "status": "success"
+    },
+    {
+      "file_id": "15KeJ7imsp7gAoTMGLa2zDvznG968AN56",
+      "filename": "PFIEV_CK_PC_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu Polymer và Composite\\PFIEV_CK_PC_2023.pdf",
+      "file_size": 197750,
+      "downloaded_at": "2026-07-24T12:29:06.983820",
+      "status": "success"
+    },
+    {
+      "file_id": "11-V-VI9jKM0ENIJHzU0r-qZb3MdIWATk",
+      "filename": "PFIEV_CK_PC_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu Polymer và Composite\\PFIEV_CK_PC_2022.pdf",
+      "file_size": 181261,
+      "downloaded_at": "2026-07-24T12:29:09.300699",
+      "status": "success"
+    },
+    {
+      "file_id": "1mmlqY29qcMo_nFzt05k5ZbtZaHbHt51e",
+      "filename": "PFIEV_CK_VLNL_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu và Năng lượng\\PFIEV_CK_VLNL_2024.pdf",
+      "file_size": 465743,
+      "downloaded_at": "2026-07-24T12:29:14.089559",
+      "status": "success"
+    },
+    {
+      "file_id": "1tjI7_i6waOh-17iSXWCfCOesiNxoZDs8",
+      "filename": "PFIEV_CK_VLNL_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu và Năng lượng\\PFIEV_CK_VLNL_2023.pdf",
+      "file_size": 182998,
+      "downloaded_at": "2026-07-24T12:29:15.409942",
+      "status": "success"
+    },
+    {
+      "file_id": "1jm-lJk9JH_qOWB30MlnDEYDn8MNXEhH3",
+      "filename": "PFIEV_CK_VLNL_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu và Năng lượng\\PFIEV_CK_VLNL_2022.pdf",
+      "file_size": 182532,
+      "downloaded_at": "2026-07-24T12:29:17.357677",
+      "status": "success"
+    },
+    {
+      "file_id": "1W1UzBdk-hHKJwlts08VJ2DddATHmvDQw",
+      "filename": "PFIEV_CK_VLNL_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Vật liệu và Năng lượng\\PFIEV_CK_VLNL_2021.pdf",
+      "file_size": 182493,
+      "downloaded_at": "2026-07-24T12:29:20.800810",
+      "status": "success"
+    },
+    {
+      "file_id": "1Y3jKBHUw2Y0QAkbCEZC7e7IKixvZuL1D",
+      "filename": "PFIEV_DD_DVT_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Viễn thông\\PFIEV_DD_DVT_2024.pdf",
+      "file_size": 453970,
+      "downloaded_at": "2026-07-24T12:29:22.025028",
+      "status": "success"
+    },
+    {
+      "file_id": "1bytpt6c5iv2zOGRHsDqw9Gbl2zi1nMDz",
+      "filename": "PFIEV_DD_DVT_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Viễn thông\\PFIEV_DD_DVT_2023.pdf",
+      "file_size": 180791,
+      "downloaded_at": "2026-07-24T12:29:24.534120",
+      "status": "success"
+    },
+    {
+      "file_id": "1YGMvju7iU00-72lSo9vkLXqZIp9wCSQa",
+      "filename": "PFIEV_DD_DVT_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Viễn thông\\PFIEV_DD_DVT_2022.pdf",
+      "file_size": 210746,
+      "downloaded_at": "2026-07-24T12:29:27.398023",
+      "status": "success"
+    },
+    {
+      "file_id": "1Y-tSxIU2vjYoWdXFI7FzHQJ7ykCpVwx5",
+      "filename": "PFIEV_DD_DVT_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Viễn thông\\PFIEV_DD_DVT_2021.pdf",
+      "file_size": 183402,
+      "downloaded_at": "2026-07-24T12:29:28.407612",
+      "status": "success"
+    },
+    {
+      "file_id": "1-kZhYgkebn5q91yeeRlcmxzF0Zpha51d",
+      "filename": "PFIEV_DD_HTNLD_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hệ thống năng lượng điện\\PFIEV_DD_HTNLD_2024.pdf",
+      "file_size": 471621,
+      "downloaded_at": "2026-07-24T12:29:31.321362",
+      "status": "success"
+    },
+    {
+      "file_id": "1XjroAooRQw8CicWhzgG14vNSMEF694zw",
+      "filename": "PFIEV_DD_HTNLD_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hệ thống năng lượng điện\\PFIEV_DD_HTNLD_2023.pdf",
+      "file_size": 183830,
+      "downloaded_at": "2026-07-24T12:29:33.713932",
+      "status": "success"
+    },
+    {
+      "file_id": "1ycmcGCDSdDi3tgjZOFE9B-nQdy6dcuPb",
+      "filename": "PFIEV_DD_HTNLD_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hệ thống năng lượng điện\\PFIEV_DD_HTNLD_2022.pdf",
+      "file_size": 196453,
+      "downloaded_at": "2026-07-24T12:29:34.989213",
+      "status": "success"
+    },
+    {
+      "file_id": "1MjU6nSUI0rs2WWSZfaG1uDQIiyrz8u8M",
+      "filename": "PFIEV_DD_HTLD_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Hệ thống năng lượng điện\\PFIEV_DD_HTLD_2021.pdf",
+      "file_size": 179636,
+      "downloaded_at": "2026-07-24T12:29:38.142960",
+      "status": "success"
+    },
+    {
+      "file_id": "1XUNXwQHKp0Fl3hTu4IyBQDja96UxRDui",
+      "filename": "PFIEV_XD_QLNDT_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật và quản lý nước đô thị\\PFIEV_XD_QLNDT_2024.pdf",
+      "file_size": 615185,
+      "downloaded_at": "2026-07-24T12:29:40.773028",
+      "status": "success"
+    },
+    {
+      "file_id": "14BF5xWvzxCPqm8IGXsNyL2k9uSKkz17y",
+      "filename": "PFIEV_XD_QLNDT_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật và quản lý nước đô thị\\PFIEV_XD_QLNDT_2023.pdf",
+      "file_size": 187667,
+      "downloaded_at": "2026-07-24T12:29:41.844466",
+      "status": "success"
+    },
+    {
+      "file_id": "1ZNBEyu40IkBAenbmZbwtnubP0LEpJ-r0",
+      "filename": "PFIEV_XD_QLNDT_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật và quản lý nước đô thị\\PFIEV_XD_QLNDT_2022.pdf",
+      "file_size": 216652,
+      "downloaded_at": "2026-07-24T12:29:43.626994",
+      "status": "success"
+    },
+    {
+      "file_id": "1PxzYtpkb1oE9QcLrS4lKFeSSlbGfQHNx",
+      "filename": "PFIEV_XD_QLNDT_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật và quản lý nước đô thị\\PFIEV_XD_QLNDT_2021.pdf",
+      "file_size": 198458,
+      "downloaded_at": "2026-07-24T12:29:45.524776",
+      "status": "success"
+    },
+    {
+      "file_id": "1vFeg0ERU75fU1axrVG0gbeH4kE743L-X",
+      "filename": "PFIEV_XD_QLNDT_2020.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Kỹ thuật và quản lý nước đô thị\\PFIEV_XD_QLNDT_2020.pdf",
+      "file_size": 499316,
+      "downloaded_at": "2026-07-24T12:29:46.592754",
+      "status": "success"
+    },
+    {
+      "file_id": "1ZRB9yEoD_6eQQIuj_RpbDqnnp2RrhqeH",
+      "filename": "PFIEV_XD_XDDD_2024.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Xây dựng dân dụng - Công nghiệp và Hiệu quả\\PFIEV_XD_XDDD_2024.pdf",
+      "file_size": 488042,
+      "downloaded_at": "2026-07-24T12:29:49.013595",
+      "status": "success"
+    },
+    {
+      "file_id": "1U5ssDyx5CkVeREpkP1W95agmtrAAKzt7",
+      "filename": "PFIEV_XD_XDDD_2023.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Xây dựng dân dụng - Công nghiệp và Hiệu quả\\PFIEV_XD_XDDD_2023.pdf",
+      "file_size": 186155,
+      "downloaded_at": "2026-07-24T12:29:50.120145",
+      "status": "success"
+    },
+    {
+      "file_id": "1cGH2b5P95KExAG9umyJB2iynNThTxbxt",
+      "filename": "PFIEV_XD_XDDD_2022.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Xây dựng dân dụng - Công nghiệp và Hiệu quả\\PFIEV_XD_XDDD_2022.pdf",
+      "file_size": 213649,
+      "downloaded_at": "2026-07-24T12:29:50.903214",
+      "status": "success"
+    },
+    {
+      "file_id": "1WMnNtbReBX8yeVZIKvmmTEO-Pf0J1JIL",
+      "filename": "PFIEV_XD_XDDD_2021.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\VIỆT PHÁP\\Xây dựng dân dụng - Công nghiệp và Hiệu quả\\PFIEV_XD_XDDD_2021.pdf",
+      "file_size": 183068,
+      "downloaded_at": "2026-07-24T12:29:53.929261",
+      "status": "success"
+    },
+    {
+      "file_id": "1-xCylHBtQFT0aaNS6N3iERTNkU-5egfq",
+      "filename": "tientien_2024_DD_KDI_HTM_PC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Vi mạch - Hệ thống phần cứng\\tientien_2024_DD_KDI_HTM_PC.pdf",
+      "file_size": 457444,
+      "downloaded_at": "2026-07-24T12:29:55.546469",
+      "status": "success"
+    },
+    {
+      "file_id": "1dCOrsmRYbVkIMKxD3E-0yWvbOKdwTT7U",
+      "filename": "tientien_2023_DD_KDI_HTM_PC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Vi mạch - Hệ thống phần cứng\\tientien_2023_DD_KDI_HTM_PC.pdf",
+      "file_size": 524746,
+      "downloaded_at": "2026-07-24T12:29:56.967619",
+      "status": "success"
+    },
+    {
+      "file_id": "1-x1d8wWgpYAOJ2b5O47Ux0dmv2sbJ4tK",
+      "filename": "tientien_2022_DD_KDI_HTM_PC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Vi mạch - Hệ thống phần cứng\\tientien_2022_DD_KDI_HTM_PC.pdf",
+      "file_size": 182418,
+      "downloaded_at": "2026-07-24T12:30:00.494894",
+      "status": "success"
+    },
+    {
+      "file_id": "1jaQQe_5kzdpd5Y2uN41pZ6WxZ2hXg8Z_",
+      "filename": "tientien_2021_DD_KDI_HTM_PC.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Vi mạch - Hệ thống phần cứng\\tientien_2021_DD_KDI_HTM_PC.pdf",
+      "file_size": 181924,
+      "downloaded_at": "2026-07-24T12:30:02.845897",
+      "status": "success"
+    },
+    {
+      "file_id": "10qqsmoV2XsXLTzVgxm9YXokq0UHywrMk",
+      "filename": "tientien_2024_DD_KDI_HTNL.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Năng lượng\\tientien_2024_DD_KDI_HTNL.pdf",
+      "file_size": 457444,
+      "downloaded_at": "2026-07-24T12:30:03.355275",
+      "status": "success"
+    },
+    {
+      "file_id": "1RlQe7dgOE9B_RGfaG5GtaWnsoaQtj6_0",
+      "filename": "tientien_2023_DD_KDI_HTNL.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Năng lượng\\tientien_2023_DD_KDI_HTNL.pdf",
+      "file_size": 534672,
+      "downloaded_at": "2026-07-24T12:30:07.645844",
+      "status": "success"
+    },
+    {
+      "file_id": "1BeH7kGWKWoXsgARKpVaIwsVVVFF5IvoJ",
+      "filename": "tientien_2022_DD_KDI_HTNL.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Năng lượng\\tientien_2022_DD_KDI_HTNL.pdf",
+      "file_size": 181627,
+      "downloaded_at": "2026-07-24T12:30:09.631834",
+      "status": "success"
+    },
+    {
+      "file_id": "1DZ-82Cy2jnBTGt22tg7ASZw1461d67cp",
+      "filename": "tientien_2021_DD_KDI_HTNL.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Năng lượng\\tientien_2021_DD_KDI_HTNL.pdf",
+      "file_size": 181050,
+      "downloaded_at": "2026-07-24T12:30:10.212591",
+      "status": "success"
+    },
+    {
+      "file_id": "1TLKLr7d-idiJCdgENbETuJPTeJ3ODU8G",
+      "filename": "tientien_2024_DD_KDI_HTTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Kỹ thuật Điều khiển và Tự động hoá\\tientien_2024_DD_KDI_HTTD.pdf",
+      "file_size": 457444,
+      "downloaded_at": "2026-07-24T12:30:14.245572",
+      "status": "success"
+    },
+    {
+      "file_id": "12r1ruyCFps0rkIapY1BAQ4t7rFgUo4J1",
+      "filename": "tientien_2023_DD_KDI_HTTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Kỹ thuật Điều khiển và Tự động hoá\\tientien_2023_DD_KDI_HTTD.pdf",
+      "file_size": 523283,
+      "downloaded_at": "2026-07-24T12:30:16.395963",
+      "status": "success"
+    },
+    {
+      "file_id": "1mwShoO89B9THQ3s3XKR-6iNy6K2fMZo2",
+      "filename": "tientien_2022_DD_KDI_HTTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Kỹ thuật Điều khiển và Tự động hoá\\tientien_2022_DD_KDI_HTTD.pdf",
+      "file_size": 181853,
+      "downloaded_at": "2026-07-24T12:30:16.983384",
+      "status": "success"
+    },
+    {
+      "file_id": "1o0k2bZz_coqvrTF0ypFAzojwIlRxsyif",
+      "filename": "tientien_2021_DD_KDI_HTTD.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Kỹ thuật Điều khiển và Tự động hoá\\tientien_2021_DD_KDI_HTTD.pdf",
+      "file_size": 181329,
+      "downloaded_at": "2026-07-24T12:30:20.975502",
+      "status": "success"
+    },
+    {
+      "file_id": "1HCUSCk-FlmPjeQ-HZl1OyrDhbUiAXRXH",
+      "filename": "tientien_2024_DD_KDI_HTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Viễn thông\\tientien_2024_DD_KDI_HTVT.pdf",
+      "file_size": 457444,
+      "downloaded_at": "2026-07-24T12:30:23.099080",
+      "status": "success"
+    },
+    {
+      "file_id": "1M_MB0CwRu3GtfWC3M4u-JBXYr2PKaMes",
+      "filename": "tientien_2023_DD_KDI_HTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Viễn thông\\tientien_2023_DD_KDI_HTVT.pdf",
+      "file_size": 523250,
+      "downloaded_at": "2026-07-24T12:30:24.346017",
+      "status": "success"
+    },
+    {
+      "file_id": "1LSXiranWprr-rxSN8OkpFsSwpfOqamd5",
+      "filename": "tientien_2022_DD_KDI_HTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Viễn thông\\tientien_2022_DD_KDI_HTVT.pdf",
+      "file_size": 197754,
+      "downloaded_at": "2026-07-24T12:30:27.756927",
+      "status": "success"
+    },
+    {
+      "file_id": "1n71EAdwJ3Ht0vulJcRq2cUEksZizfq0p",
+      "filename": "tientien_2021_DD_KDI_HTVT.pdf",
+      "filepath": "output/ChuongTrinhDaoTao_TheoKhoa\\CHƯƠNG TRÌNH TIÊN TIẾN\\Hệ thống Viễn thông\\tientien_2021_DD_KDI_HTVT.pdf",
+      "file_size": 195044,
+      "downloaded_at": "2026-07-24T12:30:29.580141",
+      "status": "success"
+    }
+  ],
+  "failed": [],
+  "crawl_log": []
+}

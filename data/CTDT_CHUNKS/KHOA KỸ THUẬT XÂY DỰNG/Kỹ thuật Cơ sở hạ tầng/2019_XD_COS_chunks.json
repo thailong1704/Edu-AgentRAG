@@ -1,0 +1,1175 @@
+[
+  {
+    "chunk_id": "tongquan_KTCSHT_2019",
+    "text": "Chương trình đào tạo Cử nhân ngành Kỹ thuật Cơ sở Hạ tầng, khoá 2019, tổng cộng 131 tín chỉ. Chương trình gồm các khối kiến thức: Toán và KH Tự nhiên, Chính trị,Kinh tế,Văn hóa,Xã hội, Nhập môn, Con người và môi trường, Ngoại ngữ, Cơ sở ngành, Tự chọn tự do, Quản lý, Chuyên ngành, Tốt nghiệp, Chứng chỉ. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: Tự chọn tự do (yêu cầu 9 tín chỉ); Nhóm tự chọn A (Quản lý) (yêu cầu 3 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "tong_tin_chi": 131
+    }
+  },
+  {
+    "chunk_id": "nhom__toan_va_kh_tu_nhien",
+    "text": "Nhóm 'Toán và KH Tự nhiên' thuộc khối Toán và KH Tự nhiên, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1005 Giải tích 2 (4 TC); MT1007 Đại số tuyến tính (3 TC); MT2013 Xác suất và thống kê (4 TC); CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm vật lý (1 TC); CI1069 Khoa học trái đất (4 TC); MT1009 Phương pháp tính (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 9,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1005",
+        "MT1007",
+        "MT2013",
+        "CH1003",
+        "PH1003",
+        "PH1007",
+        "CI1069",
+        "MT1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1069",
+    "text": "Môn học: Khoa học trái đất (mã CI1069), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1069",
+      "ten_mon": "Khoa học trái đất",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1009",
+    "text": "Môn học: Phương pháp tính (mã MT1009), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1009",
+      "ten_mon": "Phương pháp tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chinh_tri_kinh_te_van_hoa_xa_hoi",
+    "text": "Nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội' thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa xã hội khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 6,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa xã hội khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__nhap_mon",
+    "text": "Nhóm 'Nhập môn' thuộc khối Nhập môn, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI1001 Nhập môn về kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "CI1001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1001",
+    "text": "Môn học: Nhập môn về kỹ thuật (mã CI1001), 3 tín chỉ. Thuộc khối Nhập môn > nhóm 'Nhập môn', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1001",
+      "ten_mon": "Nhập môn về kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__con_nguoi_va_moi_truong",
+    "text": "Nhóm 'Con người và môi trường' thuộc khối Con người và môi trường, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: EN1003 Con người và môi trường (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "EN1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EN1003",
+    "text": "Môn học: Con người và môi trường (mã EN1003), 3 tín chỉ. Thuộc khối Con người và môi trường > nhóm 'Con người và môi trường', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EN1003",
+      "ten_mon": "Con người và môi trường",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__ngoai_ngu",
+    "text": "Nhóm 'Ngoại ngữ' thuộc khối Ngoại ngữ, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__co_so_nganh",
+    "text": "Nhóm 'Cơ sở ngành' thuộc khối Cơ sở ngành, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI1007 Trắc địa đại cương (3 TC); CI1033 Vẽ kỹ thuật xây dựng (3 TC); CI2003 Cơ lưu chất (3 TC); CI2007 Sức bền vật liệu (4 TC); CI2037 Vật liệu xây dựng (3 TC); CI2095 Địa chất công trình (3 TC); CI3233 Cơ kết cấu (3 TC); CI3235 Cơ học đất (3 TC); CI3237 Kết cấu bê tông cốt thép (3 TC); CI3239 Nền móng (4 TC); CI4011 Thí nghiệm công trình (1 TC); CI4129 Kinh tế xây dựng (3 TC); CI3231 Kết cấu thép (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 13,
+      "ma_mon_trong_nhom": [
+        "CI1007",
+        "CI1033",
+        "CI2003",
+        "CI2007",
+        "CI2037",
+        "CI2095",
+        "CI3233",
+        "CI3235",
+        "CI3237",
+        "CI3239",
+        "CI4011",
+        "CI4129",
+        "CI3231"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1007",
+    "text": "Môn học: Trắc địa đại cương (mã CI1007), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1007",
+      "ten_mon": "Trắc địa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1033",
+    "text": "Môn học: Vẽ kỹ thuật xây dựng (mã CI1033), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1033",
+      "ten_mon": "Vẽ kỹ thuật xây dựng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2003",
+    "text": "Môn học: Cơ lưu chất (mã CI2003), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2003",
+      "ten_mon": "Cơ lưu chất",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2007",
+    "text": "Môn học: Sức bền vật liệu (mã CI2007), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2007",
+      "ten_mon": "Sức bền vật liệu",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2037",
+    "text": "Môn học: Vật liệu xây dựng (mã CI2037), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2037",
+      "ten_mon": "Vật liệu xây dựng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2095",
+    "text": "Môn học: Địa chất công trình (mã CI2095), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2095",
+      "ten_mon": "Địa chất công trình",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3233",
+    "text": "Môn học: Cơ kết cấu (mã CI3233), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3233",
+      "ten_mon": "Cơ kết cấu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3235",
+    "text": "Môn học: Cơ học đất (mã CI3235), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3235",
+      "ten_mon": "Cơ học đất",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3237",
+    "text": "Môn học: Kết cấu bê tông cốt thép (mã CI3237), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3237",
+      "ten_mon": "Kết cấu bê tông cốt thép",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3239",
+    "text": "Môn học: Nền móng (mã CI3239), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3239",
+      "ten_mon": "Nền móng",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI4011",
+    "text": "Môn học: Thí nghiệm công trình (mã CI4011), 1 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI4011",
+      "ten_mon": "Thí nghiệm công trình",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI4129",
+    "text": "Môn học: Kinh tế xây dựng (mã CI4129), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI4129",
+      "ten_mon": "Kinh tế xây dựng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3231",
+    "text": "Môn học: Kết cấu thép (mã CI3231), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3231",
+      "ten_mon": "Kết cấu thép",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_tu_do",
+    "text": "Nhóm 'Tự chọn tự do' thuộc khối Tự chọn tự do, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Tự chọn tự do",
+      "ma_nhom": "tu_chon_tu_do",
+      "ten_nhom": "Tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_a",
+    "text": "Nhóm 'Nhóm tự chọn A (Quản lý)' thuộc khối Quản lý, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: CI4181 Lãnh đạo và khởi nghiệp (3 TC); CI4183 Lãnh đạo và quản lý dự án (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 2,
+      "ma_mon_trong_nhom": [
+        "CI4181",
+        "CI4183"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__CI4181",
+    "text": "Môn học: Lãnh đạo và khởi nghiệp (mã CI4181), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "CI4181",
+      "ten_mon": "Lãnh đạo và khởi nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__CI4183",
+    "text": "Môn học: Lãnh đạo và quản lý dự án (mã CI4183), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "CI4183",
+      "ten_mon": "Lãnh đạo và quản lý dự án",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__chuyen_nganh",
+    "text": "Nhóm 'Chuyên ngành' thuộc khối Chuyên ngành, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI3013 Thủy văn đô thị (3 TC); CI3241 Cấp thoát nước (3 TC); CI3265 Kỹ thuật hạ tầng đô thị (3 TC); CI4023 Thi công công trình cơ sở hạ tầng (3 TC); CI4141 Công trình cấp thoát nước và trạm bơm (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 5,
+      "ma_mon_trong_nhom": [
+        "CI3013",
+        "CI3241",
+        "CI3265",
+        "CI4023",
+        "CI4141"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3013",
+    "text": "Môn học: Thủy văn đô thị (mã CI3013), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3013",
+      "ten_mon": "Thủy văn đô thị",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3241",
+    "text": "Môn học: Cấp thoát nước (mã CI3241), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3241",
+      "ten_mon": "Cấp thoát nước",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3265",
+    "text": "Môn học: Kỹ thuật hạ tầng đô thị (mã CI3265), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3265",
+      "ten_mon": "Kỹ thuật hạ tầng đô thị",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI4023",
+    "text": "Môn học: Thi công công trình cơ sở hạ tầng (mã CI4023), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI4023",
+      "ten_mon": "Thi công công trình cơ sở hạ tầng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI4141",
+    "text": "Môn học: Công trình cấp thoát nước và trạm bơm (mã CI4141), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI4141",
+      "ten_mon": "Công trình cấp thoát nước và trạm bơm",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tot_nghiep",
+    "text": "Nhóm 'Tốt nghiệp' thuộc khối Tốt nghiệp, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI3425 Thực tập ngoài trường (2 TC); CI4173 Đồ án chuyên ngành (2 TC); CI4427 Đồ án tốt nghiệp (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "CI3425",
+        "CI4173",
+        "CI4427"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI3425",
+    "text": "Môn học: Thực tập ngoài trường (mã CI3425), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI3425",
+      "ten_mon": "Thực tập ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI4173",
+    "text": "Môn học: Đồ án chuyên ngành (mã CI4173), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI4173",
+      "ten_mon": "Đồ án chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI4427",
+    "text": "Môn học: Đồ án tốt nghiệp (mã CI4427), 4 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI4427",
+      "ten_mon": "Đồ án tốt nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chung_chi",
+    "text": "Nhóm 'Chứng chỉ' thuộc khối Chứng chỉ, ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: MI1003 Giáo dục quốc phòng (0 TC); PE1003 Giáo dục thể chất 1 (0 TC); PE1005 Giáo dục thể chất 2 (0 TC); PE1007 Giáo dục thể chất 3 (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "MI1003",
+        "PE1003",
+        "PE1005",
+        "PE1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1003",
+    "text": "Môn học: Giáo dục thể chất 1 (mã PE1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1003",
+      "ten_mon": "Giáo dục thể chất 1",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1005",
+    "text": "Môn học: Giáo dục thể chất 2 (mã PE1005), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1005",
+      "ten_mon": "Giáo dục thể chất 2",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1007",
+    "text": "Môn học: Giáo dục thể chất 3 (mã PE1007), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ sở Hạ tầng khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ sở Hạ tầng",
+      "khoa": 2019,
+      "ma_ctdt": "KTCSHT_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1007",
+      "ten_mon": "Giáo dục thể chất 3",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]

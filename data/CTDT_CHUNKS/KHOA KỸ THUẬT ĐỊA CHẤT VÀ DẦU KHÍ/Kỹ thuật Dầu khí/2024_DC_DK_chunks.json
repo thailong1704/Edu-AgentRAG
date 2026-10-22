@@ -1,0 +1,1625 @@
+[
+  {
+    "chunk_id": "tongquan_KTDK_2024",
+    "text": "Chương trình đào tạo Cử nhân ngành Kỹ thuật Dầu khí, khoá 2024, tổng cộng 132 tín chỉ. Chương trình gồm các khối kiến thức: Khác, Điều kiện tốt nghiệp. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: Z. Điều kiện tốt nghiệp (yêu cầu 0 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "tong_tin_chi": 132
+    }
+  },
+  {
+    "chunk_id": "nhom__khac",
+    "text": "Nhóm 'Khác' thuộc khối Khác, ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1005 Giải tích 2 (4 TC); MT1007 Đại số Tuyến tính (3 TC); MT2013 Xác suất và Thống kê (4 TC); CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm Vật lý (1 TC); GE1013 Khoa học Trái đất (4 TC); GE1027 Khoa học dữ liệu (3 TC); SP1007 Pháp luật Việt Nam Đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế Chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa Xã hội Khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC); GE1001 Nhập môn về Kỹ thuật (3 TC); GE1025 Kỹ thuật hệ thống và thực tiễn công nghiệp (3 TC); GE1029 Sức khỏe An toàn Môi trường (3 TC); LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC); GE2051 Cơ sở khoa học địa chất dầu khí và ngành dầu khí (3 TC); GE2001 Cơ sở Kỹ thuật Dầu khí (3 TC); GE2053 Nhiệt động học vỉa và tính chất chất lưu (3 TC); GE2061 Trầm tích học và nhịp địa tầng (3 TC); GE2063 Kỹ thuật khoan dầu khí (3 TC); GE2059 Địa chất kiến trúc và các phương pháp địa chấn (3 TC); GE3017 Kỹ thuật Vỉa dầu khí (3 TC); GE3205 Cơ học đá Dầu khí (3 TC); GE2055 Địa vật lý dầu khí và đánh giá thành hệ (3 TC); GE2057 Đồ án tổng quan về địa năng lượng (1 TC); GE3213 Địa thống kê Ứng dụng trong Kỹ thuật Dầu khí (3 TC); GE3219 Hoàn thiện và kích thích giếng (3 TC); GE3217 Kỹ thuật khai thác dầu khí (3 TC); GE3105 Đặc trưng Hóa và Mô hình Hóa vỉa (3 TC); GE4091 Mô phỏng Vỉa dầu khí (3 TC); GE4145 Thử vỉa và phân tích áp suất chuyển tiếp (3 TC); GE4153 Quản lý dự án và vỉa dầu khí tích hợp (3 TC); GE3223 Các quá trình vận chuyển và chế biến dầu khí (3 TC); GE3221 Tổn hại thành hệ và cải thiện năng suất khai thác (3 TC); GE4147 Các nguồn tài nguyên phi truyền thống và phương pháp khai thác (3 TC); GE4149 Thu hồi lưu trữ carbon trong thành hệ địa chất (3 TC); GE4151 Năng lượng bền vững (3 TC); ME1019 Quản lý năng suất và chất lượng (3 TC); IM1031 Khởi nghiệp và đổi mới sáng tạo (3 TC); GE3345 Thực tập Ngoài trường (2 TC); GE4141 Đồ án Chuyên ngành (2 TC); GE4347 Đồ án Tốt nghiệp (4 TC); MI1003 Giáo dục Quốc phòng (0 TC); PE1009 Bóng đá (Học phần 1) (0 TC); PE1011 Bóng chuyền (Học phần 1) (0 TC); PE1013 Bóng bàn (Học phần 1) (0 TC); PE1021 Aerobic (học Phần 1) (0 TC); PE1015 Bóng rổ (Học phần 1) (0 TC); PE1017 Cầu lông (Học phần 1) (0 TC); PE1025 Điền kinh (Học phần 1) (0 TC); PE1019 Bơi (học Phần 1) (0 TC); PE1027 Quần vợt (Học phần 1) (0 TC); PE1053 Cờ vua (Học phần 1) (0 TC); PE1057 Bowling (học phần 1) (0 TC); PE1061 Pickleball (học phần 1) (0 TC); PE1037 Bóng bàn (Học phần 2) (0 TC); PE1041 Cầu lông (Học phần 2) (0 TC); PE1033 Bóng đá (Học phần 2) (0 TC); PE1045 Aerobic (học Phần 2) (0 TC); PE1043 Bơi (học Phần 2) (0 TC); PE1039 Bóng rổ (Học phần 2) (0 TC); PE1035 Bóng chuyền (Học phần 2) (0 TC); PE1049 Điền kinh (học phần 2) (0 TC); PE1051 Quần vợt (Học phần 2) (0 TC); PE1055 Cờ vua (học phần 2) (0 TC); PE1063 Pickleball (học phần 2) (0 TC); PE1059 Bowling (học phần 2) (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 74,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1005",
+        "MT1007",
+        "MT2013",
+        "CH1003",
+        "PH1003",
+        "PH1007",
+        "GE1013",
+        "GE1027",
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039",
+        "GE1001",
+        "GE1025",
+        "GE1029",
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009",
+        "GE2051",
+        "GE2001",
+        "GE2053",
+        "GE2061",
+        "GE2063",
+        "GE2059",
+        "GE3017",
+        "GE3205",
+        "GE2055",
+        "GE2057",
+        "GE3213",
+        "GE3219",
+        "GE3217",
+        "GE3105",
+        "GE4091",
+        "GE4145",
+        "GE4153",
+        "GE3223",
+        "GE3221",
+        "GE4147",
+        "GE4149",
+        "GE4151",
+        "ME1019",
+        "IM1031",
+        "GE3345",
+        "GE4141",
+        "GE4347",
+        "MI1003",
+        "PE1009",
+        "PE1011",
+        "PE1013",
+        "PE1021",
+        "PE1015",
+        "PE1017",
+        "PE1025",
+        "PE1019",
+        "PE1027",
+        "PE1053",
+        "PE1057",
+        "PE1061",
+        "PE1037",
+        "PE1041",
+        "PE1033",
+        "PE1045",
+        "PE1043",
+        "PE1039",
+        "PE1035",
+        "PE1049",
+        "PE1051",
+        "PE1055",
+        "PE1063",
+        "PE1059"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1003 (Giải tích 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MT1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số Tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số Tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và Thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1007 (Đại số Tuyến tính).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và Thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "MT1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm Vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm Vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1013",
+    "text": "Môn học: Khoa học Trái đất (mã GE1013), 4 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1013",
+      "ten_mon": "Khoa học Trái đất",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1027",
+    "text": "Môn học: Khoa học dữ liệu (mã GE1027), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1027",
+      "ten_mon": "Khoa học dữ liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam Đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam Đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế Chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1031 (Triết học Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế Chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa Xã hội Khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1033 (Kinh tế Chính trị Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa Xã hội Khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1039 (Lịch sử Đảng Cộng sản Việt Nam).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1035 (Chủ nghĩa Xã hội Khoa học).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1001",
+    "text": "Môn học: Nhập môn về Kỹ thuật (mã GE1001), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1001",
+      "ten_mon": "Nhập môn về Kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1025",
+    "text": "Môn học: Kỹ thuật hệ thống và thực tiễn công nghiệp (mã GE1025), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1025",
+      "ten_mon": "Kỹ thuật hệ thống và thực tiễn công nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1029",
+    "text": "Môn học: Sức khỏe An toàn Môi trường (mã GE1029), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1029",
+      "ten_mon": "Sức khỏe An toàn Môi trường",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1003 (Anh văn 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1005 (Anh văn 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1007 (Anh văn 3).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2051",
+    "text": "Môn học: Cơ sở khoa học địa chất dầu khí và ngành dầu khí (mã GE2051), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE1013 (Khoa học Trái đất). Khuyến nghị học trước: PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2051",
+      "ten_mon": "Cơ sở khoa học địa chất dầu khí và ngành dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE1013",
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2001",
+    "text": "Môn học: Cơ sở Kỹ thuật Dầu khí (mã GE2001), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE1001 (Nhập môn về Kỹ thuật), PH1003 (Vật lý 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2001",
+      "ten_mon": "Cơ sở Kỹ thuật Dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE1001",
+        "PH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2053",
+    "text": "Môn học: Nhiệt động học vỉa và tính chất chất lưu (mã GE2053), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: PH1003 (Vật lý 1), CH1003 (Hóa đại cương).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2053",
+      "ten_mon": "Nhiệt động học vỉa và tính chất chất lưu",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "PH1003",
+        "CH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2061",
+    "text": "Môn học: Trầm tích học và nhịp địa tầng (mã GE2061), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2051 (Cơ sở khoa học địa chất dầu khí và ngành dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2061",
+      "ten_mon": "Trầm tích học và nhịp địa tầng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2051"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2063",
+    "text": "Môn học: Kỹ thuật khoan dầu khí (mã GE2063), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2001 (Cơ sở Kỹ thuật Dầu khí), GE2051 (Cơ sở khoa học địa chất dầu khí và ngành dầu khí), MT1005 (Giải tích 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2063",
+      "ten_mon": "Kỹ thuật khoan dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2001",
+        "GE2051",
+        "MT1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2059",
+    "text": "Môn học: Địa chất kiến trúc và các phương pháp địa chấn (mã GE2059), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2051 (Cơ sở khoa học địa chất dầu khí và ngành dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2059",
+      "ten_mon": "Địa chất kiến trúc và các phương pháp địa chấn",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2051"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3017",
+    "text": "Môn học: Kỹ thuật Vỉa dầu khí (mã GE3017), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2053 (Nhiệt động học vỉa và tính chất chất lưu), MT1005 (Giải tích 2), GE2001 (Cơ sở Kỹ thuật Dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3017",
+      "ten_mon": "Kỹ thuật Vỉa dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2053",
+        "MT1005",
+        "GE2001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3205",
+    "text": "Môn học: Cơ học đá Dầu khí (mã GE3205), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3205",
+      "ten_mon": "Cơ học đá Dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2055",
+    "text": "Môn học: Địa vật lý dầu khí và đánh giá thành hệ (mã GE2055), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2001 (Cơ sở Kỹ thuật Dầu khí), GE2051 (Cơ sở khoa học địa chất dầu khí và ngành dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2055",
+      "ten_mon": "Địa vật lý dầu khí và đánh giá thành hệ",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2001",
+        "GE2051"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE2057",
+    "text": "Môn học: Đồ án tổng quan về địa năng lượng (mã GE2057), 1 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2001 (Cơ sở Kỹ thuật Dầu khí), GE2051 (Cơ sở khoa học địa chất dầu khí và ngành dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE2057",
+      "ten_mon": "Đồ án tổng quan về địa năng lượng",
+      "tin_chi": 1,
+      "tien_quyet": [
+        "GE2001",
+        "GE2051"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3213",
+    "text": "Môn học: Địa thống kê Ứng dụng trong Kỹ thuật Dầu khí (mã GE3213), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3213",
+      "ten_mon": "Địa thống kê Ứng dụng trong Kỹ thuật Dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3219",
+    "text": "Môn học: Hoàn thiện và kích thích giếng (mã GE3219), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: CH1003 (Hóa đại cương), PH1007 (Thí nghiệm Vật lý).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3219",
+      "ten_mon": "Hoàn thiện và kích thích giếng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "CH1003",
+        "PH1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3217",
+    "text": "Môn học: Kỹ thuật khai thác dầu khí (mã GE3217), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE3017 (Kỹ thuật Vỉa dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3217",
+      "ten_mon": "Kỹ thuật khai thác dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE3017"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3105",
+    "text": "Môn học: Đặc trưng Hóa và Mô hình Hóa vỉa (mã GE3105), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3105",
+      "ten_mon": "Đặc trưng Hóa và Mô hình Hóa vỉa",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4091",
+    "text": "Môn học: Mô phỏng Vỉa dầu khí (mã GE4091), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE3017 (Kỹ thuật Vỉa dầu khí). Khuyến nghị học trước: MT2013 (Xác suất và Thống kê).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4091",
+      "ten_mon": "Mô phỏng Vỉa dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT2013",
+        "GE3017"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4145",
+    "text": "Môn học: Thử vỉa và phân tích áp suất chuyển tiếp (mã GE4145), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE3017 (Kỹ thuật Vỉa dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4145",
+      "ten_mon": "Thử vỉa và phân tích áp suất chuyển tiếp",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE3017"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4153",
+    "text": "Môn học: Quản lý dự án và vỉa dầu khí tích hợp (mã GE4153), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE3217 (Kỹ thuật khai thác dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4153",
+      "ten_mon": "Quản lý dự án và vỉa dầu khí tích hợp",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE3217"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3223",
+    "text": "Môn học: Các quá trình vận chuyển và chế biến dầu khí (mã GE3223), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2053 (Nhiệt động học vỉa và tính chất chất lưu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3223",
+      "ten_mon": "Các quá trình vận chuyển và chế biến dầu khí",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2053"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3221",
+    "text": "Môn học: Tổn hại thành hệ và cải thiện năng suất khai thác (mã GE3221), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2055 (Địa vật lý dầu khí và đánh giá thành hệ), GE3217 (Kỹ thuật khai thác dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3221",
+      "ten_mon": "Tổn hại thành hệ và cải thiện năng suất khai thác",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2055",
+        "GE3217"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4147",
+    "text": "Môn học: Các nguồn tài nguyên phi truyền thống và phương pháp khai thác (mã GE4147), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE3017 (Kỹ thuật Vỉa dầu khí). Khuyến nghị học trước: GE3217 (Kỹ thuật khai thác dầu khí), GE2063 (Kỹ thuật khoan dầu khí).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4147",
+      "ten_mon": "Các nguồn tài nguyên phi truyền thống và phương pháp khai thác",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE3217",
+        "GE3017",
+        "GE2063"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4149",
+    "text": "Môn học: Thu hồi lưu trữ carbon trong thành hệ địa chất (mã GE4149), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: GE2051 (Cơ sở khoa học địa chất dầu khí và ngành dầu khí), GE2001 (Cơ sở Kỹ thuật Dầu khí), CH1003 (Hóa đại cương).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4149",
+      "ten_mon": "Thu hồi lưu trữ carbon trong thành hệ địa chất",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "GE2051",
+        "GE2001",
+        "CH1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4151",
+    "text": "Môn học: Năng lượng bền vững (mã GE4151), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4151",
+      "ten_mon": "Năng lượng bền vững",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1019",
+    "text": "Môn học: Quản lý năng suất và chất lượng (mã ME1019), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1019",
+      "ten_mon": "Quản lý năng suất và chất lượng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1031",
+    "text": "Môn học: Khởi nghiệp và đổi mới sáng tạo (mã IM1031), 3 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1031",
+      "ten_mon": "Khởi nghiệp và đổi mới sáng tạo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE3345",
+    "text": "Môn học: Thực tập Ngoài trường (mã GE3345), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE3345",
+      "ten_mon": "Thực tập Ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4141",
+    "text": "Môn học: Đồ án Chuyên ngành (mã GE4141), 2 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4141",
+      "ten_mon": "Đồ án Chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE4347",
+    "text": "Môn học: Đồ án Tốt nghiệp (mã GE4347), 4 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): GE3345 (Thực tập Ngoài trường), GE4141 (Đồ án Chuyên ngành).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE4347",
+      "ten_mon": "Đồ án Tốt nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "GE3345",
+        "GE4141"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục Quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục Quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1009",
+    "text": "Môn học: Bóng đá (Học phần 1) (mã PE1009), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1009",
+      "ten_mon": "Bóng đá (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1011",
+    "text": "Môn học: Bóng chuyền (Học phần 1) (mã PE1011), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1011",
+      "ten_mon": "Bóng chuyền (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1013",
+    "text": "Môn học: Bóng bàn (Học phần 1) (mã PE1013), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1013",
+      "ten_mon": "Bóng bàn (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1021",
+    "text": "Môn học: Aerobic (học Phần 1) (mã PE1021), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1021",
+      "ten_mon": "Aerobic (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1015",
+    "text": "Môn học: Bóng rổ (Học phần 1) (mã PE1015), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1015",
+      "ten_mon": "Bóng rổ (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1017",
+    "text": "Môn học: Cầu lông (Học phần 1) (mã PE1017), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1017",
+      "ten_mon": "Cầu lông (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1025",
+    "text": "Môn học: Điền kinh (Học phần 1) (mã PE1025), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1025",
+      "ten_mon": "Điền kinh (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1019",
+    "text": "Môn học: Bơi (học Phần 1) (mã PE1019), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1019",
+      "ten_mon": "Bơi (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1027",
+    "text": "Môn học: Quần vợt (Học phần 1) (mã PE1027), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1027",
+      "ten_mon": "Quần vợt (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1053",
+    "text": "Môn học: Cờ vua (Học phần 1) (mã PE1053), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1053",
+      "ten_mon": "Cờ vua (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1057",
+    "text": "Môn học: Bowling (học phần 1) (mã PE1057), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1057",
+      "ten_mon": "Bowling (học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1061",
+    "text": "Môn học: Pickleball (học phần 1) (mã PE1061), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1061",
+      "ten_mon": "Pickleball (học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1037",
+    "text": "Môn học: Bóng bàn (Học phần 2) (mã PE1037), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1037",
+      "ten_mon": "Bóng bàn (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1041",
+    "text": "Môn học: Cầu lông (Học phần 2) (mã PE1041), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1041",
+      "ten_mon": "Cầu lông (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1033",
+    "text": "Môn học: Bóng đá (Học phần 2) (mã PE1033), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1033",
+      "ten_mon": "Bóng đá (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1045",
+    "text": "Môn học: Aerobic (học Phần 2) (mã PE1045), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1045",
+      "ten_mon": "Aerobic (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1043",
+    "text": "Môn học: Bơi (học Phần 2) (mã PE1043), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1043",
+      "ten_mon": "Bơi (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1039",
+    "text": "Môn học: Bóng rổ (Học phần 2) (mã PE1039), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1039",
+      "ten_mon": "Bóng rổ (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1035",
+    "text": "Môn học: Bóng chuyền (Học phần 2) (mã PE1035), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1035",
+      "ten_mon": "Bóng chuyền (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1049",
+    "text": "Môn học: Điền kinh (học phần 2) (mã PE1049), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1049",
+      "ten_mon": "Điền kinh (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1051",
+    "text": "Môn học: Quần vợt (Học phần 2) (mã PE1051), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1051",
+      "ten_mon": "Quần vợt (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1055",
+    "text": "Môn học: Cờ vua (học phần 2) (mã PE1055), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1055",
+      "ten_mon": "Cờ vua (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1063",
+    "text": "Môn học: Pickleball (học phần 2) (mã PE1063), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1063",
+      "ten_mon": "Pickleball (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1059",
+    "text": "Môn học: Bowling (học phần 2) (mã PE1059), 0 tín chỉ. Thuộc khối Khác > nhóm 'Khác', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Khác",
+      "ma_nhom": "khac",
+      "ten_nhom": "Khác",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PE1059",
+      "ten_mon": "Bowling (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__Z",
+    "text": "Nhóm 'Z. Điều kiện tốt nghiệp' thuộc khối Điều kiện tốt nghiệp, ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: SA4001 Hoạt động sinh viên (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Điều kiện tốt nghiệp",
+      "ma_nhom": "Z",
+      "ten_nhom": "Z. Điều kiện tốt nghiệp",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "SA4001"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__SA4001",
+    "text": "Môn học: Hoạt động sinh viên (mã SA4001), 0 tín chỉ. Thuộc khối Điều kiện tốt nghiệp > nhóm 'Z. Điều kiện tốt nghiệp', ngành Kỹ thuật Dầu khí khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dầu khí",
+      "khoa": 2024,
+      "ma_ctdt": "KTDK_2024",
+      "khoi": "Điều kiện tốt nghiệp",
+      "ma_nhom": "Z",
+      "ten_nhom": "Z. Điều kiện tốt nghiệp",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "SA4001",
+      "ten_mon": "Hoạt động sinh viên",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  }
+]

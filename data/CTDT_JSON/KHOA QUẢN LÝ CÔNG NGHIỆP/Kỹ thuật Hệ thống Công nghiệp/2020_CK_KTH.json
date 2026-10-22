@@ -1,0 +1,1015 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kỹ thuật Hệ thống Công nghiệp",
+  "khoa": 2020,
+  "khoa_vien": "CƠ KHÍ",
+  "ma_ctdt": "KTHTCN_2020",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 132,
+  "format_pdf": "P1",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "ten_hoc_ky": "Học kỳ 1 16",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1003",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1003",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1003",
+                  "ten": "Giáo dục thể chất 1",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "ME1001",
+                  "ten": "Nhập môn về kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 2,
+          "ten_hoc_ky": "Học kỳ 2 17",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1005",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1007",
+                  "ten": "Đại số tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1005",
+                  "ten": "Vật lý 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1007",
+                  "ten": "Thí nghiệm vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1005",
+                  "ten": "Giáo dục thể chất 2",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "ME1009",
+                  "ten": "Quản lý sản xuất",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 3,
+          "ten_hoc_ky": "Học kỳ 3 17",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT1009",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PE1007",
+                  "ten": "Giáo dục thể chất 3",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "ME2051",
+                  "ten": "Vận trù học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CI1003",
+                  "ten": "Vẽ kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "ME2049",
+                  "ten": "ứng dụng máy tính trong công nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 4,
+          "ten_hoc_ky": "Học kỳ 4 17",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "MT2013",
+                  "ten": "Xác suất và thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "ME2123",
+                  "ten": "Kỹ thuật hệ thống",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "ME2111",
+                  "ten": "Thiết kế công việc và nhân trắc học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "ME2045",
+                  "ten": "Kinh tế kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 5,
+          "ten_hoc_ky": "Học kỳ 5 16",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa xã hội khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME3157",
+                  "ten": "Kỹ thuật dự báo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME3117",
+                  "ten": "Thiết kế mặt bằng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME2125",
+                  "ten": "Quản lý logistics",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME3159",
+                  "ten": "Thực tập đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 13
+            },
+            {
+              "ma_nhom": "hk5_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 6,
+          "ten_hoc_ky": "Học kỳ 6 18",
+          "tin_chi_hoc_ky": 18,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3161",
+                  "ten": "Quản lý vật tư và tồn kho",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3223",
+                  "ten": "Quản lý dự án",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3231",
+                  "ten": "Kỹ thuật mô hình hóa và mô phỏng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3163",
+                  "ten": "Thực hành mô hình hóa và mô phỏng",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3127",
+                  "ten": "Thực tập ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 15
+            },
+            {
+              "ma_nhom": "hk6_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 18
+        },
+        {
+          "so_hoc_ky": 7,
+          "ten_hoc_ky": "Học kỳ 7 16",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4615",
+                  "ten": "Sản xuất tinh gọn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME3225",
+                  "ten": "Kiểm soát và quản lý chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME3229",
+                  "ten": "Kỹ thuật ra quyết định",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4101",
+                  "ten": "Đồ án thiết kế hệ thống công nghiệp",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 13
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4031",
+                  "ten": "Kỹ thuật điều độ (KT Hệ thống Công nghiệp)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4607",
+                  "ten": "Phân tích và thiết kế hệ thống thông tin quản lý",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4367",
+                  "ten": "Đồ án tốt nghiệp (kt hệ thống cn)",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 12
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 31
+        }
+      ],
+      "tong_tin_chi": 132,
+      "so_hoc_ky": 7
+    },
+    {
+      "ten_chuong_trinh": "Tài năng",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "ten_hoc_ky": "Học kỳ 1 16",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1003",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1003",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1003",
+                  "ten": "Giáo dục thể chất 1",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "ME1001",
+                  "ten": "Nhập môn về kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 2,
+          "ten_hoc_ky": "Học kỳ 2 17",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1005",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1007",
+                  "ten": "Đại số tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1005",
+                  "ten": "Vật lý 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1007",
+                  "ten": "Thí nghiệm vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1005",
+                  "ten": "Giáo dục thể chất 2",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "ME1009",
+                  "ten": "Quản lý sản xuất",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 3,
+          "ten_hoc_ky": "Học kỳ 3 17",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT1009",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PE1007",
+                  "ten": "Giáo dục thể chất 3",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "ME2051",
+                  "ten": "Vận trù học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CI1003",
+                  "ten": "Vẽ kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "ME2049",
+                  "ten": "ứng dụng máy tính trong công nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 4,
+          "ten_hoc_ky": "Học kỳ 4 17",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "MT2013",
+                  "ten": "Xác suất và thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "ME2123",
+                  "ten": "Kỹ thuật hệ thống",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "ME2111",
+                  "ten": "Thiết kế công việc và nhân trắc học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "ME2045",
+                  "ten": "Kinh tế kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 5,
+          "ten_hoc_ky": "Học kỳ 5 16",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa xã hội khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME3157",
+                  "ten": "Kỹ thuật dự báo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME3117",
+                  "ten": "Thiết kế mặt bằng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME2125",
+                  "ten": "Quản lý logistics",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME3159",
+                  "ten": "Thực tập đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 13
+            },
+            {
+              "ma_nhom": "hk5_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 6,
+          "ten_hoc_ky": "Học kỳ 6 18",
+          "tin_chi_hoc_ky": 18,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3161",
+                  "ten": "Quản lý vật tư và tồn kho",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3223",
+                  "ten": "Quản lý dự án",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3231",
+                  "ten": "Kỹ thuật mô hình hóa và mô phỏng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3163",
+                  "ten": "Thực hành mô hình hóa và mô phỏng",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "ME3127",
+                  "ten": "Thực tập ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 15
+            },
+            {
+              "ma_nhom": "hk6_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 18
+        },
+        {
+          "so_hoc_ky": 7,
+          "ten_hoc_ky": "Học kỳ 7 16",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4615",
+                  "ten": "Sản xuất tinh gọn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME3225",
+                  "ten": "Kiểm soát và quản lý chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME3229",
+                  "ten": "Kỹ thuật ra quyết định",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4101",
+                  "ten": "Đồ án thiết kế hệ thống công nghiệp",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 13
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_bat_buoc",
+              "ten": "Các môn bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4031",
+                  "ten": "Kỹ thuật điều độ (KT Hệ thống Công nghiệp)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4607",
+                  "ten": "Phân tích và thiết kế hệ thống thông tin quản lý",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME4367",
+                  "ten": "Đồ án tốt nghiệp (kt hệ thống cn)",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 12
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_tu_do_chon_3_tin_chi",
+              "ten": "Các môn tự chọn tự do (chọn 3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 31
+        }
+      ],
+      "tong_tin_chi": 132,
+      "so_hoc_ky": 7
+    }
+  ]
+}

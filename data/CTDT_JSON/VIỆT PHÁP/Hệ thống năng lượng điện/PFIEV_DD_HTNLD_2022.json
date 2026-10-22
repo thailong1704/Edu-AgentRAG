@@ -1,0 +1,937 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kỹ thuật Điện",
+  "khoa": 2022,
+  "khoa_vien": "ĐIỆN - ĐIỆN TỬ 26/07/2024",
+  "ma_ctdt": "KTD_2022",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 163,
+  "format_pdf": "P2",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "ten_hoc_ky": "Học kỳ 1 (Semester 1) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "LA1011",
+                  "ten": "Pháp văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1011",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1015",
+                  "ten": "Đại số tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1003",
+                  "ten": "Giáo dục thể chất",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "EE1001",
+                  "ten": "Nhập môn về kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 2,
+          "ten_hoc_ky": "Học kỳ 2 (Semester 2) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "EN1003",
+                  "ten": "Con người và môi trường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "LA1013",
+                  "ten": "Pháp văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1009",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1013",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1005",
+                  "ten": "Giáo dục thể chất",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 3,
+          "ten_hoc_ky": "Học kỳ 3 (Semester 3) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "PH2005",
+                  "ten": "Vật lý 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "PH2007",
+                  "ten": "Thí nghiệm vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT2007",
+                  "ten": "Giải tích 3",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "LA1015",
+                  "ten": "Pháp văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT2009",
+                  "ten": "Xác suất và thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 4,
+          "ten_hoc_ky": "Học kỳ 4 (Semester 4) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 18,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "LA1017",
+                  "ten": "Pháp văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "EE2031",
+                  "ten": "Điện - giải tích mạch",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "AS2047",
+                  "ten": "Vật lý sóng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "MT2011",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "EE2119",
+                  "ten": "Thực tập công nhân",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 18
+            }
+          ],
+          "tin_chi_tu_cong": 18
+        },
+        {
+          "so_hoc_ky": 5,
+          "ten_hoc_ky": "Học kỳ 5 (Semester 5) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CI1003",
+                  "ten": "Vẽ kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "LA3021",
+                  "ten": "Pháp văn 5",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "EE2003",
+                  "ten": "Trường điện từ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "EE1009",
+                  "ten": "Kỹ thuật số",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "PH2005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "",
+                  "ten": "",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa xã hội khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "LA3023",
+                  "ten": "Pháp văn 6",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "EE3189",
+                  "ten": "Điện từ học tương tự và ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "MT1013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "EE2017",
+                  "ten": "Cơ sở kỹ thuật điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "EE2009",
+                  "ten": "Hệ thống máy tính và ngôn ngữ lập trình",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "EE3395",
+                  "ten": "Thực tập ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE2119",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 31
+            }
+          ],
+          "tin_chi_tu_cong": 31
+        },
+        {
+          "so_hoc_ky": 7,
+          "ten_hoc_ky": "Học kỳ 7 (Semester 7) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "EE2019",
+                  "ten": "Cơ sở điều khiển tự động",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "EE4055",
+                  "ten": "Điện tử công suất",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2019",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE2031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "EE3013",
+                  "ten": "Giải tích hệ thống điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "MT2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "EE3009",
+                  "ten": "Máy điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 14
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_nhom_a_chon_3_tin_chi_trong_cac_",
+              "ten": "Tự chọn nhóm A (chọn 3 tín chỉ trong các học phần sau)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "EE4059",
+                  "ten": "Các công nghệ năng lượng mới (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE3013",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE4055",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "EE4061",
+                  "ten": "Kỹ thuật chiếu sáng (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 6
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 8,
+          "ten_hoc_ky": "Học kỳ 8 (Semester 8) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 14,
+          "nhom": [
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "EE4063",
+                  "ten": "Hệ thống cung cấp điện (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "EE4065",
+                  "ten": "Nhà máy điện & trạm biến áp (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE3013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "EE4057",
+                  "ten": "Đồ án Cơ sở ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 10
+            },
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "EE3093",
+                  "ten": "Vận hành và điều khiển hệ thống điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE3013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "EE3087",
+                  "ten": "Bảo vệ rơle trong hệ thống điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE3013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "EE4395",
+                  "ten": "Thực tập kỹ sư",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE3009",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE3395",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "EE4063",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE4065",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE4069",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 8
+            }
+          ],
+          "tin_chi_tu_cong": 18
+        },
+        {
+          "so_hoc_ky": 9,
+          "ten_hoc_ky": "Học kỳ 9 (Semester 9) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 14,
+          "nhom": [
+            {
+              "ma_nhom": "hk9_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "EE5005",
+                  "ten": "Thiết bị điện trong phân phối điện (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "EE3097",
+                  "ten": "Kỹ thuật an toàn điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "EE5007",
+                  "ten": "Kỹ thuật cao áp (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE3013",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "EE5003",
+                  "ten": "Đồ án chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE3097",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE4069",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE4395",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE5005",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "EE5007",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                }
+              ],
+              "tong_tin_chi_nhom": 11
+            },
+            {
+              "ma_nhom": "hk9_tu_chon_nhom_c_chon_3_tin_chi_trong_cac_",
+              "ten": "Tự chọn nhóm C (chọn 3 tín chỉ trong các học phần sau)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "EE5009",
+                  "ten": "Điều khiển máy điện (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2019",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE3009",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE4055",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                },
+                {
+                  "ma": "EE5011",
+                  "ten": "Hệ thống năng lượng xanh (PBL)",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2017",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE4055",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 9
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 6
+            }
+          ],
+          "tin_chi_tu_cong": 14
+        },
+        {
+          "so_hoc_ky": 10,
+          "ten_hoc_ky": "Học kỳ 10 (Semester 10) Các học phần bắt buộc (Compulsary Courses)",
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk10_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "EE5027",
+                  "ten": "Luận văn tốt nghiệp",
+                  "tin_chi": 9,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE4395",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "EE5003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "TCTD",
+                  "ten": "Tự chọn tự do",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                },
+                {
+                  "ma": "TCTD",
+                  "ten": "Tự chọn tự do",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 10
+                }
+              ],
+              "tong_tin_chi_nhom": 15
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        }
+      ],
+      "tong_tin_chi": 163,
+      "so_hoc_ky": 9
+    }
+  ]
+}

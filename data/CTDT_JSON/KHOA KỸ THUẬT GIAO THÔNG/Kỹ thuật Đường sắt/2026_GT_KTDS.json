@@ -1,0 +1,873 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kỹ thuật đường sắt",
+  "khoa": 2026,
+  "khoa_vien": "KỸ THUẬT GIAO THÔNG 08/01/2026",
+  "ma_ctdt": "KTDS_2026",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 132,
+  "format_pdf": "P3",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1007",
+                  "ten": "Đại số Tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1003",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1003",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1007",
+                  "ten": "Thí nghiệm Vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "TR1007",
+                  "ten": "Nhập môn kỹ thuật về kỹ thuật Đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            },
+            {
+              "ma_nhom": "hk1_giao_duc_the_chat_hoc_phan_1",
+              "ten": "Giáo dục thể chất học phần 1",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1061",
+                  "ten": "Pickleball (học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1057",
+                  "ten": "Bowling (học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1053",
+                  "ten": "Cờ vua (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1027",
+                  "ten": "Quần vợt (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1019",
+                  "ten": "Bơi (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1025",
+                  "ten": "Điền kinh (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1017",
+                  "ten": "Cầu lông (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1015",
+                  "ten": "Bóng rổ (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1021",
+                  "ten": "Aerobic (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1013",
+                  "ten": "Bóng bàn (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1011",
+                  "ten": "Bóng chuyền (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1009",
+                  "ten": "Bóng đá (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1023",
+                  "ten": "Võ (Vovinam, Karate, Taewondo) (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 2,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1005",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PH1005",
+                  "ten": "Vật lý 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "PH1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "AS2071",
+                  "ten": "Cơ học kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "ME1023",
+                  "ten": "Thực tập Cơ khí",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            },
+            {
+              "ma_nhom": "hk2_giao_duc_the_chat_hoc_phan_2",
+              "ten": "Giáo dục thể chất học phần 2",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1059",
+                  "ten": "Bowling (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1063",
+                  "ten": "Pickleball (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1055",
+                  "ten": "Cờ vua (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1051",
+                  "ten": "Quần vợt (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1049",
+                  "ten": "Điền kinh (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1035",
+                  "ten": "Bóng chuyền (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1039",
+                  "ten": "Bóng rổ (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1043",
+                  "ten": "Bơi (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1045",
+                  "ten": "Aerobic (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1033",
+                  "ten": "Bóng đá (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1041",
+                  "ten": "Cầu lông (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1047",
+                  "ten": "Võ (Vovinam, Karate, Taewondo) (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1037",
+                  "ten": "Bóng bàn (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            },
+            {
+              "ma_nhom": "hk2_giao_duc_quoc_phong",
+              "ten": "Giáo dục quốc phòng",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục Quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 1,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT2013",
+                  "ten": "Xác suất và Thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "TR1003",
+                  "ten": "Vẽ kỹ thuật Giao thông",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "EE2011",
+                  "ten": "Kỹ thuật Điện - Điện tử",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "PH1005",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "ME2003",
+                  "ten": "Nguyên lý máy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "AS2071",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam Đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 2,
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1009",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "EE2425",
+                  "ten": "Cơ sở Truyền động điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CI2001",
+                  "ten": "Sức bền Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "TR2111",
+                  "ten": "Kết cấu phương tiện đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 1,
+          "tin_chi_hoc_ky": 18,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế Chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "ME2007",
+                  "ten": "Chi tiết máy",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "EE3447",
+                  "ten": "Cơ sở cung cấp điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "TR2041",
+                  "ten": "Kỹ thuật Cơ lưu chất - Nhiệt",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "TR3387",
+                  "ten": "Động lực học phương tiện đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 15
+            },
+            {
+              "ma_nhom": "hk1_kien_thuc_quan_ly_khoi_nghiep",
+              "ten": "Kiến thức quản lý/ khởi nghiệp",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "IM3107",
+                  "ten": "Khởi nghiệp và đổi mới sáng tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "IM3001",
+                  "ten": "Quản trị Kinh doanh cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "ME1019",
+                  "ten": "Quản lý năng suất và chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "IM1027",
+                  "ten": "Kinh tế Kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "IM1025",
+                  "ten": "Quản lý Dự án cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "IM1023",
+                  "ten": "Quản lý Sản xuất cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "IM1013",
+                  "ten": "Kinh tế học Đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 21
+            }
+          ],
+          "tin_chi_tu_cong": 18
+        },
+        {
+          "so_hoc_ky": 2,
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa Xã hội Khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "ME3811",
+                  "ten": "Đồ án Thiết kế Cơ khí",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "EE3449",
+                  "ten": "Đồ án Kỹ thuật Điện",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2011",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "EE2425",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "EE3447",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "TR3389",
+                  "ten": "Kỹ thuật bảo dưỡng và kiểm tra phương tiện đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "EE3451",
+                  "ten": "Hệ thống thông tin và tín hiệu đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "EE2011",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CI3503",
+                  "ten": "Hạ tầng đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "TR3391",
+                  "ten": "Thực tập ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 15
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        },
+        {
+          "so_hoc_ky": 1,
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "TR4389",
+                  "ten": "Tiêu chuẩn kỹ thuật và kiểm định phương tiện đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "TR4395",
+                  "ten": "Đồ án chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 7
+            },
+            {
+              "ma_nhom": "hk1_tu_chon_tu_do_3_tin_chi",
+              "ten": "Tự Chọn Tự Do (3 tín chỉ)",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 10
+        },
+        {
+          "so_hoc_ky": 2,
+          "tin_chi_hoc_ky": 15,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "TR4397",
+                  "ten": "Đồ án tốt nghiệp",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "TR2113",
+                  "ten": "An toàn lao động, con người và môi trường trong lĩnh vực đường",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "TR4391",
+                  "ten": "Quản lý và tổ chức vận tải đường sắt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "SA4001",
+                  "ten": "Hoạt động sinh viên",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 9
+            },
+            {
+              "ma_nhom": "hk2_tu_chon_khac_tu_do",
+              "ten": "Tự chọn (khác)/Tự do",
+              "loai": "chon_tin_chi",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 6,
+              "tong_tin_chi_nhom": 6,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 15
+        }
+      ],
+      "tong_tin_chi": 126,
+      "so_hoc_ky": 8
+    }
+  ]
+}

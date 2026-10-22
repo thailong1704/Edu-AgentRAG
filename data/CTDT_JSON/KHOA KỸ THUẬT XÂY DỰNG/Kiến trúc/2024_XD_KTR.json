@@ -1,0 +1,1266 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kiến trúc",
+  "khoa": 2024,
+  "khoa_vien": "KỸ THUẬT XÂY DỰNG",
+  "ma_ctdt": "KT_2024",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 132,
+  "format_pdf": "P2",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 1,
+          "ten_hoc_ky": "Học kỳ 1 (Semester 1 )",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1003",
+                  "ten": "Anh văn 1",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1003",
+                  "ten": "Giải tích 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "MT1007",
+                  "ten": "Đại số Tuyến tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1003",
+                  "ten": "Vật lý 1",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PH1007",
+                  "ten": "Thí nghiệm Vật lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "CI1065",
+                  "ten": "Nhập môn Kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            },
+            {
+              "ma_nhom": "hk1_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1011",
+                  "ten": "Bóng chuyền (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1057",
+                  "ten": "Bowling (học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1061",
+                  "ten": "Pickleball (học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1013",
+                  "ten": "Bóng bàn (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1015",
+                  "ten": "Bóng rổ (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1017",
+                  "ten": "Cầu lông (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1019",
+                  "ten": "Bơi (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1021",
+                  "ten": "Aerobic (học Phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1025",
+                  "ten": "Điền kinh (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1027",
+                  "ten": "Quần vợt (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                },
+                {
+                  "ma": "PE1053",
+                  "ten": "Cờ vua (Học phần 1)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 1
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 2,
+          "ten_hoc_ky": "Học kỳ 2 (Semester 2 )",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1005",
+                  "ten": "Anh văn 2",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1003",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MT1005",
+                  "ten": "Giải tích 2",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CH1003",
+                  "ten": "Hóa đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CI1069",
+                  "ten": "Khoa học Trái đất",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "MI1003",
+                  "ten": "Giáo dục Quốc phòng",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "CI1067",
+                  "ten": "Vẽ kỹ thuật Kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 16
+            },
+            {
+              "ma_nhom": "hk2_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "chung_chi",
+              "mon": [
+                {
+                  "ma": "PE1035",
+                  "ten": "Bóng chuyền (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1059",
+                  "ten": "Bowling (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1063",
+                  "ten": "Pickleball (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1037",
+                  "ten": "Bóng bàn (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1039",
+                  "ten": "Bóng rổ (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1041",
+                  "ten": "Cầu lông (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1043",
+                  "ten": "Bơi (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1045",
+                  "ten": "Aerobic (học Phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1049",
+                  "ten": "Điền kinh (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1051",
+                  "ten": "Quần vợt (Học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                },
+                {
+                  "ma": "PE1055",
+                  "ten": "Cờ vua (học phần 2)",
+                  "tin_chi": 0,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 2
+                }
+              ],
+              "tong_tin_chi_nhom": 0
+            }
+          ],
+          "tin_chi_tu_cong": 16
+        },
+        {
+          "so_hoc_ky": 3,
+          "ten_hoc_ky": "Học kỳ 3 (Semester 3 )",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk3_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1007",
+                  "ten": "Anh văn 3",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1005",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "MT2013",
+                  "ten": "Xác suất và Thống kê",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "SP1007",
+                  "ten": "Pháp luật Việt Nam Đại cương",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CI2111",
+                  "ten": "Bố cục Tạo hình trong kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI1067",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CI2097",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Công trình Dân dụng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                },
+                {
+                  "ma": "CI2101",
+                  "ten": "Đồ án Thiết kế Cơ sở Kiến trúc",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 3
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 4,
+          "ten_hoc_ky": "Học kỳ 4 (Semester 4)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk4_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "LA1009",
+                  "ten": "Anh văn 4",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "LA1007",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "MT1009",
+                  "ten": "Phương pháp tính",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MT1003",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "SP1031",
+                  "ten": "Triết học Mác - Lênin",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "CI2105",
+                  "ten": "Thiết kế Kỹ thuật Kiến trúc Công trình Dân dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "CI2103",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Công trình nhà ở",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                },
+                {
+                  "ma": "CI2107",
+                  "ten": "Thiết kế Kiến trúc 1 - Công trình Công cộng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 4
+                }
+              ],
+              "tong_tin_chi_nhom": 17
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 5,
+          "ten_hoc_ky": "Học kỳ 5 (Semester 5 )",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế Chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2099",
+                  "ten": "Lịch sử Kiến trúc và Định Cư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3273",
+                  "ten": "Thiết kế Kiến trúc II - Công trình Chung cư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 8
+            },
+            {
+              "ma_nhom": "hk5_tu_chon_nhom_a_chon_3_tc",
+              "ten": "Tự chọn nhóm A (chọn 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "IM1031",
+                  "ten": "Khởi nghiệp và đổi mới sáng tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "ME1019",
+                  "ten": "Quản lý năng suất và chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3289",
+                  "ten": "Lãnh đạo và Khởi nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3291",
+                  "ten": "Lãnh đạo và Quản Lý Dự án",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3279",
+                  "ten": "Thiết kế Kiến trúc III - Công trình Công nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3285",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3269",
+                  "ten": "Sức bền Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4177",
+                  "ten": "Thiết kế IV - Công trình Phức hợp",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3163",
+                  "ten": "Phân tích Thiết kế Kết cấu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI1065",
+                  "ten": "Nhập môn Kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI1067",
+                  "ten": "Vẽ kỹ thuật Kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2097",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Công trình Dân dụng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2111",
+                  "ten": "Bố cục Tạo hình trong kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI1067",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2101",
+                  "ten": "Đồ án Thiết kế Cơ sở Kiến trúc",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2105",
+                  "ten": "Thiết kế Kỹ thuật Kiến trúc Công trình Dân dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2103",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Công trình nhà ở",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2107",
+                  "ten": "Thiết kế Kiến trúc 1 - Công trình Công cộng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2099",
+                  "ten": "Lịch sử Kiến trúc và Định Cư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3273",
+                  "ten": "Thiết kế Kiến trúc II - Công trình Chung cư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3293",
+                  "ten": "Kỹ thuật công trình dân dụng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI2097",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2123",
+                  "ten": "Phân tích địa điểm và kiến tạo nơi chốn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2115",
+                  "ten": "Nguyên lý Quy hoạch và Thiết kế Đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI2123",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3249",
+                  "ten": "Thực tập Di sản Kiến trúc và Đô thị",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3485",
+                  "ten": "Thực tập Ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4235",
+                  "ten": "Đồ án chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3485",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3287",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Cảnh quan",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3295",
+                  "ten": "Thiết kế III - trục cảnh quan đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4205",
+                  "ten": "Cảm thụ cảnh quan",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4207",
+                  "ten": "Thiết kế IV - cảnh quan đô thị",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3287",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4209",
+                  "ten": "Xu hướng kiến trúc cảnh quan đương đại",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI1065",
+                  "ten": "Nhập môn Kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI1067",
+                  "ten": "Vẽ kỹ thuật Kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2097",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Công trình Dân dụng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2111",
+                  "ten": "Bố cục Tạo hình trong kiến trúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI1067",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2101",
+                  "ten": "Đồ án Thiết kế Cơ sở Kiến trúc",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2105",
+                  "ten": "Thiết kế Kỹ thuật Kiến trúc Công trình Dân dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2103",
+                  "ten": "Nguyên lý Thiết kế Kiến trúc Công trình nhà ở",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2107",
+                  "ten": "Thiết kế Kiến trúc 1 - Công trình Công cộng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2099",
+                  "ten": "Lịch sử Kiến trúc và Định Cư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3273",
+                  "ten": "Thiết kế Kiến trúc II - Công trình Chung cư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3293",
+                  "ten": "Kỹ thuật công trình dân dụng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI2097",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2123",
+                  "ten": "Phân tích địa điểm và kiến tạo nơi chốn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2115",
+                  "ten": "Nguyên lý Quy hoạch và Thiết kế Đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI2123",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3249",
+                  "ten": "Thực tập Di sản Kiến trúc và Đô thị",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3485",
+                  "ten": "Thực tập Ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4235",
+                  "ten": "Đồ án chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3485",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI4219",
+                  "ten": "Đấu thầu và tổ chức đấu thầu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI3279",
+                  "ten": "Thiết kế Kiến trúc III - Công trình Công nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3285",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 139
+            },
+            {
+              "ma_nhom": "hk5_cac_mon_tu_chon_nhom_b1_chon_3_tc",
+              "ten": "Các môn tự chọn nhóm B1 (chọn 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "CI2143",
+                  "ten": "Viễn thám",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "CI2045",
+                  "ten": "Hệ thống Thông tin Địa lý",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 6
+            }
+          ],
+          "tin_chi_tu_cong": 8
+        },
+        {
+          "so_hoc_ky": 6,
+          "ten_hoc_ky": "Học kỳ 6 (Semester 6 )",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa Xã hội Khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CI3293",
+                  "ten": "Kỹ thuật công trình dân dụng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI2097",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CI2123",
+                  "ten": "Phân tích địa điểm và kiến tạo nơi chốn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CI3485",
+                  "ten": "Thực tập Ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 11
+            },
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CI3279",
+                  "ten": "Thiết kế Kiến trúc III - Công trình Công nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3285",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CI3295",
+                  "ten": "Thiết kế III - trục cảnh quan đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 6
+            },
+            {
+              "ma_nhom": "hk6_cac_mon_tu_chon_nhom_b2_chon_3_tc",
+              "ten": "Các môn tự chọn nhóm B2 (chọn 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "CI3301",
+                  "ten": "Đo vẽ Địa hình",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "CI3013",
+                  "ten": "Thủy văn Đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 6
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 7,
+          "ten_hoc_ky": "Học kỳ 7 (Semester 7)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CI2115",
+                  "ten": "Nguyên lý Quy hoạch và Thiết kế Đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI2123",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CI4235",
+                  "ten": "Đồ án chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3485",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 7
+            },
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CI3269",
+                  "ten": "Sức bền Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CI4177",
+                  "ten": "Thiết kế IV - Công trình Phức hợp",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CI4205",
+                  "ten": "Cảm thụ cảnh quan",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CI4207",
+                  "ten": "Thiết kế IV - cảnh quan đô thị",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI3287",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 14
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_nhom_b3_chon_3_tc",
+              "ten": "Các môn tự chọn nhóm B3 (chọn 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "CI3265",
+                  "ten": "Kỹ thuật Hạ tầng Đô thị",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "CI4129",
+                  "ten": "Kinh tế Xây dựng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 6
+            }
+          ],
+          "tin_chi_tu_cong": 21
+        },
+        {
+          "so_hoc_ky": 8,
+          "ten_hoc_ky": "Học kỳ 8 (Semester 8 )",
+          "tin_chi_hoc_ky": 14,
+          "nhom": [
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "EN1003",
+                  "ten": "Con người và Môi trường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "CI3249",
+                  "ten": "Thực tập Di sản Kiến trúc và Đô thị",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "CI4487",
+                  "ten": "Đồ án Tốt nghiệp",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "CI4235",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    },
+                    {
+                      "ma": "CI3485",
+                      "loai": "TQ",
+                      "loai_mo_ta": "Tiên quyết (Prerequisite)"
+                    }
+                  ],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 11
+            },
+            {
+              "ma_nhom": "hk8_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "CI3163",
+                  "ten": "Phân tích Thiết kế Kết cấu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                },
+                {
+                  "ma": "CI4209",
+                  "ten": "Xu hướng kiến trúc cảnh quan đương đại",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 8
+                }
+              ],
+              "tong_tin_chi_nhom": 6
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        }
+      ],
+      "tong_tin_chi": 130,
+      "so_hoc_ky": 8
+    }
+  ]
+}

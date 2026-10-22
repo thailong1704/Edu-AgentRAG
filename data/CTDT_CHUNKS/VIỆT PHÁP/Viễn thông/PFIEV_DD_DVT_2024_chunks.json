@@ -1,0 +1,2308 @@
+[
+  {
+    "chunk_id": "tongquan_KTD_2024",
+    "text": "Chương trình đào tạo Cử nhân ngành Kỹ thuật Điện, khoá 2024, tổng cộng 163 tín chỉ. Chương trình gồm các khối kiến thức: Các môn bắt buộc, Các môn tự chọn chuyên ngành nhóm A, Các môn tự chọn tự do, Môn tự chọn tự do 2, Môn tự chọn tự do 3, Giáo dục thể chất học phần 1, Giáo dục thể chất học phần 2, Giáo dục quốc phòng, Điều kiện tốt nghiệp. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: C. Các môn tự chọn tự do (yêu cầu 9 tín chỉ); C2. Môn tự chọn tự do 2 (yêu cầu 3 tín chỉ); C3. Môn tự chọn tự do 3 (yêu cầu 3 tín chỉ); D. Giáo dục thể chất học phần 1 (yêu cầu 0 tín chỉ); E. Giáo dục thể chất học phần 2 (yêu cầu 0 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "tong_tin_chi": 163
+    }
+  },
+  {
+    "chunk_id": "nhom__A",
+    "text": "Nhóm 'A. Các môn bắt buộc' thuộc khối Các môn bắt buộc, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1011 Giải tích 1 (4 TC); MT1013 Giải tích 2 (4 TC); MT1015 Đại số Tuyến tính (3 TC); MT2007 Giải tích 3 (3 TC); MT2009 Xác suất và Thống kê (4 TC); MT2011 Phương pháp tính (3 TC); PH1009 Vật lý 1 (4 TC); PH2005 Vật lý 2 (4 TC); PH2007 Thí nghiệm Vật lý (1 TC); AS2047 Vật lý sóng (3 TC); CH1003 Hóa đại cương (3 TC); SP1007 Pháp luật Việt Nam Đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế Chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa Xã hội Khoa học (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); EE1001 Nhập môn Về kỹ Thuật (3 TC); EN1003 Con người và Môi trường (3 TC); LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC); LA1011 Pháp văn 1 (2 TC); LA1013 Pháp văn 2 (2 TC); LA1015 Pháp văn 3 (2 TC); LA1017 Pháp văn 4 (2 TC); LA3021 Pháp văn 5 (2 TC); LA3023 Pháp văn 6 (2 TC); CI1003 Vẽ kỹ thuật (3 TC); EE1009 Kỹ thuật số (3 TC); EE2003 Trường điện từ (3 TC); EE2009 Hệ thống Máy tính và Ngôn ngữ Lập trình (3 TC); EE2031 Điện - Giải tích mạch (3 TC); EE3189 Điện tử học Tương tự và Ứng dụng (3 TC); EE2109 Thực tập Công nhân (2 TC); EE4215 Đồ án cơ sở ngành (VT) (1 TC); EE4089 Thực tập điện (1 TC); EE2015 Xử lý số Tín hiệu (3 TC); EE2039 Vi xử lý (3 TC); EE2005 Tín hiệu và Hệ thống (3 TC); EE4051 Thiết kế Vi mạch (Pbl) (3 TC); EE4053 Thiết kế Hệ thống nhúng (PBL) (3 TC); EE3015 Kỹ thuật Hệ thống Viễn Thông (3 TC); EE3019 Truyền số liệu và Mạng (3 TC); EE5013 Kỹ thuật Siêu cao tần (PBL) (3 TC); EE5015 Mạch điện Tử Thông tin (PBL) (3 TC); EE5019 Thông tin Di động (Pbl) (3 TC); EE3385 Thực tập Ngoài trường (2 TC); EE4385 Thực tập Kỹ sư (2 TC); EE5001 Đồ án Chuyên ngành (2 TC); EE5017 Luận văn Tốt nghiệp (9 TC); IM1021 Khởi nghiệp (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 53,
+      "ma_mon_trong_nhom": [
+        "MT1011",
+        "MT1013",
+        "MT1015",
+        "MT2007",
+        "MT2009",
+        "MT2011",
+        "PH1009",
+        "PH2005",
+        "PH2007",
+        "AS2047",
+        "CH1003",
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1039",
+        "SP1037",
+        "EE1001",
+        "EN1003",
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009",
+        "LA1011",
+        "LA1013",
+        "LA1015",
+        "LA1017",
+        "LA3021",
+        "LA3023",
+        "CI1003",
+        "EE1009",
+        "EE2003",
+        "EE2009",
+        "EE2031",
+        "EE3189",
+        "EE2109",
+        "EE4215",
+        "EE4089",
+        "EE2015",
+        "EE2039",
+        "EE2005",
+        "EE4051",
+        "EE4053",
+        "EE3015",
+        "EE3019",
+        "EE5013",
+        "EE5015",
+        "EE5019",
+        "EE3385",
+        "EE4385",
+        "EE5001",
+        "EE5017",
+        "IM1021"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1011",
+    "text": "Môn học: Giải tích 1 (mã MT1011), 4 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1011",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1013",
+    "text": "Môn học: Giải tích 2 (mã MT1013), 4 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1013",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1015",
+    "text": "Môn học: Đại số Tuyến tính (mã MT1015), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1015",
+      "ten_mon": "Đại số Tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2007",
+    "text": "Môn học: Giải tích 3 (mã MT2007), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2007",
+      "ten_mon": "Giải tích 3",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2009",
+    "text": "Môn học: Xác suất và Thống kê (mã MT2009), 4 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2009",
+      "ten_mon": "Xác suất và Thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2011",
+    "text": "Môn học: Phương pháp tính (mã MT2011), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2011",
+      "ten_mon": "Phương pháp tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1009",
+    "text": "Môn học: Vật lý 1 (mã PH1009), 4 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1009",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH2005",
+    "text": "Môn học: Vật lý 2 (mã PH2005), 4 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH2005",
+      "ten_mon": "Vật lý 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH2007",
+    "text": "Môn học: Thí nghiệm Vật lý (mã PH2007), 1 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH2007",
+      "ten_mon": "Thí nghiệm Vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__AS2047",
+    "text": "Môn học: Vật lý sóng (mã AS2047), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "AS2047",
+      "ten_mon": "Vật lý sóng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam Đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam Đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế Chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1031 (Triết học Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế Chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa Xã hội Khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1033 (Kinh tế Chính trị Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa Xã hội Khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1035 (Chủ nghĩa Xã hội Khoa học).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1039 (Lịch sử Đảng Cộng sản Việt Nam).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE1001",
+    "text": "Môn học: Nhập môn Về kỹ Thuật (mã EE1001), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE1001",
+      "ten_mon": "Nhập môn Về kỹ Thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EN1003",
+    "text": "Môn học: Con người và Môi trường (mã EN1003), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EN1003",
+      "ten_mon": "Con người và Môi trường",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1003 (Anh văn 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1005 (Anh văn 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1007 (Anh văn 3).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1011",
+    "text": "Môn học: Pháp văn 1 (mã LA1011), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1011",
+      "ten_mon": "Pháp văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1013",
+    "text": "Môn học: Pháp văn 2 (mã LA1013), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1013",
+      "ten_mon": "Pháp văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1015",
+    "text": "Môn học: Pháp văn 3 (mã LA1015), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1015",
+      "ten_mon": "Pháp văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1017",
+    "text": "Môn học: Pháp văn 4 (mã LA1017), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1017",
+      "ten_mon": "Pháp văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA3021",
+    "text": "Môn học: Pháp văn 5 (mã LA3021), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA3021",
+      "ten_mon": "Pháp văn 5",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA3023",
+    "text": "Môn học: Pháp văn 6 (mã LA3023), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA3023",
+      "ten_mon": "Pháp văn 6",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1003",
+    "text": "Môn học: Vẽ kỹ thuật (mã CI1003), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1003",
+      "ten_mon": "Vẽ kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE1009",
+    "text": "Môn học: Kỹ thuật số (mã EE1009), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: EE2031 (Điện - Giải tích mạch), EE1007.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE1009",
+      "ten_mon": "Kỹ thuật số",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2031",
+        "EE1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2003",
+    "text": "Môn học: Trường điện từ (mã EE2003), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1013 (Giải tích 2), MT1005.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2003",
+      "ten_mon": "Trường điện từ",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT1013",
+        "MT1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2009",
+    "text": "Môn học: Hệ thống Máy tính và Ngôn ngữ Lập trình (mã EE2009), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT2011 (Phương pháp tính).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2009",
+      "ten_mon": "Hệ thống Máy tính và Ngôn ngữ Lập trình",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT2011"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2031",
+    "text": "Môn học: Điện - Giải tích mạch (mã EE2031), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1013 (Giải tích 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2031",
+      "ten_mon": "Điện - Giải tích mạch",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT1013"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3189",
+    "text": "Môn học: Điện tử học Tương tự và Ứng dụng (mã EE3189), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2031 (Điện - Giải tích mạch).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3189",
+      "ten_mon": "Điện tử học Tương tự và Ứng dụng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2109",
+    "text": "Môn học: Thực tập Công nhân (mã EE2109), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2109",
+      "ten_mon": "Thực tập Công nhân",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4215",
+    "text": "Môn học: Đồ án cơ sở ngành (VT) (mã EE4215), 1 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2039 (Vi xử lý). Khuyến nghị học trước: EE3189 (Điện tử học Tương tự và Ứng dụng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4215",
+      "ten_mon": "Đồ án cơ sở ngành (VT)",
+      "tin_chi": 1,
+      "tien_quyet": [
+        "EE2039",
+        "EE3189"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4089",
+    "text": "Môn học: Thực tập điện (mã EE4089), 1 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: EE2031 (Điện - Giải tích mạch).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4089",
+      "ten_mon": "Thực tập điện",
+      "tin_chi": 1,
+      "tien_quyet": [
+        "EE2031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2015",
+    "text": "Môn học: Xử lý số Tín hiệu (mã EE2015), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2015",
+      "ten_mon": "Xử lý số Tín hiệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2039",
+    "text": "Môn học: Vi xử lý (mã EE2039), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2039",
+      "ten_mon": "Vi xử lý",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE2005",
+    "text": "Môn học: Tín hiệu và Hệ thống (mã EE2005), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: EE2031 (Điện - Giải tích mạch), EE2033.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE2005",
+      "ten_mon": "Tín hiệu và Hệ thống",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2031",
+        "EE2033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4051",
+    "text": "Môn học: Thiết kế Vi mạch (Pbl) (mã EE4051), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE1009 (Kỹ thuật số). Khuyến nghị học trước: EE3189 (Điện tử học Tương tự và Ứng dụng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4051",
+      "ten_mon": "Thiết kế Vi mạch (Pbl)",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE1009",
+        "EE3189"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4053",
+    "text": "Môn học: Thiết kế Hệ thống nhúng (PBL) (mã EE4053), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4053",
+      "ten_mon": "Thiết kế Hệ thống nhúng (PBL)",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3015",
+    "text": "Môn học: Kỹ thuật Hệ thống Viễn Thông (mã EE3015), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3015",
+      "ten_mon": "Kỹ thuật Hệ thống Viễn Thông",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3019",
+    "text": "Môn học: Truyền số liệu và Mạng (mã EE3019), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE1009 (Kỹ thuật số). Khuyến nghị học trước: EE2005 (Tín hiệu và Hệ thống).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3019",
+      "ten_mon": "Truyền số liệu và Mạng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2005",
+        "EE1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE5013",
+    "text": "Môn học: Kỹ thuật Siêu cao tần (PBL) (mã EE5013), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE3189 (Điện tử học Tương tự và Ứng dụng), EE2003 (Trường điện từ).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE5013",
+      "ten_mon": "Kỹ thuật Siêu cao tần (PBL)",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3189",
+        "EE2003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE5015",
+    "text": "Môn học: Mạch điện Tử Thông tin (PBL) (mã EE5015), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE3189 (Điện tử học Tương tự và Ứng dụng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE5015",
+      "ten_mon": "Mạch điện Tử Thông tin (PBL)",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3189"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE5019",
+    "text": "Môn học: Thông tin Di động (Pbl) (mã EE5019), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE3015 (Kỹ thuật Hệ thống Viễn Thông).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE5019",
+      "ten_mon": "Thông tin Di động (Pbl)",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3385",
+    "text": "Môn học: Thực tập Ngoài trường (mã EE3385), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: EE3189 (Điện tử học Tương tự và Ứng dụng), EE2039 (Vi xử lý).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3385",
+      "ten_mon": "Thực tập Ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "EE3189",
+        "EE2039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4385",
+    "text": "Môn học: Thực tập Kỹ sư (mã EE4385), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE3385 (Thực tập Ngoài trường).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4385",
+      "ten_mon": "Thực tập Kỹ sư",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "EE3385"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE5001",
+    "text": "Môn học: Đồ án Chuyên ngành (mã EE5001), 2 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE4053 (Thiết kế Hệ thống nhúng (PBL)), EE3015 (Kỹ thuật Hệ thống Viễn Thông), EE4215 (Đồ án cơ sở ngành (VT)).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE5001",
+      "ten_mon": "Đồ án Chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "EE4053",
+        "EE3015",
+        "EE4215"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE5017",
+    "text": "Môn học: Luận văn Tốt nghiệp (mã EE5017), 9 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE4385 (Thực tập Kỹ sư), EE5001 (Đồ án Chuyên ngành).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE5017",
+      "ten_mon": "Luận văn Tốt nghiệp",
+      "tin_chi": 9,
+      "tien_quyet": [
+        "EE4385",
+        "EE5001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1021",
+    "text": "Môn học: Khởi nghiệp (mã IM1021), 3 tín chỉ. Thuộc khối Các môn bắt buộc > nhóm 'A. Các môn bắt buộc', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn bắt buộc",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Các môn bắt buộc",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1021",
+      "ten_mon": "Khởi nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__B",
+    "text": "Nhóm 'B. Các môn tự chọn chuyên ngành nhóm A' thuộc khối Các môn tự chọn chuyên ngành nhóm A, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: EE3031 Lập trình Hệ thống nhúng (3 TC); EE3035 Xử lý ảnh (3 TC); EE3043 Cấu trúc Máy tính (3 TC); EE3085 Mạng viễn thông (3 TC); EE3111 Mạng máy tính (3 TC); EE3117 Thiết kế Vi mạch số (3 TC); EE3121 Thiết kế Vi mạch Tương tự và Hỗn hợp (3 TC); EE3127 Anten - Truyền sóng Vô tuyến (3 TC); EE3129 Điện tử Ứng dụng (3 TC); EE3167 Thiết kế và Phát triển Ứng dụng IoT (3 TC); EE3169 Máy học Cơ bản và Ứng dụng (3 TC); EE4067 Thông tin số (3 TC); EE3031 Lập trình Hệ thống nhúng (3 TC); EE3035 Xử lý ảnh (3 TC); EE3043 Cấu trúc Máy tính (3 TC); EE3085 Mạng viễn thông (3 TC); EE3111 Mạng máy tính (3 TC); EE3117 Thiết kế Vi mạch số (3 TC); EE3121 Thiết kế Vi mạch Tương tự và Hỗn hợp (3 TC); EE3127 Anten - Truyền sóng Vô tuyến (3 TC); EE3129 Điện tử Ứng dụng (3 TC); EE3167 Thiết kế và Phát triển Ứng dụng IoT (3 TC); EE3169 Máy học Cơ bản và Ứng dụng (3 TC); EE4067 Thông tin số (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 24,
+      "ma_mon_trong_nhom": [
+        "EE3031",
+        "EE3035",
+        "EE3043",
+        "EE3085",
+        "EE3111",
+        "EE3117",
+        "EE3121",
+        "EE3127",
+        "EE3129",
+        "EE3167",
+        "EE3169",
+        "EE4067",
+        "EE3031",
+        "EE3035",
+        "EE3043",
+        "EE3085",
+        "EE3111",
+        "EE3117",
+        "EE3121",
+        "EE3127",
+        "EE3129",
+        "EE3167",
+        "EE3169",
+        "EE4067"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3031",
+    "text": "Môn học: Lập trình Hệ thống nhúng (mã EE3031), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: EE3003.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3031",
+      "ten_mon": "Lập trình Hệ thống nhúng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3035",
+    "text": "Môn học: Xử lý ảnh (mã EE3035), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2081, EE2009 (Hệ thống Máy tính và Ngôn ngữ Lập trình). Khuyến nghị học trước: EE2015 (Xử lý số Tín hiệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3035",
+      "ten_mon": "Xử lý ảnh",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2081",
+        "EE2009",
+        "EE2015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3043",
+    "text": "Môn học: Cấu trúc Máy tính (mã EE3043), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE1009 (Kỹ thuật số). Khuyến nghị học trước: EE2039 (Vi xử lý).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3043",
+      "ten_mon": "Cấu trúc Máy tính",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE1009",
+        "EE2039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3085",
+    "text": "Môn học: Mạng viễn thông (mã EE3085), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE3015 (Kỹ thuật Hệ thống Viễn Thông).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3085",
+      "ten_mon": "Mạng viễn thông",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3111",
+    "text": "Môn học: Mạng máy tính (mã EE3111), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3111",
+      "ten_mon": "Mạng máy tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3117",
+    "text": "Môn học: Thiết kế Vi mạch số (mã EE3117), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE1009 (Kỹ thuật số). Khuyến nghị học trước: EE3201, EE3165, EE4051 (Thiết kế Vi mạch (Pbl)).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3117",
+      "ten_mon": "Thiết kế Vi mạch số",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3201",
+        "EE3165",
+        "EE4051",
+        "EE1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3121",
+    "text": "Môn học: Thiết kế Vi mạch Tương tự và Hỗn hợp (mã EE3121), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2035. Khuyến nghị học trước: EE3165, EE4051 (Thiết kế Vi mạch (Pbl)).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3121",
+      "ten_mon": "Thiết kế Vi mạch Tương tự và Hỗn hợp",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3165",
+        "EE4051",
+        "EE2035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3127",
+    "text": "Môn học: Anten - Truyền sóng Vô tuyến (mã EE3127), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2003 (Trường điện từ). Khuyến nghị học trước: EE3025.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3127",
+      "ten_mon": "Anten - Truyền sóng Vô tuyến",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3025",
+        "EE2003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3129",
+    "text": "Môn học: Điện tử Ứng dụng (mã EE3129), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2035. Khuyến nghị học trước: EE2039 (Vi xử lý).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3129",
+      "ten_mon": "Điện tử Ứng dụng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2039",
+        "EE2035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3167",
+    "text": "Môn học: Thiết kế và Phát triển Ứng dụng IoT (mã EE3167), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2039 (Vi xử lý). Khuyến nghị học trước: EE3019 (Truyền số liệu và Mạng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3167",
+      "ten_mon": "Thiết kế và Phát triển Ứng dụng IoT",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2039",
+        "EE3019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3169",
+    "text": "Môn học: Máy học Cơ bản và Ứng dụng (mã EE3169), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2081, EE2009 (Hệ thống Máy tính và Ngôn ngữ Lập trình). Khuyến nghị học trước: EE2015 (Xử lý số Tín hiệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3169",
+      "ten_mon": "Máy học Cơ bản và Ứng dụng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2081",
+        "EE2009",
+        "EE2015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4067",
+    "text": "Môn học: Thông tin số (mã EE4067), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2005 (Tín hiệu và Hệ thống).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4067",
+      "ten_mon": "Thông tin số",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3031",
+    "text": "Môn học: Lập trình Hệ thống nhúng (mã EE3031), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: EE3003.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3031",
+      "ten_mon": "Lập trình Hệ thống nhúng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3035",
+    "text": "Môn học: Xử lý ảnh (mã EE3035), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2081, EE2009 (Hệ thống Máy tính và Ngôn ngữ Lập trình). Khuyến nghị học trước: EE2015 (Xử lý số Tín hiệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3035",
+      "ten_mon": "Xử lý ảnh",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2081",
+        "EE2009",
+        "EE2015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3043",
+    "text": "Môn học: Cấu trúc Máy tính (mã EE3043), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE1009 (Kỹ thuật số). Khuyến nghị học trước: EE2039 (Vi xử lý).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3043",
+      "ten_mon": "Cấu trúc Máy tính",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE1009",
+        "EE2039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3085",
+    "text": "Môn học: Mạng viễn thông (mã EE3085), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE3015 (Kỹ thuật Hệ thống Viễn Thông).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3085",
+      "ten_mon": "Mạng viễn thông",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3111",
+    "text": "Môn học: Mạng máy tính (mã EE3111), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3111",
+      "ten_mon": "Mạng máy tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3117",
+    "text": "Môn học: Thiết kế Vi mạch số (mã EE3117), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE1009 (Kỹ thuật số). Khuyến nghị học trước: EE3201, EE3165, EE4051 (Thiết kế Vi mạch (Pbl)).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3117",
+      "ten_mon": "Thiết kế Vi mạch số",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3201",
+        "EE3165",
+        "EE4051",
+        "EE1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3121",
+    "text": "Môn học: Thiết kế Vi mạch Tương tự và Hỗn hợp (mã EE3121), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2035. Khuyến nghị học trước: EE3165, EE4051 (Thiết kế Vi mạch (Pbl)).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3121",
+      "ten_mon": "Thiết kế Vi mạch Tương tự và Hỗn hợp",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3165",
+        "EE4051",
+        "EE2035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3127",
+    "text": "Môn học: Anten - Truyền sóng Vô tuyến (mã EE3127), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2003 (Trường điện từ). Khuyến nghị học trước: EE3025.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3127",
+      "ten_mon": "Anten - Truyền sóng Vô tuyến",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE3025",
+        "EE2003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3129",
+    "text": "Môn học: Điện tử Ứng dụng (mã EE3129), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2035. Khuyến nghị học trước: EE2039 (Vi xử lý).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3129",
+      "ten_mon": "Điện tử Ứng dụng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2039",
+        "EE2035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3167",
+    "text": "Môn học: Thiết kế và Phát triển Ứng dụng IoT (mã EE3167), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2039 (Vi xử lý). Khuyến nghị học trước: EE3019 (Truyền số liệu và Mạng), EE3003.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3167",
+      "ten_mon": "Thiết kế và Phát triển Ứng dụng IoT",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2039",
+        "EE3019",
+        "EE3003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE3169",
+    "text": "Môn học: Máy học Cơ bản và Ứng dụng (mã EE3169), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2081, EE2009 (Hệ thống Máy tính và Ngôn ngữ Lập trình). Khuyến nghị học trước: EE2015 (Xử lý số Tín hiệu).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE3169",
+      "ten_mon": "Máy học Cơ bản và Ứng dụng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2081",
+        "EE2009",
+        "EE2015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EE4067",
+    "text": "Môn học: Thông tin số (mã EE4067), 3 tín chỉ. Thuộc khối Các môn tự chọn chuyên ngành nhóm A > nhóm 'B. Các môn tự chọn chuyên ngành nhóm A', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): EE2005 (Tín hiệu và Hệ thống).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn chuyên ngành nhóm A",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Các môn tự chọn chuyên ngành nhóm A",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EE4067",
+      "ten_mon": "Thông tin số",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "EE2005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__C",
+    "text": "Nhóm 'C. Các môn tự chọn tự do' thuộc khối Các môn tự chọn tự do, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Các môn tự chọn tự do",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Các môn tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__C2",
+    "text": "Nhóm 'C2. Môn tự chọn tự do 2' thuộc khối Môn tự chọn tự do 2, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 3 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Môn tự chọn tự do 2",
+      "ma_nhom": "C2",
+      "ten_nhom": "C2. Môn tự chọn tự do 2",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__C3",
+    "text": "Nhóm 'C3. Môn tự chọn tự do 3' thuộc khối Môn tự chọn tự do 3, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 3 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Môn tự chọn tự do 3",
+      "ma_nhom": "C3",
+      "ten_nhom": "C3. Môn tự chọn tự do 3",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__D",
+    "text": "Nhóm 'D. Giáo dục thể chất học phần 1' thuộc khối Giáo dục thể chất học phần 1, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: PE1009 Bóng đá (Học phần 1) (0 TC); PE1011 Bóng chuyền (Học phần 1) (0 TC); PE1013 Bóng bàn (Học phần 1) (0 TC); PE1021 Aerobic (học Phần 1) (0 TC); PE1015 Bóng rổ (Học phần 1) (0 TC); PE1017 Cầu lông (Học phần 1) (0 TC); PE1025 Điền kinh (Học phần 1) (0 TC); PE1019 Bơi (học Phần 1) (0 TC); PE1027 Quần vợt (Học phần 1) (0 TC); PE1053 Cờ vua (Học phần 1) (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 10,
+      "ma_mon_trong_nhom": [
+        "PE1009",
+        "PE1011",
+        "PE1013",
+        "PE1021",
+        "PE1015",
+        "PE1017",
+        "PE1025",
+        "PE1019",
+        "PE1027",
+        "PE1053"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1009",
+    "text": "Môn học: Bóng đá (Học phần 1) (mã PE1009), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1009",
+      "ten_mon": "Bóng đá (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1011",
+    "text": "Môn học: Bóng chuyền (Học phần 1) (mã PE1011), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1011",
+      "ten_mon": "Bóng chuyền (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1013",
+    "text": "Môn học: Bóng bàn (Học phần 1) (mã PE1013), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1013",
+      "ten_mon": "Bóng bàn (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1021",
+    "text": "Môn học: Aerobic (học Phần 1) (mã PE1021), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1021",
+      "ten_mon": "Aerobic (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1015",
+    "text": "Môn học: Bóng rổ (Học phần 1) (mã PE1015), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1015",
+      "ten_mon": "Bóng rổ (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1017",
+    "text": "Môn học: Cầu lông (Học phần 1) (mã PE1017), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1017",
+      "ten_mon": "Cầu lông (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1025",
+    "text": "Môn học: Điền kinh (Học phần 1) (mã PE1025), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1025",
+      "ten_mon": "Điền kinh (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1019",
+    "text": "Môn học: Bơi (học Phần 1) (mã PE1019), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1019",
+      "ten_mon": "Bơi (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1027",
+    "text": "Môn học: Quần vợt (Học phần 1) (mã PE1027), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1027",
+      "ten_mon": "Quần vợt (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1053",
+    "text": "Môn học: Cờ vua (Học phần 1) (mã PE1053), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 1 > nhóm 'D. Giáo dục thể chất học phần 1', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 1",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Giáo dục thể chất học phần 1",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1053",
+      "ten_mon": "Cờ vua (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "nhom__E",
+    "text": "Nhóm 'E. Giáo dục thể chất học phần 2' thuộc khối Giáo dục thể chất học phần 2, ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: PE1037 Bóng bàn (Học phần 2) (0 TC); PE1041 Cầu lông (Học phần 2) (0 TC); PE1033 Bóng đá (Học phần 2) (0 TC); PE1045 Aerobic (học Phần 2) (0 TC); PE1043 Bơi (học Phần 2) (0 TC); PE1039 Bóng rổ (Học phần 2) (0 TC); PE1035 Bóng chuyền (Học phần 2) (0 TC); PE1049 Điền kinh (học phần 2) (0 TC); PE1051 Quần vợt (Học phần 2) (0 TC); PE1055 Cờ vua (học phần 2) (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 10,
+      "ma_mon_trong_nhom": [
+        "PE1037",
+        "PE1041",
+        "PE1033",
+        "PE1045",
+        "PE1043",
+        "PE1039",
+        "PE1035",
+        "PE1049",
+        "PE1051",
+        "PE1055"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1037",
+    "text": "Môn học: Bóng bàn (Học phần 2) (mã PE1037), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1037",
+      "ten_mon": "Bóng bàn (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1041",
+    "text": "Môn học: Cầu lông (Học phần 2) (mã PE1041), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1041",
+      "ten_mon": "Cầu lông (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1033",
+    "text": "Môn học: Bóng đá (Học phần 2) (mã PE1033), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1033",
+      "ten_mon": "Bóng đá (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1045",
+    "text": "Môn học: Aerobic (học Phần 2) (mã PE1045), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1045",
+      "ten_mon": "Aerobic (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1043",
+    "text": "Môn học: Bơi (học Phần 2) (mã PE1043), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1043",
+      "ten_mon": "Bơi (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1039",
+    "text": "Môn học: Bóng rổ (Học phần 2) (mã PE1039), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1039",
+      "ten_mon": "Bóng rổ (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1035",
+    "text": "Môn học: Bóng chuyền (Học phần 2) (mã PE1035), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1035",
+      "ten_mon": "Bóng chuyền (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1049",
+    "text": "Môn học: Điền kinh (học phần 2) (mã PE1049), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1049",
+      "ten_mon": "Điền kinh (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1051",
+    "text": "Môn học: Quần vợt (Học phần 2) (mã PE1051), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1051",
+      "ten_mon": "Quần vợt (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1055",
+    "text": "Môn học: Cờ vua (học phần 2) (mã PE1055), 0 tín chỉ. Thuộc khối Giáo dục thể chất học phần 2 > nhóm 'E. Giáo dục thể chất học phần 2', ngành Kỹ thuật Điện khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục thể chất học phần 2",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Giáo dục thể chất học phần 2",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1055",
+      "ten_mon": "Cờ vua (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "nhom__F",
+    "text": "Nhóm 'F. Giáo dục quốc phòng' thuộc khối Giáo dục quốc phòng, ngành Kỹ thuật Điện khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: MI1003 Giáo dục Quốc phòng (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục quốc phòng",
+      "ma_nhom": "F",
+      "ten_nhom": "F. Giáo dục quốc phòng",
+      "loai_nhom": "chung_chi",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "MI1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục Quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Giáo dục quốc phòng > nhóm 'F. Giáo dục quốc phòng', ngành Kỹ thuật Điện khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Giáo dục quốc phòng",
+      "ma_nhom": "F",
+      "ten_nhom": "F. Giáo dục quốc phòng",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục Quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__G",
+    "text": "Nhóm 'G. Điều kiện tốt nghiệp' thuộc khối Điều kiện tốt nghiệp, ngành Kỹ thuật Điện khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: SA4001 Hoạt động sinh viên (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Điều kiện tốt nghiệp",
+      "ma_nhom": "G",
+      "ten_nhom": "G. Điều kiện tốt nghiệp",
+      "loai_nhom": "chung_chi",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "SA4001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SA4001",
+    "text": "Môn học: Hoạt động sinh viên (mã SA4001), 0 tín chỉ. Thuộc khối Điều kiện tốt nghiệp > nhóm 'G. Điều kiện tốt nghiệp', ngành Kỹ thuật Điện khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Điện",
+      "khoa": 2024,
+      "ma_ctdt": "KTD_2024",
+      "khoi": "Điều kiện tốt nghiệp",
+      "ma_nhom": "G",
+      "ten_nhom": "G. Điều kiện tốt nghiệp",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "SA4001",
+      "ten_mon": "Hoạt động sinh viên",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]

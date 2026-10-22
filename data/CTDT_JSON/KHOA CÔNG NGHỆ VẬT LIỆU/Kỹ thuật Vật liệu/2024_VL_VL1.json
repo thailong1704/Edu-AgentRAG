@@ -1,0 +1,912 @@
+{
+  "loai_tai_lieu": "ke_hoach_giang_day",
+  "nganh": "Kỹ thuật Vật liệu",
+  "khoa": 2024,
+  "khoa_vien": "CÔNG NGHỆ VẬT LIỆU",
+  "ma_ctdt": "KTVL_2024",
+  "ma_ctdt_ghi_chu": "Mã tự sinh từ tên ngành + khoá (PDF không chứa mã CTĐT chính thức).",
+  "tong_tin_chi": 132,
+  "format_pdf": "P2",
+  "chu_thich_ky_hieu": {
+    "TQ": "Tiên quyết (Prerequisite)",
+    "SH": "Song hành (Co-requisite)",
+    "KN": "Khuyến nghị (Recommended)"
+  },
+  "chu_thich_loai_nhom": {
+    "bat_buoc": "Phải học hết mọi môn trong nhóm",
+    "chon_tin_chi": "Chỉ cần tích luỹ đủ 'so_tin_chi_yeu_cau'; các môn còn lại tuỳ chọn",
+    "tu_do": "Chọn môn bất kỳ cho đủ 'so_tin_chi_yeu_cau'",
+    "chung_chi": "Điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ"
+  },
+  "chu_thich_truong_nhom": {
+    "tin_chi_hoc_ky": "Tổng tín chỉ của học kỳ do PDF công bố.",
+    "tin_chi_tu_cong": "Tổng tín chỉ học kỳ do parser tự cộng (để đối chiếu).",
+    "tong_tin_chi_nhom": "Tín chỉ nhóm đóng góp (bắt buộc: tổng TC các môn; chọn/tự do: số TC yêu cầu).",
+    "so_tin_chi_yeu_cau": "Số TC tối thiểu phải tích luỹ (nhóm chon_tin_chi/tu_do).",
+    "tin_chi_kha_dung": "Tổng TC toàn bộ môn được phép chọn trong nhóm.",
+    "hoc_ky": "Học kỳ khuyến nghị học môn này theo kế hoạch giảng dạy."
+  },
+  "chuong_trinh": [
+    {
+      "ten_chuong_trinh": "Chuẩn",
+      "hoc_ky": [
+        {
+          "so_hoc_ky": 5,
+          "ten_hoc_ky": "Học kỳ 5 (Semester 5)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk5_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1033",
+                  "ten": "Kinh tế Chính trị Mác - Lênin",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1031",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3101",
+                  "ten": "Truyền nhiệt và Truyền khối",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "tong_tin_chi_nhom": 5
+            },
+            {
+              "ma_nhom": "hk5_tu_chon_tu_do",
+              "ten": "Tự chọn tự do",
+              "loai": "tu_do",
+              "mon": [
+                {
+                  "ma": "CSCNK",
+                  "ten": "Cơ sở Chuyên ngành KTVL 1",
+                  "tin_chi": 9,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3161",
+                  "ten": "Khoa học và công nghệ vật liệu polyme",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3163",
+                  "ten": "Công nghệ vật liệu ceramic từ cơ bản đến hiện đại",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3159",
+                  "ten": "Mô phỏng trong kỹ thuật vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3103",
+                  "ten": "Kim loại học và Nhiệt luyện",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3105",
+                  "ten": "Luyện kim đen",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA2013",
+                  "ten": "Các nguồn Năng lượng Tái tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA2011",
+                  "ten": "Điện hóa học",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3007",
+                  "ten": "Phương pháp Đánh giá Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA2007",
+                  "ten": "Hóa học Polyme",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA2015",
+                  "ten": "Hóa lý Polymer",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3121",
+                  "ten": "Thí nghiệm Hóa học Polyme",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2007",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3123",
+                  "ten": "Thí nghiệm Hóa lý Polyme",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2015",
+                      "loai": "SH",
+                      "loai_mo_ta": "Song hành (Co-requisite)"
+                    },
+                    {
+                      "ma": "MA2037",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3167",
+                  "ten": "Hóa lý silicat",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3169",
+                  "ten": "Thực hành hóa lý silicat",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                },
+                {
+                  "ma": "MA3089",
+                  "ten": "Quá trình và Thiết bị Cơ, Nhiệt",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 5
+                }
+              ],
+              "so_tin_chi_yeu_cau": 12,
+              "tong_tin_chi_nhom": 12,
+              "tin_chi_kha_dung": 51
+            }
+          ],
+          "tin_chi_tu_cong": 17
+        },
+        {
+          "so_hoc_ky": 6,
+          "ten_hoc_ky": "Học kỳ 6 (Semester 6)",
+          "tin_chi_hoc_ky": 16,
+          "nhom": [
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1035",
+                  "ten": "Chủ nghĩa Xã hội Khoa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1033",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3083",
+                  "ten": "Cơ học Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3325",
+                  "ten": "Thực tập Ngoài trường",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 7
+            },
+            {
+              "ma_nhom": "hk6_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA3165",
+                  "ten": "Vật liệu kim loaị và các quá trình công nghệ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3171",
+                  "ten": "Phương pháp phân tích và đánh giá vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3165",
+                  "ten": "Vật liệu kim loaị và các quá trình công nghệ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3171",
+                  "ten": "Phương pháp phân tích và đánh giá vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3095",
+                  "ten": "Lý Thuyết và Công nghệ đúc",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3109",
+                  "ten": "Thí nghiệm Đúc",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3011",
+                  "ten": "Hóa học Xúc tác",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3149",
+                  "ten": "Thí nghiệm Chế tạo các hệ Năng lượng",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3099",
+                  "ten": "Thí nghiệm Điện hóa học",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3009",
+                  "ten": "Công nghệ Cao su",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3019",
+                  "ten": "Kỹ thuật Sản xuất các chất Cao phân tử",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA2007",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3093",
+                  "ten": "Công nghệ Gốm sứ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3093",
+                  "ten": "Công nghệ Gốm sứ",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3035",
+                  "ten": "Thí nghiệm Silicat đại cương",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                },
+                {
+                  "ma": "MA3039",
+                  "ten": "Kỹ thuật Sản xuất các Sản phẩm Thủy tinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 6
+                }
+              ],
+              "tong_tin_chi_nhom": 40
+            },
+            {
+              "ma_nhom": "hk6_tu_chon_tu_do",
+              "ten": "Tự chọn tự do",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 0
+            }
+          ],
+          "tin_chi_tu_cong": 47
+        },
+        {
+          "so_hoc_ky": 7,
+          "ten_hoc_ky": "Học kỳ 7 (Semester 7)",
+          "tin_chi_hoc_ky": 17,
+          "nhom": [
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "SP1039",
+                  "ten": "Lịch sử Đảng Cộng sản Việt Nam",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1035",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4065",
+                  "ten": "Đo lường và Tự động hóa",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4071",
+                  "ten": "Đồ án Chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 7
+            },
+            {
+              "ma_nhom": "hk7_cac_hoc_phan_bat_buoc",
+              "ten": "Các học phần bắt buộc",
+              "loai": "bat_buoc",
+              "mon": [
+                {
+                  "ma": "MA4181",
+                  "ten": "Vật liệu & Công nghệ nano",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4183",
+                  "ten": "Vật liệu và Công nghệ Bán dẫn",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4103",
+                  "ten": "Luyện kim màu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4125",
+                  "ten": "Tạo hình Kim loại",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA3031",
+                  "ten": "Vật liệu Chuyển hóa và Tồn trữ Năng lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4111",
+                  "ten": "Thí nghiệm Phân tích Hóa lý",
+                  "tin_chi": 1,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4113",
+                  "ten": "Vật liệu Tiên tiến trong các Hệ năng lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4067",
+                  "ten": "Kỹ thuật Gia công Polyme",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "MA3019",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    },
+                    {
+                      "ma": "MA2015",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4069",
+                  "ten": "Các Tính chất của Vật liệu Polyme",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA3051",
+                  "ten": "Thí nghiệm Silicat Chuyên ngành",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4087",
+                  "ten": "Công nghệ Xi-măng, Bê tông",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "tong_tin_chi_nhom": 34
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_chuyen_nganh_ktvl_toi_th",
+              "ten": "Các môn tự chọn chuyên ngành KTVL (Tối thiểu 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA4185",
+                  "ten": "Vật liệu sinh học và ứng dụng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4187",
+                  "ten": "Vật liệu và công nghệ in 3D",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4189",
+                  "ten": "Vật liệu thông minh và đa chức năng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4191",
+                  "ten": "Vật liệu ứng dụng cho công nghệ năng lượng bền vững",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 12
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_nhom_chuyen_nganh_ktvl_k",
+              "ten": "Các môn tự chọn nhóm chuyên ngành KTVL Kim loại (Tối thiểu 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA4127",
+                  "ten": "Công nghệ Nhiệt luyện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA3097",
+                  "ten": "Nhiễu xạ Tia X trong Nghiên cứu Cấu trúc Vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4105",
+                  "ten": "Công nghệ kim loại bột",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4107",
+                  "ten": "Ăn mòn và phá hủy trong vật liệu kim loại",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4129",
+                  "ten": "Công nghệ phun phủ kim loại",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA3021",
+                  "ten": "Nguyên lý Lò công nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4109",
+                  "ten": "Đúc liên tục",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4047",
+                  "ten": "Thiết kế Đúc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4131",
+                  "ten": "Điện hóa kim loại",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4133",
+                  "ten": "Lý thuyết và công nghệ biến dạng dẻo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4179",
+                  "ten": "Lựa chọn và Sử dụng Vật liệu Kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 33
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_nhom_chuyen_nganh_ktvl_n",
+              "ten": "Các môn tự chọn nhóm chuyên ngành KTVL Năng lượng (Tối thiểu 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA3091",
+                  "ten": "Công nghệ Chế tạo các hệ Năng lượng",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4115",
+                  "ten": "Các phương pháp gia công vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4117",
+                  "ten": "Polyme dẫn điện",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4119",
+                  "ten": "Vật liệu và Công nghệ Quang khắc",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4121",
+                  "ten": "Kỹ thuật Tính toán và Mô phỏng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 16
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_nhom_chuyen_nganh_ktvl_p",
+              "ten": "Các môn tự chọn nhóm chuyên ngành KTVL Polyme (Tối thiểu 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA4079",
+                  "ten": "Công nghệ Các chất Tạo màng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4081",
+                  "ten": "Vật liệu polyme có tính năng đặc biệt",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4083",
+                  "ten": "Vật liệu Polymer Composite",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4085",
+                  "ten": "Polyme Blend",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 12
+            },
+            {
+              "ma_nhom": "hk7_cac_mon_tu_chon_nhom_chuyen_nganh_ktvl_s",
+              "ten": "Các môn tự chọn nhóm chuyên ngành KTVL Silicat (Tối thiểu 3 TC)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "MA2005",
+                  "ten": "Hóa học chất rắn",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4025",
+                  "ten": "Công nghệ Sản xuất Gạch Ốp, Lát - Sứ vệ sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4033",
+                  "ten": "Vật liệu Y sinh",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4089",
+                  "ten": "Vật liệu gốm kỹ thuật điện, điện tử",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4091",
+                  "ten": "Vật liệu Môi trường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4093",
+                  "ten": "Kỹ thuật sản xuất vật liệu chịu lửa",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4095",
+                  "ten": "Phụ gia công nghệ xi-măng, bê tông",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4097",
+                  "ten": "Lớp phủ ceramic",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4177",
+                  "ten": "Các phương pháp phân tích vật liệu",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "SP1037",
+                  "ten": "Tư tưởng Hồ Chí Minh",
+                  "tin_chi": 2,
+                  "tien_quyet_song_hanh": [
+                    {
+                      "ma": "SP1039",
+                      "loai": "KN",
+                      "loai_mo_ta": "Khuyến nghị (Recommended)"
+                    }
+                  ],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4123",
+                  "ten": "Phát triển Bền vững và Công nghệ Xử lý Môi trường",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "MA4327",
+                  "ten": "Đồ án Tốt nghiệp",
+                  "tin_chi": 4,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 36
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_tu_do",
+              "ten": "Tự chọn tự do",
+              "loai": "tu_do",
+              "mon": [],
+              "so_tin_chi_yeu_cau": 0,
+              "tong_tin_chi_nhom": 0,
+              "tin_chi_kha_dung": 0
+            },
+            {
+              "ma_nhom": "hk7_tu_chon_quan_ly_chon_3_tin_chi_trong_cac",
+              "ten": "Tự chọn Quản lý (chọn 3 tín chỉ trong các học phần sau)",
+              "loai": "chon_tin_chi",
+              "mon": [
+                {
+                  "ma": "IM1013",
+                  "ten": "Kinh tế học Đại cương",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "IM1027",
+                  "ten": "Kinh tế Kỹ thuật",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "IM3001",
+                  "ten": "Quản trị Kinh doanh cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "IM1021",
+                  "ten": "Khởi nghiệp",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "IM1025",
+                  "ten": "Quản lý Dự án cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "IM1023",
+                  "ten": "Quản lý Sản xuất cho Kỹ sư",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "ME1019",
+                  "ten": "Quản lý năng suất và chất lượng",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                },
+                {
+                  "ma": "IM1031",
+                  "ten": "Khởi nghiệp và đổi mới sáng tạo",
+                  "tin_chi": 3,
+                  "tien_quyet_song_hanh": [],
+                  "hoc_ky": 7
+                }
+              ],
+              "so_tin_chi_yeu_cau": 3,
+              "tong_tin_chi_nhom": 3,
+              "tin_chi_kha_dung": 24
+            }
+          ],
+          "tin_chi_tu_cong": 44
+        }
+      ],
+      "tong_tin_chi": 108,
+      "so_hoc_ky": 3
+    }
+  ]
+}

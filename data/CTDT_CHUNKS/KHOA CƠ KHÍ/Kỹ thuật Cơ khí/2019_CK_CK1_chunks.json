@@ -1,0 +1,1278 @@
+[
+  {
+    "chunk_id": "tongquan_KTCK_2019",
+    "text": "Chương trình đào tạo Cử nhân ngành Kỹ thuật Cơ khí, khoá 2019, tổng cộng 132 tín chỉ. Chương trình gồm các khối kiến thức: Toán và KH Tự nhiên, Chính trị,Kinh tế,Văn hóa,Xã hội, Nhập môn, Con người và môi trường, Ngoại ngữ, Cơ sở ngành, Tự chọn tự do, Quản lý, Chuyên ngành, Tốt nghiệp, Chứng chỉ. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: Tự chọn tự do (yêu cầu 9 tín chỉ); Nhóm tự chọn A (Quản lý) (yêu cầu 3 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "tong_tin_chi": 132
+    }
+  },
+  {
+    "chunk_id": "nhom__toan_va_kh_tu_nhien",
+    "text": "Nhóm 'Toán và KH Tự nhiên' thuộc khối Toán và KH Tự nhiên, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1005 Giải tích 2 (4 TC); MT1007 Đại số tuyến tính (3 TC); MT2013 Xác suất và thống kê (4 TC); CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm vật lý (1 TC); ME2091 Phương pháp số (3 TC); PH1005 Vật lý 2 (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 9,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1005",
+        "MT1007",
+        "MT2013",
+        "CH1003",
+        "PH1003",
+        "PH1007",
+        "ME2091",
+        "PH1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2091",
+    "text": "Môn học: Phương pháp số (mã ME2091), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2091",
+      "ten_mon": "Phương pháp số",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1005",
+    "text": "Môn học: Vật lý 2 (mã PH1005), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1005",
+      "ten_mon": "Vật lý 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chinh_tri_kinh_te_van_hoa_xa_hoi",
+    "text": "Nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội' thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa xã hội khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 6,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa xã hội khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__nhap_mon",
+    "text": "Nhóm 'Nhập môn' thuộc khối Nhập môn, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME1001 Nhập môn về kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "ME1001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1001",
+    "text": "Môn học: Nhập môn về kỹ thuật (mã ME1001), 3 tín chỉ. Thuộc khối Nhập môn > nhóm 'Nhập môn', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1001",
+      "ten_mon": "Nhập môn về kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__con_nguoi_va_moi_truong",
+    "text": "Nhóm 'Con người và môi trường' thuộc khối Con người và môi trường, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME2019 Môi trường và con người (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "ME2019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2019",
+    "text": "Môn học: Môi trường và con người (mã ME2019), 3 tín chỉ. Thuộc khối Con người và môi trường > nhóm 'Con người và môi trường', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2019",
+      "ten_mon": "Môi trường và con người",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__ngoai_ngu",
+    "text": "Nhóm 'Ngoại ngữ' thuộc khối Ngoại ngữ, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__co_so_nganh",
+    "text": "Nhóm 'Cơ sở ngành' thuộc khối Cơ sở ngành, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CI2001 Sức bền vật liệu (3 TC); CO1003 Nhập môn về lập trình (3 TC); ME1013 Thực tập cơ khí đại cương 1 (2 TC); ME1015 Nguyên lý máy (4 TC); ME2005 Trang bị điện - điện tử trong máy công nghiệp (4 TC); ME2007 Chi tiết máy (3 TC); ME2009 Kỹ thuật điều khiển tự động (3 TC); ME2013 Nhiệt động lực học và truyền nhiệt (3 TC); ME2087 Thực tập cơ khí đại cương 2 (2 TC); ME2089 Vẽ kỹ thuật cơ khí (4 TC); ME2117 Thí nghiệm cơ học máy (1 TC); ME3139 Đồ án thiết kế (2 TC); ME3141 Thực hành tự động hóa thiết kế (CAD) (1 TC); CI2003 Cơ lưu chất (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 14,
+      "ma_mon_trong_nhom": [
+        "CI2001",
+        "CO1003",
+        "ME1013",
+        "ME1015",
+        "ME2005",
+        "ME2007",
+        "ME2009",
+        "ME2013",
+        "ME2087",
+        "ME2089",
+        "ME2117",
+        "ME3139",
+        "ME3141",
+        "CI2003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2001",
+    "text": "Môn học: Sức bền vật liệu (mã CI2001), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2001",
+      "ten_mon": "Sức bền vật liệu",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CO1003",
+    "text": "Môn học: Nhập môn về lập trình (mã CO1003), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CO1003",
+      "ten_mon": "Nhập môn về lập trình",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1013",
+    "text": "Môn học: Thực tập cơ khí đại cương 1 (mã ME1013), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1013",
+      "ten_mon": "Thực tập cơ khí đại cương 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1015",
+    "text": "Môn học: Nguyên lý máy (mã ME1015), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1015",
+      "ten_mon": "Nguyên lý máy",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2005",
+    "text": "Môn học: Trang bị điện - điện tử trong máy công nghiệp (mã ME2005), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2005",
+      "ten_mon": "Trang bị điện - điện tử trong máy công nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2007",
+    "text": "Môn học: Chi tiết máy (mã ME2007), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2007",
+      "ten_mon": "Chi tiết máy",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2009",
+    "text": "Môn học: Kỹ thuật điều khiển tự động (mã ME2009), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2009",
+      "ten_mon": "Kỹ thuật điều khiển tự động",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2013",
+    "text": "Môn học: Nhiệt động lực học và truyền nhiệt (mã ME2013), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2013",
+      "ten_mon": "Nhiệt động lực học và truyền nhiệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2087",
+    "text": "Môn học: Thực tập cơ khí đại cương 2 (mã ME2087), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2087",
+      "ten_mon": "Thực tập cơ khí đại cương 2",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2089",
+    "text": "Môn học: Vẽ kỹ thuật cơ khí (mã ME2089), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2089",
+      "ten_mon": "Vẽ kỹ thuật cơ khí",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2117",
+    "text": "Môn học: Thí nghiệm cơ học máy (mã ME2117), 1 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2117",
+      "ten_mon": "Thí nghiệm cơ học máy",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3139",
+    "text": "Môn học: Đồ án thiết kế (mã ME3139), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3139",
+      "ten_mon": "Đồ án thiết kế",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3141",
+    "text": "Môn học: Thực hành tự động hóa thiết kế (CAD) (mã ME3141), 1 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3141",
+      "ten_mon": "Thực hành tự động hóa thiết kế (CAD)",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI2003",
+    "text": "Môn học: Cơ lưu chất (mã CI2003), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI2003",
+      "ten_mon": "Cơ lưu chất",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_tu_do",
+    "text": "Nhóm 'Tự chọn tự do' thuộc khối Tự chọn tự do, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Tự chọn tự do",
+      "ma_nhom": "tu_chon_tu_do",
+      "ten_nhom": "Tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_a",
+    "text": "Nhóm 'Nhóm tự chọn A (Quản lý)' thuộc khối Quản lý, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: IM1013 Kinh tế học đại cương (3 TC); IM1023 Quản lý sản xuất cho kỹ sư (3 TC); IM1025 Quản lý dự án cho kỹ sư (3 TC); IM1027 Kinh tế kỹ thuật (3 TC); IM3001 Quản trị kinh doanh cho kỹ sư (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 5,
+      "ma_mon_trong_nhom": [
+        "IM1013",
+        "IM1023",
+        "IM1025",
+        "IM1027",
+        "IM3001"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1013",
+    "text": "Môn học: Kinh tế học đại cương (mã IM1013), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1013",
+      "ten_mon": "Kinh tế học đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1023",
+    "text": "Môn học: Quản lý sản xuất cho kỹ sư (mã IM1023), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1023",
+      "ten_mon": "Quản lý sản xuất cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1025",
+    "text": "Môn học: Quản lý dự án cho kỹ sư (mã IM1025), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1025",
+      "ten_mon": "Quản lý dự án cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1027",
+    "text": "Môn học: Kinh tế kỹ thuật (mã IM1027), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1027",
+      "ten_mon": "Kinh tế kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM3001",
+    "text": "Môn học: Quản trị kinh doanh cho kỹ sư (mã IM3001), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM3001",
+      "ten_mon": "Quản trị kinh doanh cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__chuyen_nganh",
+    "text": "Nhóm 'Chuyên ngành' thuộc khối Chuyên ngành, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME2015 Vật liệu học và xử lý (3 TC); ME2071 Các quá trình chế tạo (3 TC); ME3001 Kỹ thuật thủy lực và khí nén (3 TC); ME3003 Dung sai và kỹ thuật đo (3 TC); ME3143 Thực tập kỹ thuật cơ khí (2 TC); ME4063 Công nghệ 4.0 trong lãnh vực cơ khí (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 6,
+      "ma_mon_trong_nhom": [
+        "ME2015",
+        "ME2071",
+        "ME3001",
+        "ME3003",
+        "ME3143",
+        "ME4063"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2015",
+    "text": "Môn học: Vật liệu học và xử lý (mã ME2015), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2015",
+      "ten_mon": "Vật liệu học và xử lý",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2071",
+    "text": "Môn học: Các quá trình chế tạo (mã ME2071), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2071",
+      "ten_mon": "Các quá trình chế tạo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3001",
+    "text": "Môn học: Kỹ thuật thủy lực và khí nén (mã ME3001), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3001",
+      "ten_mon": "Kỹ thuật thủy lực và khí nén",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3003",
+    "text": "Môn học: Dung sai và kỹ thuật đo (mã ME3003), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3003",
+      "ten_mon": "Dung sai và kỹ thuật đo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3143",
+    "text": "Môn học: Thực tập kỹ thuật cơ khí (mã ME3143), 2 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3143",
+      "ten_mon": "Thực tập kỹ thuật cơ khí",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4063",
+    "text": "Môn học: Công nghệ 4.0 trong lãnh vực cơ khí (mã ME4063), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4063",
+      "ten_mon": "Công nghệ 4.0 trong lãnh vực cơ khí",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tot_nghiep",
+    "text": "Nhóm 'Tốt nghiệp' thuộc khối Tốt nghiệp, ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME3135 Thực tập ngoài trường (2 TC); ME4061 Đồ án chuyên ngành (2 TC); ME4387 Đồ án tốt nghiệp (kt cơ khí) (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "ME3135",
+        "ME4061",
+        "ME4387"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3135",
+    "text": "Môn học: Thực tập ngoài trường (mã ME3135), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3135",
+      "ten_mon": "Thực tập ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4061",
+    "text": "Môn học: Đồ án chuyên ngành (mã ME4061), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4061",
+      "ten_mon": "Đồ án chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4387",
+    "text": "Môn học: Đồ án tốt nghiệp (kt cơ khí) (mã ME4387), 4 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Cơ khí khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4387",
+      "ten_mon": "Đồ án tốt nghiệp (kt cơ khí)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chung_chi",
+    "text": "Nhóm 'Chứng chỉ' thuộc khối Chứng chỉ, ngành Kỹ thuật Cơ khí khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: MI1003 Giáo dục quốc phòng (0 TC); PE1003 Giáo dục thể chất 1 (0 TC); PE1005 Giáo dục thể chất 2 (0 TC); PE1007 Giáo dục thể chất 3 (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "MI1003",
+        "PE1003",
+        "PE1005",
+        "PE1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1003",
+    "text": "Môn học: Giáo dục thể chất 1 (mã PE1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1003",
+      "ten_mon": "Giáo dục thể chất 1",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1005",
+    "text": "Môn học: Giáo dục thể chất 2 (mã PE1005), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1005",
+      "ten_mon": "Giáo dục thể chất 2",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1007",
+    "text": "Môn học: Giáo dục thể chất 3 (mã PE1007), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Cơ khí khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Cơ khí",
+      "khoa": 2019,
+      "ma_ctdt": "KTCK_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1007",
+      "ten_mon": "Giáo dục thể chất 3",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]

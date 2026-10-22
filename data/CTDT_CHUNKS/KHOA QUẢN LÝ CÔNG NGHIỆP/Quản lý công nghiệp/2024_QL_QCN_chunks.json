@@ -1,0 +1,2656 @@
+[
+  {
+    "chunk_id": "tongquan_QLCN_2024",
+    "text": "Chương trình đào tạo Cử nhân ngành Quản lý Công nghiệp, khoá 2024, tổng cộng 130 tín chỉ. Chương trình gồm các khối kiến thức: Toán & Khoa học Tự nhiên, Giáo dục chung, Cơ sở ngành, Ngành/Chuyên ngành, Tự chọn, Học phần tốt nghiệp, Giáo dục quốc phòng, Giáo dục thể chất, Điều kiện tốt nghiệp. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: E. Tự chọn (yêu cầu 9 tín chỉ); H. Giáo dục thể chất (yêu cầu 0 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "tong_tin_chi": 130
+    }
+  },
+  {
+    "chunk_id": "nhom__A",
+    "text": "Nhóm 'A. Toán & Khoa học Tự nhiên' thuộc khối Toán & Khoa học Tự nhiên, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IM1017 Thống kê trong Kinh doanh (3 TC); MT1007 Đại số Tuyến tính (3 TC); MT1017 Giải tích trong Kinh doanh (3 TC); CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); MT1009 Phương pháp tính (3 TC); CH1017 Sinh học đại cương (3 TC); EN1015 Vi sinh Vật đại cương và Thí nghiệm (4 TC); GE1013 Khoa học Trái đất (4 TC); GE1011 Địa vật Lý đại Cương + Kiến tập (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 10,
+      "ma_mon_trong_nhom": [
+        "IM1017",
+        "MT1007",
+        "MT1017",
+        "CH1003",
+        "PH1003",
+        "MT1009",
+        "CH1017",
+        "EN1015",
+        "GE1013",
+        "GE1011"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1017",
+    "text": "Môn học: Thống kê trong Kinh doanh (mã IM1017), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1017",
+      "ten_mon": "Thống kê trong Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số Tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số Tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1017",
+    "text": "Môn học: Giải tích trong Kinh doanh (mã MT1017), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1017",
+      "ten_mon": "Giải tích trong Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1009",
+    "text": "Môn học: Phương pháp tính (mã MT1009), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: MT1003.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1009",
+      "ten_mon": "Phương pháp tính",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "MT1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1017",
+    "text": "Môn học: Sinh học đại cương (mã CH1017), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1017",
+      "ten_mon": "Sinh học đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__EN1015",
+    "text": "Môn học: Vi sinh Vật đại cương và Thí nghiệm (mã EN1015), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "EN1015",
+      "ten_mon": "Vi sinh Vật đại cương và Thí nghiệm",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1013",
+    "text": "Môn học: Khoa học Trái đất (mã GE1013), 4 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1013",
+      "ten_mon": "Khoa học Trái đất",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__GE1011",
+    "text": "Môn học: Địa vật Lý đại Cương + Kiến tập (mã GE1011), 3 tín chỉ. Thuộc khối Toán & Khoa học Tự nhiên > nhóm 'A. Toán & Khoa học Tự nhiên', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Toán & Khoa học Tự nhiên",
+      "ma_nhom": "A",
+      "ten_nhom": "A. Toán & Khoa học Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "GE1011",
+      "ten_mon": "Địa vật Lý đại Cương + Kiến tập",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__B",
+    "text": "Nhóm 'B. Giáo dục chung' thuộc khối Giáo dục chung, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam Đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế Chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa Xã hội Khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC); IM1001 Giới thiệu ngành (3 TC); IM3051 Đạo đức Kinh doanh và Trách nhiệm Xã hội (3 TC); LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 12,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039",
+        "IM1001",
+        "IM3051",
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam Đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam Đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế Chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1031 (Triết học Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế Chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa Xã hội Khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1033 (Kinh tế Chính trị Mác - Lênin).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa Xã hội Khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1039 (Lịch sử Đảng Cộng sản Việt Nam).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: SP1035 (Chủ nghĩa Xã hội Khoa học).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "SP1035"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1001",
+    "text": "Môn học: Giới thiệu ngành (mã IM1001), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1001",
+      "ten_mon": "Giới thiệu ngành",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3051",
+    "text": "Môn học: Đạo đức Kinh doanh và Trách nhiệm Xã hội (mã IM3051), 3 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3051",
+      "ten_mon": "Đạo đức Kinh doanh và Trách nhiệm Xã hội",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1003 (Anh văn 1).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1005 (Anh văn 2).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Giáo dục chung > nhóm 'B. Giáo dục chung', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): LA1007 (Anh văn 3).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục chung",
+      "ma_nhom": "B",
+      "ten_nhom": "B. Giáo dục chung",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "LA1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__C",
+    "text": "Nhóm 'C. Cơ sở ngành' thuộc khối Cơ sở ngành, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IM1003 Kinh tế học Vi mô (3 TC); IM1007 Quản trị Đại cương (3 TC); IM1009 Kinh tế học Vĩ mô (3 TC); IM1015 Kế toán Tài chính (3 TC); IM1019 Tiếp thị Căn bản (3 TC); IM1029 Hệ thống Sản xuất (3 TC); IM1033 Công nghệ số trong kinh doanh (3 TC); IM2017 Hành vi Tổ chức (3 TC); IM2019 Kế toán Quản trị (3 TC); IM2031 Quản lý Sản xuất (3 TC); IM2035 Phương pháp Định lượng (3 TC); IM2029 Thực tập Nhận Thức (2 TC); IM2033 Tài chính Doanh nghiệp (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 13,
+      "ma_mon_trong_nhom": [
+        "IM1003",
+        "IM1007",
+        "IM1009",
+        "IM1015",
+        "IM1019",
+        "IM1029",
+        "IM1033",
+        "IM2017",
+        "IM2019",
+        "IM2031",
+        "IM2035",
+        "IM2029",
+        "IM2033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1003",
+    "text": "Môn học: Kinh tế học Vi mô (mã IM1003), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1003",
+      "ten_mon": "Kinh tế học Vi mô",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1007",
+    "text": "Môn học: Quản trị Đại cương (mã IM1007), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1007",
+      "ten_mon": "Quản trị Đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1009",
+    "text": "Môn học: Kinh tế học Vĩ mô (mã IM1009), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1003 (Kinh tế học Vi mô).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1009",
+      "ten_mon": "Kinh tế học Vĩ mô",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1015",
+    "text": "Môn học: Kế toán Tài chính (mã IM1015), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1015",
+      "ten_mon": "Kế toán Tài chính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1019",
+    "text": "Môn học: Tiếp thị Căn bản (mã IM1019), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1019",
+      "ten_mon": "Tiếp thị Căn bản",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1029",
+    "text": "Môn học: Hệ thống Sản xuất (mã IM1029), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1029",
+      "ten_mon": "Hệ thống Sản xuất",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM1033",
+    "text": "Môn học: Công nghệ số trong kinh doanh (mã IM1033), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM1033",
+      "ten_mon": "Công nghệ số trong kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM2017",
+    "text": "Môn học: Hành vi Tổ chức (mã IM2017), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1007 (Quản trị Đại cương).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM2017",
+      "ten_mon": "Hành vi Tổ chức",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM2019",
+    "text": "Môn học: Kế toán Quản trị (mã IM2019), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1015 (Kế toán Tài chính).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM2019",
+      "ten_mon": "Kế toán Quản trị",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1015"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM2031",
+    "text": "Môn học: Quản lý Sản xuất (mã IM2031), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM2031",
+      "ten_mon": "Quản lý Sản xuất",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM2035",
+    "text": "Môn học: Phương pháp Định lượng (mã IM2035), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM2035",
+      "ten_mon": "Phương pháp Định lượng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM2029",
+    "text": "Môn học: Thực tập Nhận Thức (mã IM2029), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM1001 (Giới thiệu ngành).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM2029",
+      "ten_mon": "Thực tập Nhận Thức",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "IM1001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM2033",
+    "text": "Môn học: Tài chính Doanh nghiệp (mã IM2033), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'C. Cơ sở ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1015 (Kế toán Tài chính), IM1009 (Kinh tế học Vĩ mô), IM1003 (Kinh tế học Vi mô).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "C",
+      "ten_nhom": "C. Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM2033",
+      "ten_mon": "Tài chính Doanh nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1015",
+        "IM1009",
+        "IM1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__D",
+    "text": "Nhóm 'D. Ngành/Chuyên ngành' thuộc khối Ngành/Chuyên ngành, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IM3047 Giao tiếp trong Kinh doanh (3 TC); IM3059 Quản lý Chiến lược (3 TC); IM3063 Quản lý Chất lượng (3 TC); IM3107 Khởi nghiệp và đổi mới sáng tạo (3 TC); IM3087 Hệ thống Thông tin Quản lý (3 TC); IM3105 Phương pháp nghiên cứu trong kinh doanh (3 TC); IM3021 Quản lý Chuỗi cung ứng (3 TC); IM3073 Điều độ Sản xuất (3 TC); IM3055 Quản lý Nhân sự (3 TC); IM3077 Quản lý Sản xuất Theo Lean và Sáu Sigma (3 TC); IM3041 Hệ Hỗ trợ Quyết định và Trí tuệ Kinh doanh (3 TC); IM3085 Tài chính Quốc tế (3 TC); IM3081 Quản trị Kinh doanh Quốc tế (3 TC); IM3075 An toàn Công nghiệp và Quản lý Rủi ro (3 TC); IM3023 Thương mại Điện tử (3 TC); IM3033 Tiếp thị giữa các Tổ chức (3 TC); IM3097 Chuyển đổi Cung ứng Kỹ thuật số (3 TC); IM3091 Phân tích và Thiết kế Chuỗi cung ứng (3 TC); IM3099 Quản lý Chuỗi cung Ứng Theo Lean (3 TC); IM3095 Quản lý Vận hành Bán lẻ (3 TC); IM3029 Quản lý Công nghệ (3 TC); IM3093 Quản lý logistics và vận chuyển quốc tế (3 TC); IM3083 Hành vi Người tiêu dùng (3 TC); IM3089 Đổi mới sản phẩm/dịch vụ (3 TC); IM3109 Tiếp thị số (3 TC); IM3009 Hệ thống Tài chính (3 TC); IM3103 Quản lý rủi ro chuỗi cung ứng (3 TC); IM3101 Quản lý Cung ứng và Thu mua Quốc tế (3 TC); IM4007 Kế hoạch Kinh doanh (3 TC); IM4035 ISO 9000 (3 TC); IM4003 Quản lý Dự án (3 TC); IM4019 Khoa học Dữ liệu trong Kinh doanh (3 TC); IM3035 Quản lý Bảo trì (3 TC); IM3021 Quản lý Chuỗi cung ứng (3 TC); IM3091 Phân tích và Thiết kế Chuỗi cung ứng (3 TC); IM3093 Quản lý logistics và vận chuyển quốc tế (3 TC); IM3095 Quản lý Vận hành Bán lẻ (3 TC); IM3097 Chuyển đổi Cung ứng Kỹ thuật số (3 TC); IM3099 Quản lý Chuỗi cung Ứng Theo Lean (3 TC); IM4003 Quản lý Dự án (3 TC); IM3103 Quản lý rủi ro chuỗi cung ứng (3 TC); IM3101 Quản lý Cung ứng và Thu mua Quốc tế (3 TC); IM3055 Quản lý Nhân sự (3 TC); IM3023 Thương mại Điện tử (3 TC); IM3083 Hành vi Người tiêu dùng (3 TC); IM3041 Hệ Hỗ trợ Quyết định và Trí tuệ Kinh doanh (3 TC); IM3085 Tài chính Quốc tế (3 TC); IM3081 Quản trị Kinh doanh Quốc tế (3 TC); IM3033 Tiếp thị giữa các Tổ chức (3 TC); IM3109 Tiếp thị số (3 TC); IM4007 Kế hoạch Kinh doanh (3 TC); IM4019 Khoa học Dữ liệu trong Kinh doanh (3 TC); IM3111 Thị trường tài chính và Phát triển bền vững (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 53,
+      "ma_mon_trong_nhom": [
+        "IM3047",
+        "IM3059",
+        "IM3063",
+        "IM3107",
+        "IM3087",
+        "IM3105",
+        "IM3021",
+        "IM3073",
+        "IM3055",
+        "IM3077",
+        "IM3041",
+        "IM3085",
+        "IM3081",
+        "IM3075",
+        "IM3023",
+        "IM3033",
+        "IM3097",
+        "IM3091",
+        "IM3099",
+        "IM3095",
+        "IM3029",
+        "IM3093",
+        "IM3083",
+        "IM3089",
+        "IM3109",
+        "IM3009",
+        "IM3103",
+        "IM3101",
+        "IM4007",
+        "IM4035",
+        "IM4003",
+        "IM4019",
+        "IM3035",
+        "IM3021",
+        "IM3091",
+        "IM3093",
+        "IM3095",
+        "IM3097",
+        "IM3099",
+        "IM4003",
+        "IM3103",
+        "IM3101",
+        "IM3055",
+        "IM3023",
+        "IM3083",
+        "IM3041",
+        "IM3085",
+        "IM3081",
+        "IM3033",
+        "IM3109",
+        "IM4007",
+        "IM4019",
+        "IM3111"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3047",
+    "text": "Môn học: Giao tiếp trong Kinh doanh (mã IM3047), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3047",
+      "ten_mon": "Giao tiếp trong Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3059",
+    "text": "Môn học: Quản lý Chiến lược (mã IM3059), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1007 (Quản trị Đại cương), IM1009 (Kinh tế học Vĩ mô).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3059",
+      "ten_mon": "Quản lý Chiến lược",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1007",
+        "IM1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3063",
+    "text": "Môn học: Quản lý Chất lượng (mã IM3063), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3063",
+      "ten_mon": "Quản lý Chất lượng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3107",
+    "text": "Môn học: Khởi nghiệp và đổi mới sáng tạo (mã IM3107), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3107",
+      "ten_mon": "Khởi nghiệp và đổi mới sáng tạo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3087",
+    "text": "Môn học: Hệ thống Thông tin Quản lý (mã IM3087), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3087",
+      "ten_mon": "Hệ thống Thông tin Quản lý",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3105",
+    "text": "Môn học: Phương pháp nghiên cứu trong kinh doanh (mã IM3105), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1019 (Tiếp thị Căn bản), IM1017 (Thống kê trong Kinh doanh).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3105",
+      "ten_mon": "Phương pháp nghiên cứu trong kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1019",
+        "IM1017"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3021",
+    "text": "Môn học: Quản lý Chuỗi cung ứng (mã IM3021), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3021",
+      "ten_mon": "Quản lý Chuỗi cung ứng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3073",
+    "text": "Môn học: Điều độ Sản xuất (mã IM3073), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM2031 (Quản lý Sản xuất), IM1029 (Hệ thống Sản xuất).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3073",
+      "ten_mon": "Điều độ Sản xuất",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM2031",
+        "IM1029"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3055",
+    "text": "Môn học: Quản lý Nhân sự (mã IM3055), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1007 (Quản trị Đại cương).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3055",
+      "ten_mon": "Quản lý Nhân sự",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3077",
+    "text": "Môn học: Quản lý Sản xuất Theo Lean và Sáu Sigma (mã IM3077), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3077",
+      "ten_mon": "Quản lý Sản xuất Theo Lean và Sáu Sigma",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3041",
+    "text": "Môn học: Hệ Hỗ trợ Quyết định và Trí tuệ Kinh doanh (mã IM3041), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3041",
+      "ten_mon": "Hệ Hỗ trợ Quyết định và Trí tuệ Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3085",
+    "text": "Môn học: Tài chính Quốc tế (mã IM3085), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM1009 (Kinh tế học Vĩ mô).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3085",
+      "ten_mon": "Tài chính Quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3081",
+    "text": "Môn học: Quản trị Kinh doanh Quốc tế (mã IM3081), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3081",
+      "ten_mon": "Quản trị Kinh doanh Quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3075",
+    "text": "Môn học: An toàn Công nghiệp và Quản lý Rủi ro (mã IM3075), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3075",
+      "ten_mon": "An toàn Công nghiệp và Quản lý Rủi ro",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3023",
+    "text": "Môn học: Thương mại Điện tử (mã IM3023), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3023",
+      "ten_mon": "Thương mại Điện tử",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3033",
+    "text": "Môn học: Tiếp thị giữa các Tổ chức (mã IM3033), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM1019 (Tiếp thị Căn bản).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3033",
+      "ten_mon": "Tiếp thị giữa các Tổ chức",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3097",
+    "text": "Môn học: Chuyển đổi Cung ứng Kỹ thuật số (mã IM3097), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3097",
+      "ten_mon": "Chuyển đổi Cung ứng Kỹ thuật số",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3091",
+    "text": "Môn học: Phân tích và Thiết kế Chuỗi cung ứng (mã IM3091), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3091",
+      "ten_mon": "Phân tích và Thiết kế Chuỗi cung ứng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3099",
+    "text": "Môn học: Quản lý Chuỗi cung Ứng Theo Lean (mã IM3099), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3099",
+      "ten_mon": "Quản lý Chuỗi cung Ứng Theo Lean",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3095",
+    "text": "Môn học: Quản lý Vận hành Bán lẻ (mã IM3095), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3095",
+      "ten_mon": "Quản lý Vận hành Bán lẻ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3029",
+    "text": "Môn học: Quản lý Công nghệ (mã IM3029), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3029",
+      "ten_mon": "Quản lý Công nghệ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3093",
+    "text": "Môn học: Quản lý logistics và vận chuyển quốc tế (mã IM3093), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3093",
+      "ten_mon": "Quản lý logistics và vận chuyển quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3083",
+    "text": "Môn học: Hành vi Người tiêu dùng (mã IM3083), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1019 (Tiếp thị Căn bản).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3083",
+      "ten_mon": "Hành vi Người tiêu dùng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3089",
+    "text": "Môn học: Đổi mới sản phẩm/dịch vụ (mã IM3089), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3089",
+      "ten_mon": "Đổi mới sản phẩm/dịch vụ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3109",
+    "text": "Môn học: Tiếp thị số (mã IM3109), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3109",
+      "ten_mon": "Tiếp thị số",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3009",
+    "text": "Môn học: Hệ thống Tài chính (mã IM3009), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM1009 (Kinh tế học Vĩ mô).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3009",
+      "ten_mon": "Hệ thống Tài chính",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3103",
+    "text": "Môn học: Quản lý rủi ro chuỗi cung ứng (mã IM3103), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3103",
+      "ten_mon": "Quản lý rủi ro chuỗi cung ứng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3101",
+    "text": "Môn học: Quản lý Cung ứng và Thu mua Quốc tế (mã IM3101), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3101",
+      "ten_mon": "Quản lý Cung ứng và Thu mua Quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4007",
+    "text": "Môn học: Kế hoạch Kinh doanh (mã IM4007), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM2033 (Tài chính Doanh nghiệp), IM1019 (Tiếp thị Căn bản).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4007",
+      "ten_mon": "Kế hoạch Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM2033",
+        "IM1019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4035",
+    "text": "Môn học: ISO 9000 (mã IM4035), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM3063 (Quản lý Chất lượng).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4035",
+      "ten_mon": "ISO 9000",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM3063"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4003",
+    "text": "Môn học: Quản lý Dự án (mã IM4003), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4003",
+      "ten_mon": "Quản lý Dự án",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4019",
+    "text": "Môn học: Khoa học Dữ liệu trong Kinh doanh (mã IM4019), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4019",
+      "ten_mon": "Khoa học Dữ liệu trong Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3035",
+    "text": "Môn học: Quản lý Bảo trì (mã IM3035), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1017 (Thống kê trong Kinh doanh), IM2031 (Quản lý Sản xuất).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3035",
+      "ten_mon": "Quản lý Bảo trì",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1017",
+        "IM2031"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3021",
+    "text": "Môn học: Quản lý Chuỗi cung ứng (mã IM3021), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3021",
+      "ten_mon": "Quản lý Chuỗi cung ứng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3091",
+    "text": "Môn học: Phân tích và Thiết kế Chuỗi cung ứng (mã IM3091), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3091",
+      "ten_mon": "Phân tích và Thiết kế Chuỗi cung ứng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3093",
+    "text": "Môn học: Quản lý logistics và vận chuyển quốc tế (mã IM3093), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3093",
+      "ten_mon": "Quản lý logistics và vận chuyển quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3095",
+    "text": "Môn học: Quản lý Vận hành Bán lẻ (mã IM3095), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3095",
+      "ten_mon": "Quản lý Vận hành Bán lẻ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3097",
+    "text": "Môn học: Chuyển đổi Cung ứng Kỹ thuật số (mã IM3097), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3097",
+      "ten_mon": "Chuyển đổi Cung ứng Kỹ thuật số",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3099",
+    "text": "Môn học: Quản lý Chuỗi cung Ứng Theo Lean (mã IM3099), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3099",
+      "ten_mon": "Quản lý Chuỗi cung Ứng Theo Lean",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4003",
+    "text": "Môn học: Quản lý Dự án (mã IM4003), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4003",
+      "ten_mon": "Quản lý Dự án",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3103",
+    "text": "Môn học: Quản lý rủi ro chuỗi cung ứng (mã IM3103), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3103",
+      "ten_mon": "Quản lý rủi ro chuỗi cung ứng",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3101",
+    "text": "Môn học: Quản lý Cung ứng và Thu mua Quốc tế (mã IM3101), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3101",
+      "ten_mon": "Quản lý Cung ứng và Thu mua Quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3055",
+    "text": "Môn học: Quản lý Nhân sự (mã IM3055), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1007 (Quản trị Đại cương).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3055",
+      "ten_mon": "Quản lý Nhân sự",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3023",
+    "text": "Môn học: Thương mại Điện tử (mã IM3023), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3023",
+      "ten_mon": "Thương mại Điện tử",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3083",
+    "text": "Môn học: Hành vi Người tiêu dùng (mã IM3083), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM1019 (Tiếp thị Căn bản).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3083",
+      "ten_mon": "Hành vi Người tiêu dùng",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3041",
+    "text": "Môn học: Hệ Hỗ trợ Quyết định và Trí tuệ Kinh doanh (mã IM3041), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3041",
+      "ten_mon": "Hệ Hỗ trợ Quyết định và Trí tuệ Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3085",
+    "text": "Môn học: Tài chính Quốc tế (mã IM3085), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM1009 (Kinh tế học Vĩ mô).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3085",
+      "ten_mon": "Tài chính Quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3081",
+    "text": "Môn học: Quản trị Kinh doanh Quốc tế (mã IM3081), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3081",
+      "ten_mon": "Quản trị Kinh doanh Quốc tế",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3033",
+    "text": "Môn học: Tiếp thị giữa các Tổ chức (mã IM3033), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM1019 (Tiếp thị Căn bản).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3033",
+      "ten_mon": "Tiếp thị giữa các Tổ chức",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM1019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3109",
+    "text": "Môn học: Tiếp thị số (mã IM3109), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3109",
+      "ten_mon": "Tiếp thị số",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4007",
+    "text": "Môn học: Kế hoạch Kinh doanh (mã IM4007), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM2033 (Tài chính Doanh nghiệp), IM1019 (Tiếp thị Căn bản).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4007",
+      "ten_mon": "Kế hoạch Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [
+        "IM2033",
+        "IM1019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4019",
+    "text": "Môn học: Khoa học Dữ liệu trong Kinh doanh (mã IM4019), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4019",
+      "ten_mon": "Khoa học Dữ liệu trong Kinh doanh",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3111",
+    "text": "Môn học: Thị trường tài chính và Phát triển bền vững (mã IM3111), 3 tín chỉ. Thuộc khối Ngành/Chuyên ngành > nhóm 'D. Ngành/Chuyên ngành', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Ngành/Chuyên ngành",
+      "ma_nhom": "D",
+      "ten_nhom": "D. Ngành/Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3111",
+      "ten_mon": "Thị trường tài chính và Phát triển bền vững",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__E",
+    "text": "Nhóm 'E. Tự chọn' thuộc khối Tự chọn, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 9 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Tự chọn",
+      "ma_nhom": "E",
+      "ten_nhom": "E. Tự chọn",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__F",
+    "text": "Nhóm 'F. Học phần tốt nghiệp' thuộc khối Học phần tốt nghiệp, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: IM3325 Thực tập Ngoài trường (2 TC); IM4033 Đồ án Chuyên ngành (2 TC); IM4327 Khóa luận Tốt nghiệp (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Học phần tốt nghiệp",
+      "ma_nhom": "F",
+      "ten_nhom": "F. Học phần tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "IM3325",
+        "IM4033",
+        "IM4327"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM3325",
+    "text": "Môn học: Thực tập Ngoài trường (mã IM3325), 2 tín chỉ. Thuộc khối Học phần tốt nghiệp > nhóm 'F. Học phần tốt nghiệp', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM2029 (Thực tập Nhận Thức).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Học phần tốt nghiệp",
+      "ma_nhom": "F",
+      "ten_nhom": "F. Học phần tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM3325",
+      "ten_mon": "Thực tập Ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "IM2029"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4033",
+    "text": "Môn học: Đồ án Chuyên ngành (mã IM4033), 2 tín chỉ. Thuộc khối Học phần tốt nghiệp > nhóm 'F. Học phần tốt nghiệp', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Khuyến nghị học trước: IM3105 (Phương pháp nghiên cứu trong kinh doanh).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Học phần tốt nghiệp",
+      "ma_nhom": "F",
+      "ten_nhom": "F. Học phần tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4033",
+      "ten_mon": "Đồ án Chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [
+        "IM3105"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__IM4327",
+    "text": "Môn học: Khóa luận Tốt nghiệp (mã IM4327), 4 tín chỉ. Thuộc khối Học phần tốt nghiệp > nhóm 'F. Học phần tốt nghiệp', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Tiên quyết (học xong trước): IM3325 (Thực tập Ngoài trường), IM4033 (Đồ án Chuyên ngành).",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Học phần tốt nghiệp",
+      "ma_nhom": "F",
+      "ten_nhom": "F. Học phần tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "IM4327",
+      "ten_mon": "Khóa luận Tốt nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [
+        "IM3325",
+        "IM4033"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__G",
+    "text": "Nhóm 'G. Giáo dục quốc phòng' thuộc khối Giáo dục quốc phòng, ngành Quản lý Công nghiệp khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: MI1003 Giáo dục Quốc phòng (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục quốc phòng",
+      "ma_nhom": "G",
+      "ten_nhom": "G. Giáo dục quốc phòng",
+      "loai_nhom": "chung_chi",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "MI1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục Quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Giáo dục quốc phòng > nhóm 'G. Giáo dục quốc phòng', ngành Quản lý Công nghiệp khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục quốc phòng",
+      "ma_nhom": "G",
+      "ten_nhom": "G. Giáo dục quốc phòng",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục Quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__H",
+    "text": "Nhóm 'H. Giáo dục thể chất' thuộc khối Giáo dục thể chất, ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: PE1009 Bóng đá (Học phần 1) (0 TC); PE1011 Bóng chuyền (Học phần 1) (0 TC); PE1013 Bóng bàn (Học phần 1) (0 TC); PE1015 Bóng rổ (Học phần 1) (0 TC); PE1017 Cầu lông (Học phần 1) (0 TC); PE1019 Bơi (học Phần 1) (0 TC); PE1021 Aerobic (học Phần 1) (0 TC); PE1023 Võ (Vovinam, Karate, Taewondo) (Học phần 1) (0 TC); PE1025 Điền kinh (Học phần 1) (0 TC); PE1027 Quần vợt (Học phần 1) (0 TC); PE1053 Cờ vua (Học phần 1) (0 TC); PE1057 Bowling (học phần 1) (0 TC); PE1061 Pickleball (học phần 1) (0 TC); PE1033 Bóng đá (Học phần 2) (0 TC); PE1035 Bóng chuyền (Học phần 2) (0 TC); PE1037 Bóng bàn (Học phần 2) (0 TC); PE1039 Bóng rổ (Học phần 2) (0 TC); PE1041 Cầu lông (Học phần 2) (0 TC); PE1043 Bơi (học Phần 2) (0 TC); PE1045 Aerobic (học Phần 2) (0 TC); PE1047 Võ (Vovinam, Karate, Taewondo) (Học phần 2) (0 TC); PE1049 Điền kinh (học phần 2) (0 TC); PE1051 Quần vợt (Học phần 2) (0 TC); PE1055 Cờ vua (học phần 2) (0 TC); PE1059 Bowling (học phần 2) (0 TC); PE1063 Pickleball (học phần 2) (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 26,
+      "ma_mon_trong_nhom": [
+        "PE1009",
+        "PE1011",
+        "PE1013",
+        "PE1015",
+        "PE1017",
+        "PE1019",
+        "PE1021",
+        "PE1023",
+        "PE1025",
+        "PE1027",
+        "PE1053",
+        "PE1057",
+        "PE1061",
+        "PE1033",
+        "PE1035",
+        "PE1037",
+        "PE1039",
+        "PE1041",
+        "PE1043",
+        "PE1045",
+        "PE1047",
+        "PE1049",
+        "PE1051",
+        "PE1055",
+        "PE1059",
+        "PE1063"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1009",
+    "text": "Môn học: Bóng đá (Học phần 1) (mã PE1009), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1009",
+      "ten_mon": "Bóng đá (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1011",
+    "text": "Môn học: Bóng chuyền (Học phần 1) (mã PE1011), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1011",
+      "ten_mon": "Bóng chuyền (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1013",
+    "text": "Môn học: Bóng bàn (Học phần 1) (mã PE1013), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1013",
+      "ten_mon": "Bóng bàn (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1015",
+    "text": "Môn học: Bóng rổ (Học phần 1) (mã PE1015), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1015",
+      "ten_mon": "Bóng rổ (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1017",
+    "text": "Môn học: Cầu lông (Học phần 1) (mã PE1017), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1017",
+      "ten_mon": "Cầu lông (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1019",
+    "text": "Môn học: Bơi (học Phần 1) (mã PE1019), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1019",
+      "ten_mon": "Bơi (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1021",
+    "text": "Môn học: Aerobic (học Phần 1) (mã PE1021), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1021",
+      "ten_mon": "Aerobic (học Phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1023",
+    "text": "Môn học: Võ (Vovinam, Karate, Taewondo) (Học phần 1) (mã PE1023), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1023",
+      "ten_mon": "Võ (Vovinam, Karate, Taewondo) (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1025",
+    "text": "Môn học: Điền kinh (Học phần 1) (mã PE1025), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1025",
+      "ten_mon": "Điền kinh (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1027",
+    "text": "Môn học: Quần vợt (Học phần 1) (mã PE1027), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1027",
+      "ten_mon": "Quần vợt (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1053",
+    "text": "Môn học: Cờ vua (Học phần 1) (mã PE1053), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1053",
+      "ten_mon": "Cờ vua (Học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1057",
+    "text": "Môn học: Bowling (học phần 1) (mã PE1057), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1057",
+      "ten_mon": "Bowling (học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1061",
+    "text": "Môn học: Pickleball (học phần 1) (mã PE1061), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1061",
+      "ten_mon": "Pickleball (học phần 1)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1033",
+    "text": "Môn học: Bóng đá (Học phần 2) (mã PE1033), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1033",
+      "ten_mon": "Bóng đá (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1035",
+    "text": "Môn học: Bóng chuyền (Học phần 2) (mã PE1035), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1035",
+      "ten_mon": "Bóng chuyền (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1037",
+    "text": "Môn học: Bóng bàn (Học phần 2) (mã PE1037), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1037",
+      "ten_mon": "Bóng bàn (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1039",
+    "text": "Môn học: Bóng rổ (Học phần 2) (mã PE1039), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1039",
+      "ten_mon": "Bóng rổ (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1041",
+    "text": "Môn học: Cầu lông (Học phần 2) (mã PE1041), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1041",
+      "ten_mon": "Cầu lông (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1043",
+    "text": "Môn học: Bơi (học Phần 2) (mã PE1043), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1043",
+      "ten_mon": "Bơi (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1045",
+    "text": "Môn học: Aerobic (học Phần 2) (mã PE1045), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1045",
+      "ten_mon": "Aerobic (học Phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1047",
+    "text": "Môn học: Võ (Vovinam, Karate, Taewondo) (Học phần 2) (mã PE1047), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1047",
+      "ten_mon": "Võ (Vovinam, Karate, Taewondo) (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1049",
+    "text": "Môn học: Điền kinh (học phần 2) (mã PE1049), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1049",
+      "ten_mon": "Điền kinh (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1051",
+    "text": "Môn học: Quần vợt (Học phần 2) (mã PE1051), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1051",
+      "ten_mon": "Quần vợt (Học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1055",
+    "text": "Môn học: Cờ vua (học phần 2) (mã PE1055), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1055",
+      "ten_mon": "Cờ vua (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1059",
+    "text": "Môn học: Bowling (học phần 2) (mã PE1059), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1059",
+      "ten_mon": "Bowling (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "mon__PE1063",
+    "text": "Môn học: Pickleball (học phần 2) (mã PE1063), 0 tín chỉ. Thuộc khối Giáo dục thể chất > nhóm 'H. Giáo dục thể chất', ngành Quản lý Công nghiệp khoá 2024. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 0 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Giáo dục thể chất",
+      "ma_nhom": "H",
+      "ten_nhom": "H. Giáo dục thể chất",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "PE1063",
+      "ten_mon": "Pickleball (học phần 2)",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 0
+    }
+  },
+  {
+    "chunk_id": "nhom__I",
+    "text": "Nhóm 'I. Điều kiện tốt nghiệp' thuộc khối Điều kiện tốt nghiệp, ngành Quản lý Công nghiệp khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: SA4001 Hoạt động sinh viên (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Điều kiện tốt nghiệp",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Điều kiện tốt nghiệp",
+      "loai_nhom": "chung_chi",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "SA4001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SA4001",
+    "text": "Môn học: Hoạt động sinh viên (mã SA4001), 0 tín chỉ. Thuộc khối Điều kiện tốt nghiệp > nhóm 'I. Điều kiện tốt nghiệp', ngành Quản lý Công nghiệp khoá 2024. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Quản lý Công nghiệp",
+      "khoa": 2024,
+      "ma_ctdt": "QLCN_2024",
+      "khoi": "Điều kiện tốt nghiệp",
+      "ma_nhom": "I",
+      "ten_nhom": "I. Điều kiện tốt nghiệp",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "SA4001",
+      "ten_mon": "Hoạt động sinh viên",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]

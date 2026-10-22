@@ -1,0 +1,1238 @@
+[
+  {
+    "chunk_id": "tongquan_KTD_2019",
+    "text": "Chương trình đào tạo Cử nhân ngành Kỹ thuật Dệt, khoá 2019, tổng cộng 131 tín chỉ. Chương trình gồm các khối kiến thức: Toán và KH Tự nhiên, Chính trị,Kinh tế,Văn hóa,Xã hội, Nhập môn, Con người và môi trường, Ngoại ngữ, Cơ sở ngành, Tự chọn tự do, Quản lý, Chuyên ngành, Tốt nghiệp, Chứng chỉ. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: Tự chọn tự do (yêu cầu 9 tín chỉ); Nhóm tự chọn A (Quản lý) (yêu cầu 3 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "tong_tin_chi": 131
+    }
+  },
+  {
+    "chunk_id": "nhom__toan_va_kh_tu_nhien",
+    "text": "Nhóm 'Toán và KH Tự nhiên' thuộc khối Toán và KH Tự nhiên, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1005 Giải tích 2 (4 TC); MT1007 Đại số tuyến tính (3 TC); MT2013 Xác suất và thống kê (4 TC); CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm vật lý (1 TC); MT1009 Phương pháp tính (3 TC); PH1005 Vật lý 2 (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 9,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1005",
+        "MT1007",
+        "MT2013",
+        "CH1003",
+        "PH1003",
+        "PH1007",
+        "MT1009",
+        "PH1005"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1009",
+    "text": "Môn học: Phương pháp tính (mã MT1009), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1009",
+      "ten_mon": "Phương pháp tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1005",
+    "text": "Môn học: Vật lý 2 (mã PH1005), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1005",
+      "ten_mon": "Vật lý 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chinh_tri_kinh_te_van_hoa_xa_hoi",
+    "text": "Nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội' thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa xã hội khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 6,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa xã hội khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__nhap_mon",
+    "text": "Nhóm 'Nhập môn' thuộc khối Nhập môn, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME1001 Nhập môn về kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "ME1001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1001",
+    "text": "Môn học: Nhập môn về kỹ thuật (mã ME1001), 3 tín chỉ. Thuộc khối Nhập môn > nhóm 'Nhập môn', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1001",
+      "ten_mon": "Nhập môn về kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__con_nguoi_va_moi_truong",
+    "text": "Nhóm 'Con người và môi trường' thuộc khối Con người và môi trường, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME2019 Môi trường và con người (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "ME2019"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2019",
+    "text": "Môn học: Môi trường và con người (mã ME2019), 3 tín chỉ. Thuộc khối Con người và môi trường > nhóm 'Con người và môi trường', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2019",
+      "ten_mon": "Môi trường và con người",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__ngoai_ngu",
+    "text": "Nhóm 'Ngoại ngữ' thuộc khối Ngoại ngữ, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__co_so_nganh",
+    "text": "Nhóm 'Cơ sở ngành' thuộc khối Cơ sở ngành, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME1003 Cơ khí đại cương (3 TC); ME2059 Polymer dệt (3 TC); ME2101 Cơ học máy (3 TC); ME2103 Khoa học vật liệu dệt (3 TC); ME2107 Thí nghiệm kiểm tra phân tích vật liệu dệt (2 TC); ME4105 CAD-CAM trong dệt may (3 TC); ME4111 Kiểm định và đánh giá chất lượng hàng dệt may (3 TC); ME4115 Công nghệ may mặc (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 8,
+      "ma_mon_trong_nhom": [
+        "ME1003",
+        "ME2059",
+        "ME2101",
+        "ME2103",
+        "ME2107",
+        "ME4105",
+        "ME4111",
+        "ME4115"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME1003",
+    "text": "Môn học: Cơ khí đại cương (mã ME1003), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME1003",
+      "ten_mon": "Cơ khí đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2059",
+    "text": "Môn học: Polymer dệt (mã ME2059), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2059",
+      "ten_mon": "Polymer dệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2101",
+    "text": "Môn học: Cơ học máy (mã ME2101), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2101",
+      "ten_mon": "Cơ học máy",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2103",
+    "text": "Môn học: Khoa học vật liệu dệt (mã ME2103), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2103",
+      "ten_mon": "Khoa học vật liệu dệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2107",
+    "text": "Môn học: Thí nghiệm kiểm tra phân tích vật liệu dệt (mã ME2107), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2107",
+      "ten_mon": "Thí nghiệm kiểm tra phân tích vật liệu dệt",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4105",
+    "text": "Môn học: CAD-CAM trong dệt may (mã ME4105), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4105",
+      "ten_mon": "CAD-CAM trong dệt may",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4111",
+    "text": "Môn học: Kiểm định và đánh giá chất lượng hàng dệt may (mã ME4111), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4111",
+      "ten_mon": "Kiểm định và đánh giá chất lượng hàng dệt may",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4115",
+    "text": "Môn học: Công nghệ may mặc (mã ME4115), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4115",
+      "ten_mon": "Công nghệ may mặc",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_tu_do",
+    "text": "Nhóm 'Tự chọn tự do' thuộc khối Tự chọn tự do, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Tự chọn tự do",
+      "ma_nhom": "tu_chon_tu_do",
+      "ten_nhom": "Tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_a",
+    "text": "Nhóm 'Nhóm tự chọn A (Quản lý)' thuộc khối Quản lý, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: IM1013 Kinh tế học đại cương (3 TC); IM1023 Quản lý sản xuất cho kỹ sư (3 TC); IM1025 Quản lý dự án cho kỹ sư (3 TC); IM1027 Kinh tế kỹ thuật (3 TC); IM3001 Quản trị kinh doanh cho kỹ sư (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 5,
+      "ma_mon_trong_nhom": [
+        "IM1013",
+        "IM1023",
+        "IM1025",
+        "IM1027",
+        "IM3001"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1013",
+    "text": "Môn học: Kinh tế học đại cương (mã IM1013), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1013",
+      "ten_mon": "Kinh tế học đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1023",
+    "text": "Môn học: Quản lý sản xuất cho kỹ sư (mã IM1023), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1023",
+      "ten_mon": "Quản lý sản xuất cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1025",
+    "text": "Môn học: Quản lý dự án cho kỹ sư (mã IM1025), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1025",
+      "ten_mon": "Quản lý dự án cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1027",
+    "text": "Môn học: Kinh tế kỹ thuật (mã IM1027), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1027",
+      "ten_mon": "Kinh tế kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM3001",
+    "text": "Môn học: Quản trị kinh doanh cho kỹ sư (mã IM3001), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn A (Quản lý)', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM3001",
+      "ten_mon": "Quản trị kinh doanh cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__chuyen_nganh",
+    "text": "Nhóm 'Chuyên ngành' thuộc khối Chuyên ngành, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME2061 Công nghệ sợi 1 (3 TC); ME2127 Công nghệ dệt thoi (3 TC); ME3047 Công nghệ không dệt (3 TC); ME3055 Công nghệ sợi 2 (4 TC); ME3061 Hóa học thuốc nhuộm (3 TC); ME3063 Công nghệ dệt kim (3 TC); ME3067 Công nghệ nhuộm hoàn tất vải (3 TC); ME3081 Thiết bị sợi dệt (3 TC); ME3169 Thực tập kỹ thuật dệt (2 TC); ME3171 Cấu trúc vải (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 10,
+      "ma_mon_trong_nhom": [
+        "ME2061",
+        "ME2127",
+        "ME3047",
+        "ME3055",
+        "ME3061",
+        "ME3063",
+        "ME3067",
+        "ME3081",
+        "ME3169",
+        "ME3171"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2061",
+    "text": "Môn học: Công nghệ sợi 1 (mã ME2061), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2061",
+      "ten_mon": "Công nghệ sợi 1",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME2127",
+    "text": "Môn học: Công nghệ dệt thoi (mã ME2127), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME2127",
+      "ten_mon": "Công nghệ dệt thoi",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3047",
+    "text": "Môn học: Công nghệ không dệt (mã ME3047), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3047",
+      "ten_mon": "Công nghệ không dệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3055",
+    "text": "Môn học: Công nghệ sợi 2 (mã ME3055), 4 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3055",
+      "ten_mon": "Công nghệ sợi 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3061",
+    "text": "Môn học: Hóa học thuốc nhuộm (mã ME3061), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3061",
+      "ten_mon": "Hóa học thuốc nhuộm",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3063",
+    "text": "Môn học: Công nghệ dệt kim (mã ME3063), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3063",
+      "ten_mon": "Công nghệ dệt kim",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3067",
+    "text": "Môn học: Công nghệ nhuộm hoàn tất vải (mã ME3067), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3067",
+      "ten_mon": "Công nghệ nhuộm hoàn tất vải",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3081",
+    "text": "Môn học: Thiết bị sợi dệt (mã ME3081), 3 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3081",
+      "ten_mon": "Thiết bị sợi dệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3169",
+    "text": "Môn học: Thực tập kỹ thuật dệt (mã ME3169), 2 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3169",
+      "ten_mon": "Thực tập kỹ thuật dệt",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3171",
+    "text": "Môn học: Cấu trúc vải (mã ME3171), 4 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3171",
+      "ten_mon": "Cấu trúc vải",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tot_nghiep",
+    "text": "Nhóm 'Tốt nghiệp' thuộc khối Tốt nghiệp, ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: ME3131 Thực tập ngoài trường (2 TC); ME4113 Đồ án 1 (2 TC); ME4347 Đồ án tốt nghiệp (kt dệt) (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "ME3131",
+        "ME4113",
+        "ME4347"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME3131",
+    "text": "Môn học: Thực tập ngoài trường (mã ME3131), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME3131",
+      "ten_mon": "Thực tập ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4113",
+    "text": "Môn học: Đồ án 1 (mã ME4113), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4113",
+      "ten_mon": "Đồ án 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__ME4347",
+    "text": "Môn học: Đồ án tốt nghiệp (kt dệt) (mã ME4347), 4 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Kỹ thuật Dệt khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "ME4347",
+      "ten_mon": "Đồ án tốt nghiệp (kt dệt)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chung_chi",
+    "text": "Nhóm 'Chứng chỉ' thuộc khối Chứng chỉ, ngành Kỹ thuật Dệt khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: MI1003 Giáo dục quốc phòng (0 TC); PE1003 Giáo dục thể chất 1 (0 TC); PE1005 Giáo dục thể chất 2 (0 TC); PE1007 Giáo dục thể chất 3 (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "MI1003",
+        "PE1003",
+        "PE1005",
+        "PE1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Dệt khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1003",
+    "text": "Môn học: Giáo dục thể chất 1 (mã PE1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Dệt khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1003",
+      "ten_mon": "Giáo dục thể chất 1",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1005",
+    "text": "Môn học: Giáo dục thể chất 2 (mã PE1005), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Dệt khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1005",
+      "ten_mon": "Giáo dục thể chất 2",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1007",
+    "text": "Môn học: Giáo dục thể chất 3 (mã PE1007), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Kỹ thuật Dệt khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Kỹ thuật Dệt",
+      "khoa": 2019,
+      "ma_ctdt": "KTD_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1007",
+      "ten_mon": "Giáo dục thể chất 3",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]

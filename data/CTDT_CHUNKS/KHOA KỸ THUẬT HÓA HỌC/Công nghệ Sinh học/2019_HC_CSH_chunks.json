@@ -1,0 +1,1320 @@
+[
+  {
+    "chunk_id": "tongquan_CNSH_2019",
+    "text": "Chương trình đào tạo Cử nhân ngành Công nghệ Sinh học, khoá 2019, tổng cộng 132 tín chỉ. Chương trình gồm các khối kiến thức: Toán và KH Tự nhiên, Chính trị,Kinh tế,Văn hóa,Xã hội, Nhập môn, Con người và môi trường, Ngoại ngữ, Cơ sở ngành, Tự chọn tự do, Quản lý, Chuyên ngành, Tốt nghiệp, Chứng chỉ. Các nhóm tự chọn và số tín chỉ yêu cầu tương ứng: Tự chọn tự do (yêu cầu 9 tín chỉ); Nhóm tự chọn A (Cơ sở ngành) (yêu cầu 4 tín chỉ); Nhóm tự chọn B (Cơ sở ngành) (yêu cầu 4 tín chỉ); Nhóm tự chọn C (Quản lý) (yêu cầu 3 tín chỉ).",
+    "metadata": {
+      "source": null,
+      "loai_chunk": "tong_quan",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "tong_tin_chi": 132
+    }
+  },
+  {
+    "chunk_id": "nhom__toan_va_kh_tu_nhien",
+    "text": "Nhóm 'Toán và KH Tự nhiên' thuộc khối Toán và KH Tự nhiên, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: MT1003 Giải tích 1 (4 TC); MT1005 Giải tích 2 (4 TC); MT1007 Đại số tuyến tính (3 TC); MT2013 Xác suất và thống kê (4 TC); CH1003 Hóa đại cương (3 TC); PH1003 Vật lý 1 (4 TC); PH1007 Thí nghiệm vật lý (1 TC); CH2021 Hóa hữu cơ (3 TC); CH2027 Sinh học đại cương (3 TC); CH2111 Thí nghiệm hóa hữu cơ cơ bản (1 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 10,
+      "ma_mon_trong_nhom": [
+        "MT1003",
+        "MT1005",
+        "MT1007",
+        "MT2013",
+        "CH1003",
+        "PH1003",
+        "PH1007",
+        "CH2021",
+        "CH2027",
+        "CH2111"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1003",
+    "text": "Môn học: Giải tích 1 (mã MT1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1003",
+      "ten_mon": "Giải tích 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1005",
+    "text": "Môn học: Giải tích 2 (mã MT1005), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1005",
+      "ten_mon": "Giải tích 2",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT1007",
+    "text": "Môn học: Đại số tuyến tính (mã MT1007), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT1007",
+      "ten_mon": "Đại số tuyến tính",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MT2013",
+    "text": "Môn học: Xác suất và thống kê (mã MT2013), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "MT2013",
+      "ten_mon": "Xác suất và thống kê",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1003",
+    "text": "Môn học: Hóa đại cương (mã CH1003), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1003",
+      "ten_mon": "Hóa đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1003",
+    "text": "Môn học: Vật lý 1 (mã PH1003), 4 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1003",
+      "ten_mon": "Vật lý 1",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PH1007",
+    "text": "Môn học: Thí nghiệm vật lý (mã PH1007), 1 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "PH1007",
+      "ten_mon": "Thí nghiệm vật lý",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2021",
+    "text": "Môn học: Hóa hữu cơ (mã CH2021), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2021",
+      "ten_mon": "Hóa hữu cơ",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2027",
+    "text": "Môn học: Sinh học đại cương (mã CH2027), 3 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2027",
+      "ten_mon": "Sinh học đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2111",
+    "text": "Môn học: Thí nghiệm hóa hữu cơ cơ bản (mã CH2111), 1 tín chỉ. Thuộc khối Toán và KH Tự nhiên > nhóm 'Toán và KH Tự nhiên', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Toán và KH Tự nhiên",
+      "ma_nhom": "toan_va_kh_tu_nhien",
+      "ten_nhom": "Toán và KH Tự nhiên",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2111",
+      "ten_mon": "Thí nghiệm hóa hữu cơ cơ bản",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chinh_tri_kinh_te_van_hoa_xa_hoi",
+    "text": "Nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội' thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: SP1007 Pháp luật Việt Nam đại cương (2 TC); SP1031 Triết học Mác - Lênin (3 TC); SP1033 Kinh tế chính trị Mác - Lênin (2 TC); SP1035 Chủ nghĩa xã hội khoa học (2 TC); SP1037 Tư tưởng Hồ Chí Minh (2 TC); SP1039 Lịch sử Đảng Cộng sản Việt Nam (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 6,
+      "ma_mon_trong_nhom": [
+        "SP1007",
+        "SP1031",
+        "SP1033",
+        "SP1035",
+        "SP1037",
+        "SP1039"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1007",
+    "text": "Môn học: Pháp luật Việt Nam đại cương (mã SP1007), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1007",
+      "ten_mon": "Pháp luật Việt Nam đại cương",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1031",
+    "text": "Môn học: Triết học Mác - Lênin (mã SP1031), 3 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1031",
+      "ten_mon": "Triết học Mác - Lênin",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1033",
+    "text": "Môn học: Kinh tế chính trị Mác - Lênin (mã SP1033), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1033",
+      "ten_mon": "Kinh tế chính trị Mác - Lênin",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1035",
+    "text": "Môn học: Chủ nghĩa xã hội khoa học (mã SP1035), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1035",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1037",
+    "text": "Môn học: Tư tưởng Hồ Chí Minh (mã SP1037), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1037",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__SP1039",
+    "text": "Môn học: Lịch sử Đảng Cộng sản Việt Nam (mã SP1039), 2 tín chỉ. Thuộc khối Chính trị,Kinh tế,Văn hóa,Xã hội > nhóm 'Chính trị,Kinh tế,Văn hóa,Xã hội', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "ma_nhom": "chinh_tri_kinh_te_van_hoa_xa_hoi",
+      "ten_nhom": "Chính trị,Kinh tế,Văn hóa,Xã hội",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "SP1039",
+      "ten_mon": "Lịch sử Đảng Cộng sản Việt Nam",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__nhap_mon",
+    "text": "Nhóm 'Nhập môn' thuộc khối Nhập môn, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CH1001 Nhập môn về kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "CH1001"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1001",
+    "text": "Môn học: Nhập môn về kỹ thuật (mã CH1001), 3 tín chỉ. Thuộc khối Nhập môn > nhóm 'Nhập môn', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Nhập môn",
+      "ma_nhom": "nhap_mon",
+      "ten_nhom": "Nhập môn",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1001",
+      "ten_mon": "Nhập môn về kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__con_nguoi_va_moi_truong",
+    "text": "Nhóm 'Con người và môi trường' thuộc khối Con người và môi trường, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CH4097 An toàn sinh học và an toàn thực phẩm (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 1,
+      "ma_mon_trong_nhom": [
+        "CH4097"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH4097",
+    "text": "Môn học: An toàn sinh học và an toàn thực phẩm (mã CH4097), 3 tín chỉ. Thuộc khối Con người và môi trường > nhóm 'Con người và môi trường', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Con người và môi trường",
+      "ma_nhom": "con_nguoi_va_moi_truong",
+      "ten_nhom": "Con người và môi trường",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH4097",
+      "ten_mon": "An toàn sinh học và an toàn thực phẩm",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__ngoai_ngu",
+    "text": "Nhóm 'Ngoại ngữ' thuộc khối Ngoại ngữ, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: LA1003 Anh văn 1 (2 TC); LA1005 Anh văn 2 (2 TC); LA1007 Anh văn 3 (2 TC); LA1009 Anh văn 4 (2 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "LA1003",
+        "LA1005",
+        "LA1007",
+        "LA1009"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1003",
+    "text": "Môn học: Anh văn 1 (mã LA1003), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1003",
+      "ten_mon": "Anh văn 1",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1005",
+    "text": "Môn học: Anh văn 2 (mã LA1005), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1005",
+      "ten_mon": "Anh văn 2",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1007",
+    "text": "Môn học: Anh văn 3 (mã LA1007), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1007",
+      "ten_mon": "Anh văn 3",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__LA1009",
+    "text": "Môn học: Anh văn 4 (mã LA1009), 2 tín chỉ. Thuộc khối Ngoại ngữ > nhóm 'Ngoại ngữ', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Ngoại ngữ",
+      "ma_nhom": "ngoai_ngu",
+      "ten_nhom": "Ngoại ngữ",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "LA1009",
+      "ten_mon": "Anh văn 4",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__co_so_nganh",
+    "text": "Nhóm 'Cơ sở ngành' thuộc khối Cơ sở ngành, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CH1005 Hóa lý hóa keo (3 TC); CH2019 Quá trình và thiết bị cơ học (3 TC); CH2033 Hóa sinh (4 TC); CH2043 Quá trình và thiết bị truyền nhiệt (3 TC); CH2051 Quá trình và thiết bị truyền khối (3 TC); CH2113 Hóa phân tích (3 TC); CH2115 Thí nghiệm hóa phân tích (1 TC); CH3003 Vi sinh vật (+TN) (4 TC); CH3015 Thí nghiệm quá trình thiết bị (2 TC); CH4057 Đồ án công nghệ sinh học (2 TC); CI1003 Vẽ kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 11,
+      "ma_mon_trong_nhom": [
+        "CH1005",
+        "CH2019",
+        "CH2033",
+        "CH2043",
+        "CH2051",
+        "CH2113",
+        "CH2115",
+        "CH3003",
+        "CH3015",
+        "CH4057",
+        "CI1003"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH1005",
+    "text": "Môn học: Hóa lý hóa keo (mã CH1005), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH1005",
+      "ten_mon": "Hóa lý hóa keo",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2019",
+    "text": "Môn học: Quá trình và thiết bị cơ học (mã CH2019), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2019",
+      "ten_mon": "Quá trình và thiết bị cơ học",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2033",
+    "text": "Môn học: Hóa sinh (mã CH2033), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2033",
+      "ten_mon": "Hóa sinh",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2043",
+    "text": "Môn học: Quá trình và thiết bị truyền nhiệt (mã CH2043), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2043",
+      "ten_mon": "Quá trình và thiết bị truyền nhiệt",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2051",
+    "text": "Môn học: Quá trình và thiết bị truyền khối (mã CH2051), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2051",
+      "ten_mon": "Quá trình và thiết bị truyền khối",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2113",
+    "text": "Môn học: Hóa phân tích (mã CH2113), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2113",
+      "ten_mon": "Hóa phân tích",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH2115",
+    "text": "Môn học: Thí nghiệm hóa phân tích (mã CH2115), 1 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH2115",
+      "ten_mon": "Thí nghiệm hóa phân tích",
+      "tin_chi": 1,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3003",
+    "text": "Môn học: Vi sinh vật (+TN) (mã CH3003), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3003",
+      "ten_mon": "Vi sinh vật (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3015",
+    "text": "Môn học: Thí nghiệm quá trình thiết bị (mã CH3015), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3015",
+      "ten_mon": "Thí nghiệm quá trình thiết bị",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH4057",
+    "text": "Môn học: Đồ án công nghệ sinh học (mã CH4057), 2 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH4057",
+      "ten_mon": "Đồ án công nghệ sinh học",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CI1003",
+    "text": "Môn học: Vẽ kỹ thuật (mã CI1003), 3 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Cơ sở ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "co_so_nganh",
+      "ten_nhom": "Cơ sở ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CI1003",
+      "ten_mon": "Vẽ kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_tu_do",
+    "text": "Nhóm 'Tự chọn tự do' thuộc khối Tự chọn tự do, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN TỰ DO: sinh viên chọn môn bất kỳ (thường ngoài chương trình ngành) cho đủ 9 tín chỉ. Danh sách môn trong nhóm: (không liệt kê môn cụ thể).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Tự chọn tự do",
+      "ma_nhom": "tu_chon_tu_do",
+      "ten_nhom": "Tự chọn tự do",
+      "loai_nhom": "tu_do",
+      "so_mon": 0,
+      "ma_mon_trong_nhom": [],
+      "source": null,
+      "so_tin_chi_yeu_cau": 9
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_a",
+    "text": "Nhóm 'Nhóm tự chọn A (Cơ sở ngành)' thuộc khối Cơ sở ngành, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 4 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: CH3351 Sinh học tế bào (+TN) (4 TC); CH3357 Tế bào học (+TN) (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Cơ sở ngành)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 2,
+      "ma_mon_trong_nhom": [
+        "CH3351",
+        "CH3357"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 4
+    }
+  },
+  {
+    "chunk_id": "mon__CH3351",
+    "text": "Môn học: Sinh học tế bào (+TN) (mã CH3351), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Nhóm tự chọn A (Cơ sở ngành)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 4 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Cơ sở ngành)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "CH3351",
+      "ten_mon": "Sinh học tế bào (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 4
+    }
+  },
+  {
+    "chunk_id": "mon__CH3357",
+    "text": "Môn học: Tế bào học (+TN) (mã CH3357), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Nhóm tự chọn A (Cơ sở ngành)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 4 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "tu_chon_a",
+      "ten_nhom": "Nhóm tự chọn A (Cơ sở ngành)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "CH3357",
+      "ten_mon": "Tế bào học (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 4
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_b",
+    "text": "Nhóm 'Nhóm tự chọn B (Cơ sở ngành)' thuộc khối Cơ sở ngành, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 4 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: CH3361 Sinh học phân tử và di truyền (4 TC); CH3367 Di truyền học (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "tu_chon_b",
+      "ten_nhom": "Nhóm tự chọn B (Cơ sở ngành)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 2,
+      "ma_mon_trong_nhom": [
+        "CH3361",
+        "CH3367"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 4
+    }
+  },
+  {
+    "chunk_id": "mon__CH3361",
+    "text": "Môn học: Sinh học phân tử và di truyền (mã CH3361), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Nhóm tự chọn B (Cơ sở ngành)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 4 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "tu_chon_b",
+      "ten_nhom": "Nhóm tự chọn B (Cơ sở ngành)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "CH3361",
+      "ten_mon": "Sinh học phân tử và di truyền",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 4
+    }
+  },
+  {
+    "chunk_id": "mon__CH3367",
+    "text": "Môn học: Di truyền học (mã CH3367), 4 tín chỉ. Thuộc khối Cơ sở ngành > nhóm 'Nhóm tự chọn B (Cơ sở ngành)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 4 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Cơ sở ngành",
+      "ma_nhom": "tu_chon_b",
+      "ten_nhom": "Nhóm tự chọn B (Cơ sở ngành)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "CH3367",
+      "ten_mon": "Di truyền học",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 4
+    }
+  },
+  {
+    "chunk_id": "nhom__tu_chon_c",
+    "text": "Nhóm 'Nhóm tự chọn C (Quản lý)' thuộc khối Quản lý, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Danh sách môn trong nhóm: IM1013 Kinh tế học đại cương (3 TC); IM1021 Khởi nghiệp (3 TC); IM1023 Quản lý sản xuất cho kỹ sư (3 TC); IM1025 Quản lý dự án cho kỹ sư (3 TC); IM1027 Kinh tế kỹ thuật (3 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_c",
+      "ten_nhom": "Nhóm tự chọn C (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "so_mon": 5,
+      "ma_mon_trong_nhom": [
+        "IM1013",
+        "IM1021",
+        "IM1023",
+        "IM1025",
+        "IM1027"
+      ],
+      "source": null,
+      "so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1013",
+    "text": "Môn học: Kinh tế học đại cương (mã IM1013), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn C (Quản lý)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_c",
+      "ten_nhom": "Nhóm tự chọn C (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1013",
+      "ten_mon": "Kinh tế học đại cương",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1021",
+    "text": "Môn học: Khởi nghiệp (mã IM1021), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn C (Quản lý)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_c",
+      "ten_nhom": "Nhóm tự chọn C (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1021",
+      "ten_mon": "Khởi nghiệp",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1023",
+    "text": "Môn học: Quản lý sản xuất cho kỹ sư (mã IM1023), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn C (Quản lý)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_c",
+      "ten_nhom": "Nhóm tự chọn C (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1023",
+      "ten_mon": "Quản lý sản xuất cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1025",
+    "text": "Môn học: Quản lý dự án cho kỹ sư (mã IM1025), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn C (Quản lý)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_c",
+      "ten_nhom": "Nhóm tự chọn C (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1025",
+      "ten_mon": "Quản lý dự án cho kỹ sư",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "mon__IM1027",
+    "text": "Môn học: Kinh tế kỹ thuật (mã IM1027), 3 tín chỉ. Thuộc khối Quản lý > nhóm 'Nhóm tự chọn C (Quản lý)', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm TỰ CHỌN: sinh viên chỉ cần tích luỹ đủ 3 tín chỉ trong nhóm, KHÔNG bắt buộc học hết mọi môn. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Quản lý",
+      "ma_nhom": "tu_chon_c",
+      "ten_nhom": "Nhóm tự chọn C (Quản lý)",
+      "loai_nhom": "chon_tin_chi",
+      "ma_mon": "IM1027",
+      "ten_mon": "Kinh tế kỹ thuật",
+      "tin_chi": 3,
+      "tien_quyet": [],
+      "source": null,
+      "nhom_so_tin_chi_yeu_cau": 3
+    }
+  },
+  {
+    "chunk_id": "nhom__chuyen_nganh",
+    "text": "Nhóm 'Chuyên ngành' thuộc khối Chuyên ngành, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CH3019 Công nghệ tế bào (+TN) (4 TC); CH3021 Công nghệ protein - enzyme (+TN) (4 TC); CH3131 Công nghệ gen (+TN) (4 TC); CH3359 Công nghệ lên men vi sinh vật (+TN) (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "CH3019",
+        "CH3021",
+        "CH3131",
+        "CH3359"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3019",
+    "text": "Môn học: Công nghệ tế bào (+TN) (mã CH3019), 4 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3019",
+      "ten_mon": "Công nghệ tế bào (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3021",
+    "text": "Môn học: Công nghệ protein - enzyme (+TN) (mã CH3021), 4 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3021",
+      "ten_mon": "Công nghệ protein - enzyme (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3131",
+    "text": "Môn học: Công nghệ gen (+TN) (mã CH3131), 4 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3131",
+      "ten_mon": "Công nghệ gen (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3359",
+    "text": "Môn học: Công nghệ lên men vi sinh vật (+TN) (mã CH3359), 4 tín chỉ. Thuộc khối Chuyên ngành > nhóm 'Chuyên ngành', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chuyên ngành",
+      "ma_nhom": "chuyen_nganh",
+      "ten_nhom": "Chuyên ngành",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3359",
+      "ten_mon": "Công nghệ lên men vi sinh vật (+TN)",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__tot_nghiep",
+    "text": "Nhóm 'Tốt nghiệp' thuộc khối Tốt nghiệp, ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Danh sách môn trong nhóm: CH3375 Thực tập ngoài trường (2 TC); CH4095 Đồ án chuyên ngành (2 TC); CH4377 Đồ án tốt nghiệp (4 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "so_mon": 3,
+      "ma_mon_trong_nhom": [
+        "CH3375",
+        "CH4095",
+        "CH4377"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH3375",
+    "text": "Môn học: Thực tập ngoài trường (mã CH3375), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH3375",
+      "ten_mon": "Thực tập ngoài trường",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH4095",
+    "text": "Môn học: Đồ án chuyên ngành (mã CH4095), 2 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH4095",
+      "ten_mon": "Đồ án chuyên ngành",
+      "tin_chi": 2,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__CH4377",
+    "text": "Môn học: Đồ án tốt nghiệp (mã CH4377), 4 tín chỉ. Thuộc khối Tốt nghiệp > nhóm 'Tốt nghiệp', ngành Công nghệ Sinh học khoá 2019. Đây là nhóm BẮT BUỘC: sinh viên phải hoàn thành tất cả các môn trong nhóm. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Tốt nghiệp",
+      "ma_nhom": "tot_nghiep",
+      "ten_nhom": "Tốt nghiệp",
+      "loai_nhom": "bat_buoc",
+      "ma_mon": "CH4377",
+      "ten_mon": "Đồ án tốt nghiệp",
+      "tin_chi": 4,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "nhom__chung_chi",
+    "text": "Nhóm 'Chứng chỉ' thuộc khối Chứng chỉ, ngành Công nghệ Sinh học khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Danh sách môn trong nhóm: MI1003 Giáo dục quốc phòng (0 TC); PE1003 Giáo dục thể chất 1 (0 TC); PE1005 Giáo dục thể chất 2 (0 TC); PE1007 Giáo dục thể chất 3 (0 TC).",
+    "metadata": {
+      "loai_chunk": "nhom",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "so_mon": 4,
+      "ma_mon_trong_nhom": [
+        "MI1003",
+        "PE1003",
+        "PE1005",
+        "PE1007"
+      ],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__MI1003",
+    "text": "Môn học: Giáo dục quốc phòng (mã MI1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Công nghệ Sinh học khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "MI1003",
+      "ten_mon": "Giáo dục quốc phòng",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1003",
+    "text": "Môn học: Giáo dục thể chất 1 (mã PE1003), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Công nghệ Sinh học khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1003",
+      "ten_mon": "Giáo dục thể chất 1",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1005",
+    "text": "Môn học: Giáo dục thể chất 2 (mã PE1005), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Công nghệ Sinh học khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1005",
+      "ten_mon": "Giáo dục thể chất 2",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  },
+  {
+    "chunk_id": "mon__PE1007",
+    "text": "Môn học: Giáo dục thể chất 3 (mã PE1007), 0 tín chỉ. Thuộc khối Chứng chỉ > nhóm 'Chứng chỉ', ngành Công nghệ Sinh học khoá 2019. Đây là CHỨNG CHỈ điều kiện xét tốt nghiệp, KHÔNG tính vào tổng tín chỉ tích luỹ. Không có điều kiện tiên quyết/song hành.",
+    "metadata": {
+      "loai_chunk": "mon",
+      "nganh": "Công nghệ Sinh học",
+      "khoa": 2019,
+      "ma_ctdt": "CNSH_2019",
+      "khoi": "Chứng chỉ",
+      "ma_nhom": "chung_chi",
+      "ten_nhom": "Chứng chỉ",
+      "loai_nhom": "chung_chi",
+      "ma_mon": "PE1007",
+      "ten_mon": "Giáo dục thể chất 3",
+      "tin_chi": 0,
+      "tien_quyet": [],
+      "source": null
+    }
+  }
+]
